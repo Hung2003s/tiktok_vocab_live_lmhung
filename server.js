@@ -31,6 +31,20 @@ const engine = new GameEngine({ baseTopics, configStore, allTimeStore, customWor
 const tiktok = new TikTokBridge();
 
 // ------------------------------------------------------------------ bảo mật
+// Trang tĩnh (vd GitHub Pages) được phép kết nối vào server này, chỉ để XEM. Ví dụ:
+// ALLOWED_ORIGINS=https://hung2003s.github.io
+const ALLOWED_ORIGINS = (process.env.ALLOWED_ORIGINS || '')
+  .split(',')
+  .map((s) => s.trim().replace(/\/+$/, ''))
+  .filter(Boolean);
+
+// Qua đường hầm / reverse proxy (cloudflared, ngrok, Tailscale Funnel...) mọi yêu cầu đều tới từ 127.0.0.1.
+// Nếu chỉ dựa vào địa chỉ IP thì người lạ trên Internet sẽ bị coi là "máy chủ". Có header proxy = KHÔNG phải máy nội bộ.
+const PROXY_HEADERS = ['x-forwarded-for', 'x-forwarded-host', 'x-real-ip', 'forwarded', 'cf-connecting-ip', 'cf-ray', 'via', 'x-forwarded-proto'];
+function viaProxy(headers = {}) {
+  return PROXY_HEADERS.some((h) => headers[h] !== undefined);
+}
+
 function isLoopback(address) {
   return ['127.0.0.1', '::1', '::ffff:127.0.0.1'].includes(String(address || ''));
 }
@@ -42,8 +56,8 @@ function keyMatches(candidate) {
   return a.length === b.length && crypto.timingSafeEqual(a, b);
 }
 
-function canControl({ address, key }) {
-  return HOST_KEY ? keyMatches(key) : isLoopback(address);
+function canControl({ address, key, headers }) {
+  return HOST_KEY ? keyMatches(key) : isLoopback(address) && !viaProxy(headers);
 }
 
 // Chặn trang web lạ (mở trong trình duyệt của bạn) kết nối ngầm vào server rồi gửi lệnh
@@ -57,15 +71,27 @@ function sameOrigin(req) {
   }
 }
 
+// Trang tĩnh trong danh sách cho phép (chỉ để xem; lệnh điều khiển vẫn bị canControl chặn)
+function originAllowed(req) {
+  const origin = req.headers.origin;
+  return sameOrigin(req) || (origin && ALLOWED_ORIGINS.includes(origin.replace(/\/+$/, '')));
+}
+
 const app = express();
 app.disable('x-powered-by');
 const server = http.createServer(app);
 const io = new Server(server, {
-  allowRequest: (req, callback) => callback(null, sameOrigin(req)),
+  allowRequest: (req, callback) => callback(null, originAllowed(req)),
+  cors: ALLOWED_ORIGINS.length ? { origin: ALLOWED_ORIGINS } : undefined,
   maxHttpBufferSize: 64 * 1024
 });
 
 app.use((req, res, next) => {
+  const origin = req.headers.origin;
+  if (origin && ALLOWED_ORIGINS.includes(origin.replace(/\/+$/, ''))) {
+    res.setHeader('Access-Control-Allow-Origin', origin);
+    res.setHeader('Vary', 'Origin');
+  }
   res.setHeader('X-Content-Type-Options', 'nosniff');
   res.setHeader('X-Frame-Options', 'DENY'); // chống nhúng trang điều khiển vào web khác (clickjacking)
   res.setHeader('Referrer-Policy', 'no-referrer'); // không làm lộ ?key= qua header Referer
@@ -88,13 +114,13 @@ app.get('/api/info', (req, res) => {
     port: PORT,
     lanIps: getLanIPs(),
     hostKeyRequired: Boolean(HOST_KEY),
-    canControl: canControl({ address: req.socket.remoteAddress, key: req.get('x-host-key') }),
+    canControl: canControl({ address: req.socket.remoteAddress, key: req.get('x-host-key'), headers: req.headers }),
     hardware
   });
 });
 
 app.post('/api/words', (req, res) => {
-  if (!sameOrigin(req) || !canControl({ address: req.socket.remoteAddress, key: req.get('x-host-key') })) {
+  if (!sameOrigin(req) || !canControl({ address: req.socket.remoteAddress, key: req.get('x-host-key'), headers: req.headers })) {
     return res.status(403).json({ error: 'Thiết bị này không có quyền điều khiển' });
   }
   try {
@@ -132,7 +158,7 @@ const HOST_ACTIONS = new Set([
 ]);
 
 io.on('connection', (socket) => {
-  const isHost = canControl({ address: socket.handshake.address, key: socket.handshake.auth?.key });
+  const isHost = canControl({ address: socket.handshake.address, key: socket.handshake.auth?.key, headers: socket.handshake.headers });
   socket.emit('game:hello', { isHost, hostKeyRequired: Boolean(HOST_KEY) });
   socket.emit('game:state', { ...engine.snapshot(), tiktok: tiktok.snapshot() });
 

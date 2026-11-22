@@ -222,6 +222,16 @@ setTimeout(async () => {
     const localHello = await hello(`http://localhost:${PORT}`);
     test('máy chạy server (localhost) có quyền điều khiển', () => assert.strictEqual(localHello.isHost, true));
 
+    const proxiedHello = await new Promise((resolve, reject) => {
+      const s = io(`http://localhost:${PORT}`, { transports: ['websocket'], extraHeaders: { 'x-forwarded-for': '203.0.113.9' } });
+      s.on('game:hello', (h) => {
+        s.close();
+        resolve(h);
+      });
+      setTimeout(() => reject(new Error('không nhận được game:hello qua proxy')), 4000);
+    });
+    test('qua đường hầm / proxy (có x-forwarded-for) KHÔNG được điều khiển', () => assert.strictEqual(proxiedHello.isHost, false));
+
     const lanIp = info.lanIps[0];
     if (lanIp) {
       const lanHello = await hello(`http://${lanIp}:${PORT}`);
@@ -235,4 +245,4 @@ setTimeout(async () => {
     fs.rmSync(tmp, { recursive: true, force: true });
     console.log(`\n${passed} bÃ i kiá»ƒm thá»­ Ä‘áº¡t${process.exitCode ? ' â€” CÃ“ Lá»–I' : ''}\n`);
   }
-}, 2500);
+}, 4500);

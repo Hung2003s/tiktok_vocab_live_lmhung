@@ -1,7 +1,10 @@
 // Màn hình hiển thị + bảng điều khiển. Không giữ logic trò chơi: mọi thứ đến từ server (game:state).
 (() => {
   const params = new URLSearchParams(location.search);
-  const MODE = params.get('mode') === 'stream' ? 'stream' : 'host';
+  // Bản web tĩnh (GitHub Pages): config.js đặt TVL_SERVER_URL = địa chỉ server công khai, và ép chế độ chỉ xem.
+  const SERVER_URL = String(window.TVL_SERVER_URL || params.get('server') || '').replace(/\/+$/, '');
+  const STATIC_VIEWER = Boolean(window.TVL_STATIC_VIEWER);
+  const MODE = STATIC_VIEWER || params.get('mode') === 'stream' ? 'stream' : 'host';
   if (params.get('key')) {
     localStorage.setItem('tvl_host_key', params.get('key'));
     // Xoá key khỏi thanh địa chỉ / lịch sử trình duyệt sau khi đã lưu
@@ -245,7 +248,7 @@
   );
 
   // ================================================================ kết nối server
-  const socket = io({ auth: { key: HOST_KEY } });
+  const socket = io(SERVER_URL || undefined, { auth: { key: HOST_KEY } });
 
   socket.on('connect', () => el.connectionLost.classList.add('hidden'));
   socket.on('disconnect', () => el.connectionLost.classList.remove('hidden'));
@@ -749,7 +752,7 @@
       document.body.appendChild(exit);
     });
 
-    fetch('/api/info')
+    fetch(`${SERVER_URL}/api/info`)
       .then((r) => r.json())
       .then((info) => {
         const ip = info.lanIps[0] || 'IP-may-tinh';

@@ -508,7 +508,8 @@
     </section>
   </div>
 
-  <script src="/socket.io/socket.io.js"></script>
+  <script src="config.js"></script>
+<script src="/socket.io/socket.io.js"></script>
   <script>
     (() => {
       const $ = (id) => document.getElementById(id);
@@ -596,7 +597,7 @@
           : '<div class="empty-state">Chưa có câu nào hoàn thành.</div>';
       }
 
-      const socket = io();
+      const socket = io(window.TVL_SERVER_URL || undefined);
       socket.on('game:state', (s) => {
         state = s;
         render();
