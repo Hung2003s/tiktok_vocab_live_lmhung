@@ -1,0 +1,482 @@
+[
+  {
+    "word": "budget",
+    "ipa": "/ˈbʌdʒ.ɪt/",
+    "stress": "BUD-jit (Trọng âm 1)",
+    "pos": "Danh từ / Động từ (n, v)",
+    "meaningVi": "Ngân sách; lập kế hoạch chi tiêu",
+    "careerTag": "💰 Tài chính",
+    "usageExplanation": "Dùng khi nói về số tiền được phân bổ cho dự án hay phòng ban. Cũng là động từ khi lên kế hoạch chi tiêu.",
+    "collocations": [
+      "annual budget (ngân sách hằng năm)",
+      "within budget (trong ngân sách)",
+      "budget cuts (cắt giảm ngân sách)"
+    ],
+    "exampleEn": "We must finish the project within budget.",
+    "exampleVi": "Chúng ta phải hoàn thành dự án trong ngân sách."
+  },
+  {
+    "word": "employee",
+    "ipa": "/ɪmˈplɔɪ.iː/",
+    "stress": "em-PLOY-ee (Trọng âm 2)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Nhân viên, người làm công",
+    "careerTag": "👥 Nhân sự",
+    "usageExplanation": "Chỉ người được công ty thuê và trả lương. Đối lập với employer (người sử dụng lao động).",
+    "collocations": [
+      "full-time employee (nhân viên toàn thời gian)",
+      "employee benefits (phúc lợi nhân viên)",
+      "new employee (nhân viên mới)"
+    ],
+    "exampleEn": "Every new employee attends an orientation session.",
+    "exampleVi": "Mỗi nhân viên mới đều tham dự buổi định hướng."
+  },
+  {
+    "word": "promotion",
+    "ipa": "/prəˈmoʊ.ʃən/",
+    "stress": "pro-MO-tion (Trọng âm 2)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Sự thăng chức; chương trình khuyến mãi",
+    "careerTag": "👥 Nhân sự & Marketing",
+    "usageExplanation": "Có hai nghĩa phổ biến: được thăng chức hoặc chiến dịch quảng bá sản phẩm.",
+    "collocations": [
+      "get a promotion (được thăng chức)",
+      "sales promotion (khuyến mãi bán hàng)",
+      "promotion campaign (chiến dịch quảng bá)"
+    ],
+    "exampleEn": "She received a promotion after two years.",
+    "exampleVi": "Cô ấy được thăng chức sau hai năm."
+  },
+  {
+    "word": "strategy",
+    "ipa": "/ˈstræt.ə.dʒi/",
+    "stress": "STRAT-e-gy (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Chiến lược",
+    "careerTag": "📈 Kinh doanh",
+    "usageExplanation": "Kế hoạch dài hạn để đạt mục tiêu của doanh nghiệp. Hay xuất hiện trong họp lãnh đạo.",
+    "collocations": [
+      "marketing strategy (chiến lược tiếp thị)",
+      "develop a strategy (xây dựng chiến lược)",
+      "long-term strategy (chiến lược dài hạn)"
+    ],
+    "exampleEn": "Our new strategy focuses on online sales.",
+    "exampleVi": "Chiến lược mới của chúng tôi tập trung vào bán hàng trực tuyến."
+  },
+  {
+    "word": "candidate",
+    "ipa": "/ˈkæn.dɪ.dət/",
+    "stress": "CAN-di-date (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Ứng viên",
+    "careerTag": "👥 Nhân sự",
+    "usageExplanation": "Người nộp đơn xin việc hoặc ứng cử. Bộ phận tuyển dụng dùng rất thường xuyên.",
+    "collocations": [
+      "strong candidate (ứng viên mạnh)",
+      "shortlist candidates (lập danh sách rút gọn ứng viên)",
+      "job candidate (ứng viên xin việc)"
+    ],
+    "exampleEn": "The best candidate will start next month.",
+    "exampleVi": "Ứng viên tốt nhất sẽ bắt đầu vào tháng sau."
+  },
+  {
+    "word": "supervisor",
+    "ipa": "/ˈsuː.pɚ.vaɪ.zɚ/",
+    "stress": "SU-per-vi-sor (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Người giám sát, quản lý trực tiếp",
+    "careerTag": "💼 Hành chính & Quản lý",
+    "usageExplanation": "Người theo dõi và hướng dẫn công việc của nhóm nhân viên.",
+    "collocations": [
+      "report to a supervisor (báo cáo cho cấp trên)",
+      "shift supervisor (giám sát ca)",
+      "line supervisor (giám sát tuyến)"
+    ],
+    "exampleEn": "Please ask your supervisor for approval.",
+    "exampleVi": "Hãy xin sự đồng ý từ người giám sát của bạn."
+  },
+  {
+    "word": "expenses",
+    "ipa": "/ɪkˈspen.sɪz/",
+    "stress": "ex-PEN-ses (Trọng âm 2)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Các khoản chi phí",
+    "careerTag": "💰 Tài chính",
+    "usageExplanation": "Tiền chi cho hoạt động công việc, như đi công tác. Thường phải nộp hóa đơn để hoàn lại.",
+    "collocations": [
+      "travel expenses (chi phí đi lại)",
+      "cut expenses (cắt giảm chi phí)",
+      "claim expenses (xin hoàn chi phí)"
+    ],
+    "exampleEn": "The company covers all travel expenses.",
+    "exampleVi": "Công ty chi trả mọi chi phí đi lại."
+  },
+  {
+    "word": "profit",
+    "ipa": "/ˈprɑː.fɪt/",
+    "stress": "PROF-it (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Lợi nhuận",
+    "careerTag": "💰 Tài chính",
+    "usageExplanation": "Số tiền còn lại sau khi trừ chi phí. Đối lập với loss (khoản lỗ).",
+    "collocations": [
+      "net profit (lợi nhuận ròng)",
+      "make a profit (có lãi)",
+      "profit margin (biên lợi nhuận)"
+    ],
+    "exampleEn": "The firm made a huge profit this year.",
+    "exampleVi": "Công ty đã có lợi nhuận khổng lồ trong năm nay."
+  },
+  {
+    "word": "customer",
+    "ipa": "/ˈkʌs.tə.mɚ/",
+    "stress": "CUS-to-mer (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Khách hàng",
+    "careerTag": "📈 Kinh doanh",
+    "usageExplanation": "Người mua sản phẩm hoặc dịch vụ của công ty.",
+    "collocations": [
+      "loyal customer (khách hàng trung thành)",
+      "customer service (dịch vụ khách hàng)",
+      "customer feedback (phản hồi khách hàng)"
+    ],
+    "exampleEn": "Customer satisfaction is our top priority.",
+    "exampleVi": "Sự hài lòng của khách hàng là ưu tiên hàng đầu."
+  },
+  {
+    "word": "proposal",
+    "ipa": "/prəˈpoʊ.zəl/",
+    "stress": "pro-PO-sal (Trọng âm 2)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Bản đề xuất",
+    "careerTag": "💼 Hành chính & Quản lý",
+    "usageExplanation": "Tài liệu trình bày ý tưởng hoặc kế hoạch để được xem xét, chấp thuận.",
+    "collocations": [
+      "submit a proposal (nộp đề xuất)",
+      "business proposal (đề xuất kinh doanh)",
+      "reject a proposal (từ chối đề xuất)"
+    ],
+    "exampleEn": "She presented a proposal to the board.",
+    "exampleVi": "Cô ấy trình bày một bản đề xuất trước hội đồng quản trị."
+  },
+  {
+    "word": "contract",
+    "ipa": "/ˈkɑːn.trækt/",
+    "stress": "CON-tract (Trọng âm 1)",
+    "pos": "Danh từ / Động từ (n, v)",
+    "meaningVi": "Hợp đồng; ký hợp đồng",
+    "careerTag": "⚖️ Pháp lý & Nhân sự",
+    "usageExplanation": "Văn bản thỏa thuận có giá trị pháp lý giữa hai bên. Danh từ nhấn âm 1.",
+    "collocations": [
+      "sign a contract (ký hợp đồng)",
+      "terminate a contract (chấm dứt hợp đồng)",
+      "contract renewal (gia hạn hợp đồng)"
+    ],
+    "exampleEn": "They signed a two-year contract.",
+    "exampleVi": "Họ đã ký hợp đồng hai năm."
+  },
+  {
+    "word": "salary",
+    "ipa": "/ˈsæl.ɚ.i/",
+    "stress": "SAL-a-ry (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Tiền lương (theo tháng/năm)",
+    "careerTag": "👥 Nhân sự",
+    "usageExplanation": "Khoản trả cố định định kỳ cho nhân viên văn phòng.",
+    "collocations": [
+      "monthly salary (lương tháng)",
+      "salary increase (tăng lương)",
+      "negotiate salary (thương lượng lương)"
+    ],
+    "exampleEn": "He asked for a higher salary.",
+    "exampleVi": "Anh ấy đề nghị mức lương cao hơn."
+  },
+  {
+    "word": "resign",
+    "ipa": "/rɪˈzaɪn/",
+    "stress": "re-SIGN (Trọng âm 2)",
+    "pos": "Động từ (v)",
+    "meaningVi": "Từ chức, xin nghỉ việc",
+    "careerTag": "👥 Nhân sự",
+    "usageExplanation": "Chủ động rời vị trí công việc, thường nộp đơn chính thức.",
+    "collocations": [
+      "resign from a post (từ chức khỏi vị trí)",
+      "resign effective immediately (từ chức có hiệu lực ngay)",
+      "resign voluntarily (tự nguyện từ chức)"
+    ],
+    "exampleEn": "He decided to resign last week.",
+    "exampleVi": "Anh ấy quyết định từ chức vào tuần trước."
+  },
+  {
+    "word": "delegate",
+    "ipa": "/ˈdel.ə.ɡeɪt/",
+    "stress": "DEL-e-gate (Trọng âm 1)",
+    "pos": "Động từ (v)",
+    "meaningVi": "Giao việc, ủy quyền",
+    "careerTag": "💼 Quản lý",
+    "usageExplanation": "Giao một phần trách nhiệm cho người khác. Kỹ năng quan trọng của quản lý.",
+    "collocations": [
+      "delegate tasks (giao nhiệm vụ)",
+      "delegate authority (ủy quyền)",
+      "delegate responsibility (giao trách nhiệm)"
+    ],
+    "exampleEn": "Good managers know how to delegate.",
+    "exampleVi": "Người quản lý giỏi biết cách giao việc."
+  },
+  {
+    "word": "accountant",
+    "ipa": "/əˈkaʊn.t̬ənt/",
+    "stress": "ac-COUN-tant (Trọng âm 2)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Kế toán viên",
+    "careerTag": "💰 Tài chính",
+    "usageExplanation": "Người quản lý sổ sách, thuế và báo cáo tài chính của công ty.",
+    "collocations": [
+      "chartered accountant (kế toán viên công chứng)",
+      "hire an accountant (thuê kế toán)",
+      "senior accountant (kế toán cao cấp)"
+    ],
+    "exampleEn": "Our accountant prepares the tax report.",
+    "exampleVi": "Kế toán của chúng tôi chuẩn bị báo cáo thuế."
+  },
+  {
+    "word": "stakeholder",
+    "ipa": "/ˈsteɪkˌhoʊl.dɚ/",
+    "stress": "STAKE-hol-der (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Bên liên quan",
+    "careerTag": "📈 Kinh doanh",
+    "usageExplanation": "Cá nhân hay nhóm chịu ảnh hưởng bởi quyết định của công ty, như cổ đông, khách hàng.",
+    "collocations": [
+      "key stakeholders (các bên liên quan chính)",
+      "engage stakeholders (làm việc với các bên liên quan)",
+      "stakeholder meeting (họp các bên liên quan)"
+    ],
+    "exampleEn": "We must update all stakeholders weekly.",
+    "exampleVi": "Chúng ta phải cập nhật cho mọi bên liên quan hằng tuần."
+  },
+  {
+    "word": "competitor",
+    "ipa": "/kəmˈpet̬.ə.t̬ɚ/",
+    "stress": "com-PET-i-tor (Trọng âm 2)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Đối thủ cạnh tranh",
+    "careerTag": "📈 Kinh doanh & Marketing",
+    "usageExplanation": "Công ty bán sản phẩm tương tự trên cùng thị trường.",
+    "collocations": [
+      "main competitor (đối thủ chính)",
+      "outperform competitors (vượt trội đối thủ)",
+      "analyze competitors (phân tích đối thủ)"
+    ],
+    "exampleEn": "Our competitor launched a cheaper product.",
+    "exampleVi": "Đối thủ của chúng tôi đã ra mắt sản phẩm rẻ hơn."
+  },
+  {
+    "word": "advertise",
+    "ipa": "/ˈæd.vɚ.taɪz/",
+    "stress": "AD-ver-tise (Trọng âm 1)",
+    "pos": "Động từ (v)",
+    "meaningVi": "Quảng cáo",
+    "careerTag": "📣 Marketing",
+    "usageExplanation": "Giới thiệu sản phẩm hay tuyển dụng công khai qua truyền thông.",
+    "collocations": [
+      "advertise a product (quảng cáo sản phẩm)",
+      "advertise a vacancy (đăng tin tuyển dụng)",
+      "advertise online (quảng cáo trực tuyến)"
+    ],
+    "exampleEn": "They advertise on social media.",
+    "exampleVi": "Họ quảng cáo trên mạng xã hội."
+  },
+  {
+    "word": "feedback",
+    "ipa": "/ˈfiːd.bæk/",
+    "stress": "FEED-back (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Phản hồi, góp ý",
+    "careerTag": "💼 Hành chính & Nhân sự",
+    "usageExplanation": "Danh từ không đếm được, không thêm s. Dùng khi đánh giá công việc.",
+    "collocations": [
+      "give feedback (đưa ra phản hồi)",
+      "positive feedback (phản hồi tích cực)",
+      "constructive feedback (góp ý mang tính xây dựng)"
+    ],
+    "exampleEn": "I appreciate your honest feedback.",
+    "exampleVi": "Tôi trân trọng góp ý thẳng thắn của bạn."
+  },
+  {
+    "word": "outsource",
+    "ipa": "/ˈaʊt.sɔːrs/",
+    "stress": "OUT-source (Trọng âm 1)",
+    "pos": "Động từ (v)",
+    "meaningVi": "Thuê ngoài",
+    "careerTag": "📈 Kinh doanh",
+    "usageExplanation": "Giao công việc cho công ty bên ngoài thay vì tự làm.",
+    "collocations": [
+      "outsource production (thuê ngoài sản xuất)",
+      "outsource services (thuê ngoài dịch vụ)",
+      "outsource to vendors (thuê ngoài cho nhà cung cấp)"
+    ],
+    "exampleEn": "The firm decided to outsource its payroll.",
+    "exampleVi": "Công ty quyết định thuê ngoài việc tính lương."
+  },
+  {
+    "word": "quarterly",
+    "ipa": "/ˈkwɔːr.t̬ɚ.li/",
+    "stress": "QUAR-ter-ly (Trọng âm 1)",
+    "pos": "Tính từ / Trạng từ (adj, adv)",
+    "meaningVi": "Theo quý, hằng quý",
+    "careerTag": "💰 Tài chính",
+    "usageExplanation": "Diễn ra mỗi ba tháng, thường nói về báo cáo hay doanh thu.",
+    "collocations": [
+      "quarterly report (báo cáo quý)",
+      "quarterly earnings (thu nhập quý)",
+      "quarterly review (đánh giá quý)"
+    ],
+    "exampleEn": "We publish quarterly results online.",
+    "exampleVi": "Chúng tôi đăng kết quả hằng quý trực tuyến."
+  },
+  {
+    "word": "efficient",
+    "ipa": "/ɪˈfɪʃ.ənt/",
+    "stress": "ef-FI-cient (Trọng âm 2)",
+    "pos": "Tính từ (adj)",
+    "meaningVi": "Hiệu quả, làm việc năng suất",
+    "careerTag": "💼 Hành chính",
+    "usageExplanation": "Làm tốt mà ít tốn thời gian hay tiền bạc.",
+    "collocations": [
+      "efficient system (hệ thống hiệu quả)",
+      "highly efficient (rất hiệu quả)",
+      "energy efficient (tiết kiệm năng lượng)"
+    ],
+    "exampleEn": "She is an efficient project manager.",
+    "exampleVi": "Cô ấy là một quản lý dự án làm việc hiệu quả."
+  },
+  {
+    "word": "merger",
+    "ipa": "/ˈmɝː.dʒɚ/",
+    "stress": "MER-ger (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Sự sáp nhập công ty",
+    "careerTag": "📈 Kinh doanh & Tài chính",
+    "usageExplanation": "Hai công ty hợp nhất thành một. Thường đi cùng acquisition.",
+    "collocations": [
+      "announce a merger (công bố sáp nhập)",
+      "merger talks (đàm phán sáp nhập)",
+      "proposed merger (vụ sáp nhập đề xuất)"
+    ],
+    "exampleEn": "The merger created a giant company.",
+    "exampleVi": "Vụ sáp nhập đã tạo ra một công ty khổng lồ."
+  },
+  {
+    "word": "shareholder",
+    "ipa": "/ˈʃerˌhoʊl.dɚ/",
+    "stress": "SHARE-hol-der (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Cổ đông",
+    "careerTag": "💰 Tài chính",
+    "usageExplanation": "Người sở hữu cổ phần của công ty và có quyền biểu quyết.",
+    "collocations": [
+      "major shareholder (cổ đông lớn)",
+      "shareholder meeting (đại hội cổ đông)",
+      "shareholder value (giá trị cổ đông)"
+    ],
+    "exampleEn": "Shareholders approved the dividend.",
+    "exampleVi": "Các cổ đông đã chấp thuận khoản cổ tức."
+  },
+  {
+    "word": "productivity",
+    "ipa": "/ˌproʊ.dʌkˈtɪv.ə.t̬i/",
+    "stress": "pro-duc-TIV-i-ty (Trọng âm 3)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Năng suất làm việc",
+    "careerTag": "💼 Hành chính & Quản lý",
+    "usageExplanation": "Mức độ làm ra kết quả trong một khoảng thời gian.",
+    "collocations": [
+      "boost productivity (tăng năng suất)",
+      "labor productivity (năng suất lao động)",
+      "productivity gains (mức tăng năng suất)"
+    ],
+    "exampleEn": "Flexible hours improved productivity.",
+    "exampleVi": "Giờ làm linh hoạt đã cải thiện năng suất."
+  },
+  {
+    "word": "negotiation",
+    "ipa": "/nɪˌɡoʊ.ʃiˈeɪ.ʃən/",
+    "stress": "ne-go-ti-A-tion (Trọng âm 4)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Cuộc thương lượng",
+    "careerTag": "📈 Kinh doanh",
+    "usageExplanation": "Quá trình bàn bạc để đạt thỏa thuận về giá hoặc điều khoản.",
+    "collocations": [
+      "enter negotiations (bắt đầu đàm phán)",
+      "contract negotiation (đàm phán hợp đồng)",
+      "salary negotiation (thương lượng lương)"
+    ],
+    "exampleEn": "The negotiation lasted three hours.",
+    "exampleVi": "Cuộc thương lượng kéo dài ba tiếng."
+  },
+  {
+    "word": "investor",
+    "ipa": "/ɪnˈves.t̬ɚ/",
+    "stress": "in-VES-tor (Trọng âm 2)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Nhà đầu tư",
+    "careerTag": "💰 Tài chính",
+    "usageExplanation": "Người bỏ vốn vào công ty để mong sinh lời.",
+    "collocations": [
+      "attract investors (thu hút nhà đầu tư)",
+      "private investor (nhà đầu tư tư nhân)",
+      "angel investor (nhà đầu tư thiên thần)"
+    ],
+    "exampleEn": "The startup is looking for investors.",
+    "exampleVi": "Công ty khởi nghiệp đang tìm nhà đầu tư."
+  },
+  {
+    "word": "workload",
+    "ipa": "/ˈwɝːk.loʊd/",
+    "stress": "WORK-load (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Khối lượng công việc",
+    "careerTag": "💼 Hành chính & Nhân sự",
+    "usageExplanation": "Lượng việc một người phải xử lý. Hay dùng khi bàn về quá tải.",
+    "collocations": [
+      "heavy workload (khối lượng việc nặng)",
+      "reduce workload (giảm khối lượng việc)",
+      "manage workload (quản lý khối lượng việc)"
+    ],
+    "exampleEn": "My workload doubled after the layoffs.",
+    "exampleVi": "Khối lượng công việc của tôi tăng gấp đôi sau đợt sa thải."
+  },
+  {
+    "word": "headquarters",
+    "ipa": "/ˈhedˌkwɔːr.t̬ɚz/",
+    "stress": "HEAD-quar-ters (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Trụ sở chính",
+    "careerTag": "💼 Hành chính & Kinh doanh",
+    "usageExplanation": "Nơi đặt văn phòng điều hành chính của công ty, thường viết tắt HQ.",
+    "collocations": [
+      "company headquarters (trụ sở công ty)",
+      "global headquarters (trụ sở toàn cầu)",
+      "move headquarters (dời trụ sở)"
+    ],
+    "exampleEn": "The headquarters is located in Singapore.",
+    "exampleVi": "Trụ sở chính đặt tại Singapore."
+  },
+  {
+    "word": "reimburse",
+    "ipa": "/ˌriː.ɪmˈbɝːs/",
+    "stress": "re-im-BURSE (Trọng âm 3)",
+    "pos": "Động từ (v)",
+    "meaningVi": "Hoàn trả tiền đã chi",
+    "careerTag": "💰 Tài chính",
+    "usageExplanation": "Công ty trả lại tiền bạn đã tự bỏ ra cho công việc.",
+    "collocations": [
+      "reimburse expenses (hoàn chi phí)",
+      "reimburse an employee (hoàn tiền cho nhân viên)",
+      "fully reimbursed (được hoàn đầy đủ)"
+    ],
+    "exampleEn": "The company will reimburse your taxi fare.",
+    "exampleVi": "Công ty sẽ hoàn lại tiền taxi của bạn."
+  }
+]

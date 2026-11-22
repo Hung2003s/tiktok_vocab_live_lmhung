@@ -1,0 +1,482 @@
+[
+  {
+    "word": "cuisine",
+    "ipa": "/kwɪˈziːn/",
+    "stress": "cui-SINE (Trọng âm 2)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Phong cách ẩm thực, nền ẩm thực của một vùng",
+    "careerTag": "🍽️ Nhà hàng & Khách sạn",
+    "usageExplanation": "Dùng để nói về kiểu nấu ăn đặc trưng của một quốc gia hay nhà hàng. Là danh từ không đếm được trong hầu hết ngữ cảnh.",
+    "collocations": [
+      "Italian cuisine (ẩm thực Ý)",
+      "local cuisine (ẩm thực địa phương)",
+      "fine cuisine (ẩm thực cao cấp)"
+    ],
+    "exampleEn": "I love trying the local cuisine when I travel.",
+    "exampleVi": "Tôi thích thử ẩm thực địa phương khi đi du lịch."
+  },
+  {
+    "word": "buffet",
+    "ipa": "/bʊˈfeɪ/",
+    "stress": "buf-FET (Trọng âm 2)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Tiệc tự chọn món, ăn thoải mái tự phục vụ",
+    "careerTag": "🍽️ Nhà hàng & Khách sạn",
+    "usageExplanation": "Thường gặp ở khách sạn, nơi khách tự lấy món. Đi với 'breakfast buffet' rất phổ biến.",
+    "collocations": [
+      "breakfast buffet (buffet sáng)",
+      "all-you-can-eat buffet (buffet ăn thỏa thích)",
+      "buffet lunch (bữa trưa tự chọn)"
+    ],
+    "exampleEn": "The hotel serves a huge breakfast buffet every morning.",
+    "exampleVi": "Khách sạn phục vụ buffet sáng rất lớn mỗi ngày."
+  },
+  {
+    "word": "amenities",
+    "ipa": "/əˈmen.ə.tiz/",
+    "stress": "a-MEN-i-tiz (Trọng âm 2)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Các tiện nghi, tiện ích đi kèm",
+    "careerTag": "🏨 Khách sạn",
+    "usageExplanation": "Dùng khi mô tả hồ bơi, phòng gym, wifi... của khách sạn. Thường ở dạng số nhiều.",
+    "collocations": [
+      "hotel amenities (tiện nghi khách sạn)",
+      "modern amenities (tiện nghi hiện đại)",
+      "basic amenities (tiện nghi cơ bản)"
+    ],
+    "exampleEn": "The room has all the modern amenities you need.",
+    "exampleVi": "Phòng có đầy đủ tiện nghi hiện đại bạn cần."
+  },
+  {
+    "word": "concierge",
+    "ipa": "/ˌkɒn.siˈeərʒ/",
+    "stress": "con-si-ERGE (Trọng âm 3)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Nhân viên hỗ trợ khách, tư vấn tour và đặt dịch vụ",
+    "careerTag": "🏨 Khách sạn",
+    "usageExplanation": "Người ở sảnh khách sạn giúp đặt taxi, nhà hàng, vé tham quan. Hỏi họ khi cần gợi ý địa điểm.",
+    "collocations": [
+      "ask the concierge (hỏi nhân viên hỗ trợ)",
+      "concierge service (dịch vụ hỗ trợ khách)",
+      "hotel concierge (nhân viên hỗ trợ khách sạn)"
+    ],
+    "exampleEn": "The concierge booked a table at a great restaurant for us.",
+    "exampleVi": "Nhân viên hỗ trợ đã đặt cho chúng tôi một bàn ở nhà hàng tuyệt vời."
+  },
+  {
+    "word": "layover",
+    "ipa": "/ˈleɪ.əʊ.vər/",
+    "stress": "LAY-o-ver (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Thời gian dừng chờ nối chuyến",
+    "careerTag": "✈️ Sân bay & Du lịch",
+    "usageExplanation": "Khoảng chờ giữa hai chuyến bay khi quá cảnh. Khác với chuyến bay thẳng.",
+    "collocations": [
+      "a long layover (chờ nối chuyến lâu)",
+      "layover in Dubai (quá cảnh ở Dubai)",
+      "two-hour layover (chờ nối chuyến hai tiếng)"
+    ],
+    "exampleEn": "We had a six-hour layover in Singapore.",
+    "exampleVi": "Chúng tôi phải chờ nối chuyến sáu tiếng ở Singapore."
+  },
+  {
+    "word": "departure",
+    "ipa": "/dɪˈpɑː.tʃər/",
+    "stress": "de-PAR-ture (Trọng âm 2)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Sự khởi hành, chuyến đi",
+    "careerTag": "✈️ Sân bay & Du lịch",
+    "usageExplanation": "Hiển thị trên bảng thông tin sân bay cho các chuyến bay sắp cất cánh.",
+    "collocations": [
+      "departure gate (cổng khởi hành)",
+      "departure time (giờ khởi hành)",
+      "departure lounge (phòng chờ khởi hành)"
+    ],
+    "exampleEn": "Please check the departure board for your gate number.",
+    "exampleVi": "Vui lòng xem bảng khởi hành để biết số cổng của bạn."
+  },
+  {
+    "word": "customs",
+    "ipa": "/ˈkʌs.təmz/",
+    "stress": "CUS-toms (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Hải quan, nơi kiểm tra hàng hóa nhập cảnh",
+    "careerTag": "✈️ Sân bay & Du lịch",
+    "usageExplanation": "Luôn ở dạng số nhiều khi nói về cơ quan kiểm tra tại cửa khẩu.",
+    "collocations": [
+      "go through customs (qua cửa hải quan)",
+      "customs officer (nhân viên hải quan)",
+      "customs declaration (tờ khai hải quan)"
+    ],
+    "exampleEn": "We had to go through customs after landing.",
+    "exampleVi": "Chúng tôi phải qua hải quan sau khi hạ cánh."
+  },
+  {
+    "word": "passport",
+    "ipa": "/ˈpɑːs.pɔːt/",
+    "stress": "PASS-port (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Hộ chiếu",
+    "careerTag": "✈️ Sân bay & Du lịch",
+    "usageExplanation": "Giấy tờ bắt buộc khi đi nước ngoài, được kiểm tra khi làm thủ tục và nhập cảnh.",
+    "collocations": [
+      "valid passport (hộ chiếu còn hạn)",
+      "renew a passport (gia hạn hộ chiếu)",
+      "passport control (kiểm soát hộ chiếu)"
+    ],
+    "exampleEn": "Don't forget to bring your passport to the airport.",
+    "exampleVi": "Đừng quên mang hộ chiếu ra sân bay."
+  },
+  {
+    "word": "baggage",
+    "ipa": "/ˈbæɡ.ɪdʒ/",
+    "stress": "BAG-gage (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Hành lý nói chung",
+    "careerTag": "✈️ Sân bay & Du lịch",
+    "usageExplanation": "Danh từ không đếm được, dùng nhiều ở sân bay. Tương tự 'luggage'.",
+    "collocations": [
+      "baggage claim (nơi nhận hành lý)",
+      "checked baggage (hành lý ký gửi)",
+      "baggage allowance (định mức hành lý)"
+    ],
+    "exampleEn": "Please collect your baggage at carousel number five.",
+    "exampleVi": "Vui lòng nhận hành lý ở băng chuyền số năm."
+  },
+  {
+    "word": "hospitality",
+    "ipa": "/ˌhɒs.pɪˈtæl.ə.ti/",
+    "stress": "hos-pi-TAL-i-ty (Trọng âm 3)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Lòng hiếu khách; ngành dịch vụ khách sạn nhà hàng",
+    "careerTag": "🍽️ Nhà hàng & Khách sạn",
+    "usageExplanation": "Vừa chỉ sự đón tiếp nồng hậu, vừa chỉ cả ngành nhà hàng khách sạn.",
+    "collocations": [
+      "warm hospitality (sự hiếu khách nồng hậu)",
+      "hospitality industry (ngành dịch vụ lưu trú ăn uống)",
+      "show hospitality (thể hiện lòng hiếu khách)"
+    ],
+    "exampleEn": "The family welcomed us with great hospitality.",
+    "exampleVi": "Gia đình đó đón tiếp chúng tôi rất hiếu khách."
+  },
+  {
+    "word": "turbulence",
+    "ipa": "/ˈtɜː.bjə.ləns/",
+    "stress": "TUR-bu-lence (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Sự rung lắc mạnh của máy bay do nhiễu động không khí",
+    "careerTag": "✈️ Sân bay & Du lịch",
+    "usageExplanation": "Phi công thường thông báo khi gặp hiện tượng này, yêu cầu hành khách thắt dây an toàn.",
+    "collocations": [
+      "severe turbulence (rung lắc mạnh)",
+      "experience turbulence (gặp nhiễu động)",
+      "light turbulence (rung lắc nhẹ)"
+    ],
+    "exampleEn": "The plane shook because of turbulence over the mountains.",
+    "exampleVi": "Máy bay rung lắc do nhiễu động trên vùng núi."
+  },
+  {
+    "word": "reception",
+    "ipa": "/rɪˈsep.ʃən/",
+    "stress": "re-CEP-tion (Trọng âm 2)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Quầy lễ tân, bộ phận đón tiếp khách",
+    "careerTag": "🏨 Khách sạn",
+    "usageExplanation": "Chỉ quầy lễ tân ở sảnh khách sạn, nơi làm thủ tục nhận phòng và hỏi thông tin. Hay nói 'Call reception' khi cần hỗ trợ.",
+    "collocations": [
+      "reception desk (quầy lễ tân)",
+      "call reception (gọi cho lễ tân)",
+      "hotel reception (lễ tân khách sạn)"
+    ],
+    "exampleEn": "Please call reception if you need extra towels.",
+    "exampleVi": "Vui lòng gọi lễ tân nếu cần thêm khăn tắm."
+  },
+  {
+    "word": "sightseeing",
+    "ipa": "/ˈsaɪtˌsiː.ɪŋ/",
+    "stress": "SIGHT-see-ing (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Việc tham quan thắng cảnh",
+    "careerTag": "✈️ Sân bay & Du lịch",
+    "usageExplanation": "Thường đi với 'go' hoặc 'do'. Chỉ hoạt động đi xem các địa điểm nổi tiếng.",
+    "collocations": [
+      "go sightseeing (đi tham quan)",
+      "sightseeing tour (tour tham quan)",
+      "sightseeing bus (xe buýt tham quan)"
+    ],
+    "exampleEn": "We spent the day sightseeing around the old town.",
+    "exampleVi": "Chúng tôi dành cả ngày tham quan khu phố cổ."
+  },
+  {
+    "word": "destination",
+    "ipa": "/ˌdes.tɪˈneɪ.ʃən/",
+    "stress": "des-ti-NA-tion (Trọng âm 3)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Điểm đến",
+    "careerTag": "✈️ Sân bay & Du lịch",
+    "usageExplanation": "Nơi bạn muốn đến trong chuyến đi hoặc nơi chuyến bay hạ cánh.",
+    "collocations": [
+      "tourist destination (điểm đến du lịch)",
+      "popular destination (điểm đến phổ biến)",
+      "final destination (điểm đến cuối cùng)"
+    ],
+    "exampleEn": "Bali is a popular holiday destination.",
+    "exampleVi": "Bali là điểm đến nghỉ dưỡng phổ biến."
+  },
+  {
+    "word": "refund",
+    "ipa": "/ˈriː.fʌnd/",
+    "stress": "RE-fund (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Khoản tiền được hoàn lại",
+    "careerTag": "✈️ Sân bay & Du lịch",
+    "usageExplanation": "Dùng khi hủy vé hoặc đặt phòng, đòi lại tiền. Đi với 'get/request a refund'.",
+    "collocations": [
+      "full refund (hoàn tiền toàn bộ)",
+      "request a refund (yêu cầu hoàn tiền)",
+      "non-refundable (không hoàn lại)"
+    ],
+    "exampleEn": "The airline gave us a full refund after the cancellation.",
+    "exampleVi": "Hãng bay hoàn tiền toàn bộ cho chúng tôi sau khi hủy chuyến."
+  },
+  {
+    "word": "delicacy",
+    "ipa": "/ˈdel.ɪ.kə.si/",
+    "stress": "DEL-i-ca-cy (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Món ngon đặc sản, món quý hiếm",
+    "careerTag": "🍽️ Nhà hàng & Khách sạn",
+    "usageExplanation": "Chỉ món ăn đặc biệt hoặc đắt tiền của một vùng.",
+    "collocations": [
+      "local delicacy (đặc sản địa phương)",
+      "a seafood delicacy (đặc sản hải sản)",
+      "regional delicacy (đặc sản vùng miền)"
+    ],
+    "exampleEn": "Fresh crab is a local delicacy here.",
+    "exampleVi": "Cua tươi là đặc sản địa phương ở đây."
+  },
+  {
+    "word": "vegetarian",
+    "ipa": "/ˌvedʒ.əˈteə.ri.ən/",
+    "stress": "veg-e-TAIR-i-an (Trọng âm 3)",
+    "pos": "Tính từ (adj)",
+    "meaningVi": "Ăn chay, thuộc đồ chay",
+    "careerTag": "🍽️ Nhà hàng & Khách sạn",
+    "usageExplanation": "Dùng khi hỏi món không thịt. Cũng là danh từ chỉ người ăn chay.",
+    "collocations": [
+      "vegetarian dish (món chay)",
+      "vegetarian option (lựa chọn chay)",
+      "strict vegetarian (người ăn chay nghiêm ngặt)"
+    ],
+    "exampleEn": "Do you have any vegetarian options on the menu?",
+    "exampleVi": "Thực đơn có món chay nào không?"
+  },
+  {
+    "word": "hostel",
+    "ipa": "/ˈhɒs.təl/",
+    "stress": "HOS-tel (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Nhà trọ giá rẻ cho khách du lịch, ở ghép phòng",
+    "careerTag": "🏨 Khách sạn",
+    "usageExplanation": "Phổ biến với dân du lịch bụi, thường có phòng tập thể.",
+    "collocations": [
+      "youth hostel (nhà trọ thanh niên)",
+      "stay in a hostel (ở nhà trọ)",
+      "hostel dormitory (phòng tập thể nhà trọ)"
+    ],
+    "exampleEn": "We stayed in a cheap hostel near the station.",
+    "exampleVi": "Chúng tôi ở một nhà trọ rẻ gần nhà ga."
+  },
+  {
+    "word": "voucher",
+    "ipa": "/ˈvaʊ.tʃər/",
+    "stress": "VOU-cher (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Phiếu giảm giá hoặc phiếu quà tặng dùng thay tiền",
+    "careerTag": "🍽️ Nhà hàng & Khách sạn",
+    "usageExplanation": "Dùng để đổi bữa ăn, phòng hoặc dịch vụ. Hay gặp khi đặt tour.",
+    "collocations": [
+      "gift voucher (phiếu quà tặng)",
+      "hotel voucher (phiếu lưu trú)",
+      "redeem a voucher (đổi phiếu)"
+    ],
+    "exampleEn": "I used a voucher to get a free dessert.",
+    "exampleVi": "Tôi dùng phiếu để được tặng món tráng miệng."
+  },
+  {
+    "word": "excursion",
+    "ipa": "/ɪkˈskɜː.ʃən/",
+    "stress": "ex-CUR-sion (Trọng âm 2)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Chuyến đi chơi ngắn trong ngày",
+    "careerTag": "✈️ Sân bay & Du lịch",
+    "usageExplanation": "Chuyến tham quan ngắn, thường theo nhóm, nằm trong chuyến du lịch lớn hơn.",
+    "collocations": [
+      "day excursion (chuyến đi trong ngày)",
+      "go on an excursion (đi một chuyến tham quan)",
+      "boat excursion (chuyến đi thuyền)"
+    ],
+    "exampleEn": "We joined a boat excursion to the nearby islands.",
+    "exampleVi": "Chúng tôi tham gia chuyến đi thuyền tới các đảo gần đó."
+  },
+  {
+    "word": "receipt",
+    "ipa": "/rɪˈsiːt/",
+    "stress": "re-CEIPT (Trọng âm 2)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Hóa đơn, biên lai thanh toán",
+    "careerTag": "🍽️ Nhà hàng & Khách sạn",
+    "usageExplanation": "Chữ 'p' không phát âm. Khách thường xin để thanh toán công tác.",
+    "collocations": [
+      "ask for a receipt (xin hóa đơn)",
+      "keep the receipt (giữ hóa đơn)",
+      "print a receipt (in hóa đơn)"
+    ],
+    "exampleEn": "Could I have a receipt for the meal, please?",
+    "exampleVi": "Cho tôi xin hóa đơn bữa ăn được không?"
+  },
+  {
+    "word": "checkout",
+    "ipa": "/ˈtʃek.aʊt/",
+    "stress": "CHECK-out (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Việc trả phòng; giờ trả phòng",
+    "careerTag": "🏨 Khách sạn",
+    "usageExplanation": "Chỉ thủ tục rời khách sạn. Dạng động từ viết tách 'check out'.",
+    "collocations": [
+      "checkout time (giờ trả phòng)",
+      "late checkout (trả phòng muộn)",
+      "express checkout (trả phòng nhanh)"
+    ],
+    "exampleEn": "Checkout time is at noon.",
+    "exampleVi": "Giờ trả phòng là 12 giờ trưa."
+  },
+  {
+    "word": "gratuity",
+    "ipa": "/ɡrəˈtjuː.ə.ti/",
+    "stress": "gra-TU-i-ty (Trọng âm 2)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Tiền thưởng thêm cho nhân viên phục vụ, cách nói trang trọng",
+    "careerTag": "🍽️ Nhà hàng & Khách sạn",
+    "usageExplanation": "Cách nói lịch sự của tiền boa, hay in trên hóa đơn nhà hàng.",
+    "collocations": [
+      "gratuity included (đã gồm tiền boa)",
+      "add a gratuity (cộng thêm tiền boa)",
+      "automatic gratuity (phí phục vụ tự động)"
+    ],
+    "exampleEn": "A 15% gratuity is added to parties of six or more.",
+    "exampleVi": "Nhóm từ sáu người trở lên sẽ bị cộng thêm 15% tiền phục vụ."
+  },
+  {
+    "word": "sommelier",
+    "ipa": "/ˌsɒm.əlˈjeɪ/",
+    "stress": "som-el-YAY (Trọng âm 3)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Chuyên gia tư vấn rượu vang trong nhà hàng",
+    "careerTag": "🍽️ Nhà hàng & Khách sạn",
+    "usageExplanation": "Chỉ người phục vụ rượu vang chuyên nghiệp ở nhà hàng cao cấp.",
+    "collocations": [
+      "ask the sommelier (hỏi chuyên gia rượu vang)",
+      "head sommelier (trưởng bộ phận rượu vang)",
+      "sommelier recommendation (gợi ý của chuyên gia rượu)"
+    ],
+    "exampleEn": "The sommelier recommended a red wine to go with the steak.",
+    "exampleVi": "Chuyên gia rượu vang gợi ý một loại vang đỏ hợp với món bít tết."
+  },
+  {
+    "word": "waiter",
+    "ipa": "/ˈweɪ.tər/",
+    "stress": "WAI-ter (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Nam nhân viên phục vụ bàn",
+    "careerTag": "🍽️ Nhà hàng & Khách sạn",
+    "usageExplanation": "Gọi nhân viên bằng 'Excuse me'. Nữ là 'waitress'.",
+    "collocations": [
+      "call the waiter (gọi phục vụ)",
+      "head waiter (trưởng nhóm phục vụ)",
+      "attentive waiter (nhân viên chu đáo)"
+    ],
+    "exampleEn": "The waiter brought our drinks quickly.",
+    "exampleVi": "Nhân viên phục vụ mang đồ uống ra rất nhanh."
+  },
+  {
+    "word": "dessert",
+    "ipa": "/dɪˈzɜːt/",
+    "stress": "de-ZERT (Trọng âm 2)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Món tráng miệng",
+    "careerTag": "🍽️ Nhà hàng & Khách sạn",
+    "usageExplanation": "Món ngọt cuối bữa. Đừng nhầm với 'desert' (sa mạc).",
+    "collocations": [
+      "order dessert (gọi món tráng miệng)",
+      "dessert menu (thực đơn tráng miệng)",
+      "save room for dessert (chừa bụng cho món ngọt)"
+    ],
+    "exampleEn": "Would you like to see the dessert menu?",
+    "exampleVi": "Quý khách có muốn xem thực đơn tráng miệng không?"
+  },
+  {
+    "word": "arrival",
+    "ipa": "/əˈraɪ.vəl/",
+    "stress": "a-RI-val (Trọng âm 2)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Sự đến nơi, lúc đến",
+    "careerTag": "✈️ Sân bay & Du lịch",
+    "usageExplanation": "Chỉ thời điểm đến sân bay hay khách sạn. Ngược nghĩa với departure.",
+    "collocations": [
+      "arrival time (giờ đến)",
+      "on arrival (khi đến nơi)",
+      "arrival hall (sảnh đến)"
+    ],
+    "exampleEn": "Please show your passport on arrival.",
+    "exampleVi": "Vui lòng xuất trình hộ chiếu khi đến nơi."
+  },
+  {
+    "word": "cancellation",
+    "ipa": "/ˌkæn.səlˈeɪ.ʃən/",
+    "stress": "can-cel-LA-tion (Trọng âm 3)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Việc hủy bỏ chuyến bay, đặt phòng",
+    "careerTag": "✈️ Sân bay & Du lịch",
+    "usageExplanation": "Dùng khi hủy hoặc bị hủy dịch vụ. Hay đi với 'policy' hoặc 'fee'.",
+    "collocations": [
+      "cancellation policy (chính sách hủy)",
+      "flight cancellation (chuyến bay bị hủy)",
+      "free cancellation (hủy miễn phí)"
+    ],
+    "exampleEn": "The hotel offers free cancellation up to 24 hours before.",
+    "exampleVi": "Khách sạn cho hủy miễn phí đến 24 giờ trước."
+  },
+  {
+    "word": "upgrade",
+    "ipa": "/ˈʌp.ɡreɪd/",
+    "stress": "UP-grade (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Sự nâng hạng lên loại tốt hơn",
+    "careerTag": "🏨 Khách sạn",
+    "usageExplanation": "Khi được chuyển sang phòng hoặc ghế tốt hơn. Cũng là động từ (trọng âm 2).",
+    "collocations": [
+      "free upgrade (nâng hạng miễn phí)",
+      "room upgrade (nâng hạng phòng)",
+      "ask for an upgrade (xin nâng hạng)"
+    ],
+    "exampleEn": "We got a free upgrade to a suite.",
+    "exampleVi": "Chúng tôi được nâng hạng miễn phí lên phòng suite."
+  },
+  {
+    "word": "landmark",
+    "ipa": "/ˈlænd.mɑːk/",
+    "stress": "LAND-mark (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Công trình hoặc địa danh nổi tiếng, dễ nhận biết",
+    "careerTag": "✈️ Sân bay & Du lịch",
+    "usageExplanation": "Dùng để chỉ nơi du khách hay ghé thăm hoặc làm mốc chỉ đường.",
+    "collocations": [
+      "famous landmark (địa danh nổi tiếng)",
+      "historic landmark (di tích lịch sử)",
+      "local landmark (địa danh địa phương)"
+    ],
+    "exampleEn": "The tower is the best-known landmark in the city.",
+    "exampleVi": "Tòa tháp là địa danh nổi tiếng nhất thành phố."
+  }
+]

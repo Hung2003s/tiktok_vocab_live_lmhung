@@ -1,0 +1,482 @@
+[
+  {
+    "word": "reluctant",
+    "ipa": "/rɪˈlʌk.tənt/",
+    "stress": "re-LUC-tant (Trọng âm 2)",
+    "pos": "Tính từ (adj)",
+    "meaningVi": "Miễn cưỡng, không sẵn lòng",
+    "careerTag": "🏠 Sinh hoạt & Đời sống",
+    "usageExplanation": "Dùng khi ai đó không muốn làm gì nhưng vẫn làm. Thường đi với 'to + V'.",
+    "collocations": [
+      "reluctant to admit (miễn cưỡng thừa nhận)",
+      "reluctant participant (người tham gia miễn cưỡng)",
+      "feel reluctant (cảm thấy ngần ngại)"
+    ],
+    "exampleEn": "She was reluctant to lend him money.",
+    "exampleVi": "Cô ấy miễn cưỡng cho anh ta vay tiền."
+  },
+  {
+    "word": "bargain",
+    "ipa": "/ˈbɑː.ɡɪn/",
+    "stress": "BAR-gain (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Món hời, hàng mua được giá rẻ",
+    "careerTag": "🏠 Sinh hoạt & Đời sống",
+    "usageExplanation": "Dùng khi mua được đồ giá tốt hơn giá trị thật. Cũng là động từ nghĩa mặc cả.",
+    "collocations": [
+      "a real bargain (một món hời thực sự)",
+      "bargain price (giá hời)",
+      "bargain hunter (người săn hàng giảm giá)"
+    ],
+    "exampleEn": "This jacket was a bargain at half price.",
+    "exampleVi": "Chiếc áo khoác này là món hời với giá một nửa."
+  },
+  {
+    "word": "refund",
+    "ipa": "/ˈriː.fʌnd/",
+    "stress": "RE-fund (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Tiền hoàn lại",
+    "careerTag": "🏠 Sinh hoạt & Đời sống",
+    "usageExplanation": "Dùng khi trả hàng hoặc hủy dịch vụ và được nhận lại tiền.",
+    "collocations": [
+      "ask for a refund (yêu cầu hoàn tiền)",
+      "full refund (hoàn tiền toàn bộ)",
+      "refund policy (chính sách hoàn tiền)"
+    ],
+    "exampleEn": "I returned the shoes and got a full refund.",
+    "exampleVi": "Tôi trả đôi giày và được hoàn lại toàn bộ tiền."
+  },
+  {
+    "word": "receipt",
+    "ipa": "/rɪˈsiːt/",
+    "stress": "re-CEIPT (Trọng âm 2)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Hóa đơn, biên lai mua hàng",
+    "careerTag": "🏠 Sinh hoạt & Đời sống",
+    "usageExplanation": "Chữ 'p' là âm câm. Cần khi đổi trả hàng.",
+    "collocations": [
+      "keep the receipt (giữ hóa đơn)",
+      "proof of receipt (bằng chứng đã nhận)",
+      "issue a receipt (xuất hóa đơn)"
+    ],
+    "exampleEn": "Please keep the receipt in case you need to return it.",
+    "exampleVi": "Hãy giữ hóa đơn phòng khi bạn cần trả hàng."
+  },
+  {
+    "word": "discount",
+    "ipa": "/ˈdɪs.kaʊnt/",
+    "stress": "DIS-count (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Sự giảm giá, khoản chiết khấu",
+    "careerTag": "🏠 Sinh hoạt & Đời sống",
+    "usageExplanation": "Dùng khi cửa hàng bán rẻ hơn giá niêm yết.",
+    "collocations": [
+      "student discount (giảm giá cho sinh viên)",
+      "get a discount (được giảm giá)",
+      "at a discount (với giá giảm)"
+    ],
+    "exampleEn": "They offer a ten percent discount for members.",
+    "exampleVi": "Họ giảm mười phần trăm cho hội viên."
+  },
+  {
+    "word": "cluttered",
+    "ipa": "/ˈklʌt.ərd/",
+    "stress": "CLUT-tered (Trọng âm 1)",
+    "pos": "Tính từ (adj)",
+    "meaningVi": "Bừa bộn, lộn xộn",
+    "careerTag": "🏠 Sinh hoạt & Đời sống",
+    "usageExplanation": "Miêu tả không gian có quá nhiều đồ đạc không ngăn nắp.",
+    "collocations": [
+      "cluttered desk (bàn làm việc bừa bộn)",
+      "cluttered room (căn phòng lộn xộn)",
+      "cluttered mind (đầu óc rối bời)"
+    ],
+    "exampleEn": "His garage is too cluttered to park a car.",
+    "exampleVi": "Nhà để xe của anh ấy quá bừa bộn để đỗ xe."
+  },
+  {
+    "word": "laundry",
+    "ipa": "/ˈlɔːn.dri/",
+    "stress": "LAUN-dry (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Đồ giặt, việc giặt giũ",
+    "careerTag": "🏠 Sinh hoạt & Đời sống",
+    "usageExplanation": "Danh từ không đếm được, dùng với 'do the laundry'.",
+    "collocations": [
+      "do the laundry (giặt đồ)",
+      "laundry basket (giỏ đồ giặt)",
+      "laundry detergent (bột giặt)"
+    ],
+    "exampleEn": "I need to do the laundry this weekend.",
+    "exampleVi": "Cuối tuần này tôi cần giặt đồ."
+  },
+  {
+    "word": "chores",
+    "ipa": "/tʃɔːrz/",
+    "stress": "CHORES (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Việc vặt trong nhà",
+    "careerTag": "🏠 Sinh hoạt & Đời sống",
+    "usageExplanation": "Thường dùng ở số nhiều, chỉ việc nhà hằng ngày.",
+    "collocations": [
+      "household chores (việc nhà)",
+      "do chores (làm việc vặt)",
+      "share the chores (chia việc nhà)"
+    ],
+    "exampleEn": "We share the chores equally.",
+    "exampleVi": "Chúng tôi chia đều việc nhà."
+  },
+  {
+    "word": "furniture",
+    "ipa": "/ˈfɜː.nɪ.tʃər/",
+    "stress": "FUR-ni-ture (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Đồ nội thất",
+    "careerTag": "🏠 Sinh hoạt & Đời sống",
+    "usageExplanation": "Danh từ không đếm được, không thêm 's'. Đếm bằng 'a piece of'.",
+    "collocations": [
+      "a piece of furniture (một món nội thất)",
+      "buy furniture (mua nội thất)",
+      "garden furniture (bàn ghế sân vườn)"
+    ],
+    "exampleEn": "They bought new furniture for the living room.",
+    "exampleVi": "Họ mua nội thất mới cho phòng khách."
+  },
+  {
+    "word": "landlord",
+    "ipa": "/ˈlænd.lɔːrd/",
+    "stress": "LAND-lord (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Chủ nhà cho thuê",
+    "careerTag": "🏠 Sinh hoạt & Đời sống",
+    "usageExplanation": "Người cho bạn thuê nhà hoặc phòng.",
+    "collocations": [
+      "pay the landlord (trả tiền cho chủ nhà)",
+      "landlord and tenant (chủ nhà và người thuê)",
+      "contact the landlord (liên hệ chủ nhà)"
+    ],
+    "exampleEn": "The landlord is raising the rent next month.",
+    "exampleVi": "Chủ nhà sẽ tăng tiền thuê vào tháng sau."
+  },
+  {
+    "word": "frustrated",
+    "ipa": "/ˈfrʌs.treɪ.tɪd/",
+    "stress": "FRUS-trat-ed (Trọng âm 1)",
+    "pos": "Tính từ (adj)",
+    "meaningVi": "Bực bội, nản lòng",
+    "careerTag": "🏠 Sinh hoạt & Đời sống",
+    "usageExplanation": "Cảm giác khi mọi thứ không như ý hoặc bị cản trở.",
+    "collocations": [
+      "feel frustrated (cảm thấy bực bội)",
+      "frustrated with (bực bội với)",
+      "get frustrated (trở nên nản lòng)"
+    ],
+    "exampleEn": "I get frustrated when the internet keeps dropping.",
+    "exampleVi": "Tôi bực bội khi mạng cứ bị ngắt."
+  },
+  {
+    "word": "anxious",
+    "ipa": "/ˈæŋk.ʃəs/",
+    "stress": "ANX-ious (Trọng âm 1)",
+    "pos": "Tính từ (adj)",
+    "meaningVi": "Lo lắng, bồn chồn",
+    "careerTag": "🏠 Sinh hoạt & Đời sống",
+    "usageExplanation": "Dùng khi lo về điều sắp xảy ra.",
+    "collocations": [
+      "feel anxious (cảm thấy lo lắng)",
+      "anxious about (lo lắng về)",
+      "anxious moment (khoảnh khắc căng thẳng)"
+    ],
+    "exampleEn": "He felt anxious before the interview.",
+    "exampleVi": "Anh ấy cảm thấy lo lắng trước buổi phỏng vấn."
+  },
+  {
+    "word": "grateful",
+    "ipa": "/ˈɡreɪt.fəl/",
+    "stress": "GRATE-ful (Trọng âm 1)",
+    "pos": "Tính từ (adj)",
+    "meaningVi": "Biết ơn",
+    "careerTag": "🏠 Sinh hoạt & Đời sống",
+    "usageExplanation": "Dùng để bày tỏ lòng cảm kích, trang trọng hơn 'thankful' một chút.",
+    "collocations": [
+      "deeply grateful (vô cùng biết ơn)",
+      "grateful for (biết ơn vì)",
+      "be grateful to (biết ơn ai)"
+    ],
+    "exampleEn": "I'm so grateful for your help.",
+    "exampleVi": "Tôi rất biết ơn sự giúp đỡ của bạn."
+  },
+  {
+    "word": "embarrassed",
+    "ipa": "/ɪmˈbær.əst/",
+    "stress": "em-BAR-rassed (Trọng âm 2)",
+    "pos": "Tính từ (adj)",
+    "meaningVi": "Xấu hổ, ngượng ngùng",
+    "careerTag": "🏠 Sinh hoạt & Đời sống",
+    "usageExplanation": "Dùng khi bối rối trước người khác vì lỗi nhỏ.",
+    "collocations": [
+      "feel embarrassed (cảm thấy xấu hổ)",
+      "embarrassed about (ngượng về)",
+      "look embarrassed (trông ngượng ngùng)"
+    ],
+    "exampleEn": "She was embarrassed when she forgot his name.",
+    "exampleVi": "Cô ấy ngượng khi quên tên anh ấy."
+  },
+  {
+    "word": "thrilled",
+    "ipa": "/θrɪld/",
+    "stress": "THRILLED (Trọng âm 1)",
+    "pos": "Tính từ (adj)",
+    "meaningVi": "Cực kỳ hào hứng, vui sướng",
+    "careerTag": "🏠 Sinh hoạt & Đời sống",
+    "usageExplanation": "Mạnh hơn 'happy', dùng với tin vui.",
+    "collocations": [
+      "thrilled to bits (vui sướng tột độ)",
+      "thrilled about (hào hứng về)",
+      "absolutely thrilled (hết sức phấn khích)"
+    ],
+    "exampleEn": "We were thrilled to hear the good news.",
+    "exampleVi": "Chúng tôi vô cùng vui khi nghe tin tốt."
+  },
+  {
+    "word": "awkward",
+    "ipa": "/ˈɔː.kwɚd/",
+    "stress": "AWK-ward (Trọng âm 1)",
+    "pos": "Tính từ (adj)",
+    "meaningVi": "Khó xử, vụng về",
+    "careerTag": "🏠 Sinh hoạt & Đời sống",
+    "usageExplanation": "Dùng cho tình huống gượng gạo hoặc cử chỉ vụng về.",
+    "collocations": [
+      "awkward silence (sự im lặng gượng gạo)",
+      "awkward situation (tình huống khó xử)",
+      "feel awkward (cảm thấy ngượng)"
+    ],
+    "exampleEn": "There was an awkward silence after his joke.",
+    "exampleVi": "Có một khoảng im lặng gượng gạo sau câu đùa của anh ta."
+  },
+  {
+    "word": "apologize",
+    "ipa": "/əˈpɑː.lə.dʒaɪz/",
+    "stress": "a-POL-o-gize (Trọng âm 2)",
+    "pos": "Động từ (v)",
+    "meaningVi": "Xin lỗi",
+    "careerTag": "🏠 Sinh hoạt & Đời sống",
+    "usageExplanation": "Dùng 'apologize to someone for something'.",
+    "collocations": [
+      "apologize for (xin lỗi vì)",
+      "apologize to (xin lỗi ai)",
+      "sincerely apologize (chân thành xin lỗi)"
+    ],
+    "exampleEn": "I apologize for being late.",
+    "exampleVi": "Tôi xin lỗi vì đến trễ."
+  },
+  {
+    "word": "gossip",
+    "ipa": "/ˈɡɑː.sɪp/",
+    "stress": "GOS-sip (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Chuyện tầm phào, tin đồn",
+    "careerTag": "🏠 Sinh hoạt & Đời sống",
+    "usageExplanation": "Chuyện đời tư người khác. Cũng là động từ.",
+    "collocations": [
+      "office gossip (chuyện phiếm công sở)",
+      "spread gossip (lan truyền tin đồn)",
+      "gossip about (ngồi lê đôi mách về)"
+    ],
+    "exampleEn": "I don't like listening to gossip.",
+    "exampleVi": "Tôi không thích nghe chuyện tầm phào."
+  },
+  {
+    "word": "acquaintance",
+    "ipa": "/əˈkweɪn.təns/",
+    "stress": "ac-QUAINT-ance (Trọng âm 2)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Người quen (không thân)",
+    "careerTag": "🏠 Sinh hoạt & Đời sống",
+    "usageExplanation": "Thân hơn người lạ nhưng chưa là bạn bè.",
+    "collocations": [
+      "a casual acquaintance (người quen xã giao)",
+      "make acquaintance (làm quen)",
+      "mutual acquaintance (người quen chung)"
+    ],
+    "exampleEn": "He is just an acquaintance, not a close friend.",
+    "exampleVi": "Anh ấy chỉ là người quen, không phải bạn thân."
+  },
+  {
+    "word": "invitation",
+    "ipa": "/ˌɪn.vɪˈteɪ.ʃən/",
+    "stress": "in-vi-TA-tion (Trọng âm 3)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Lời mời, thiệp mời",
+    "careerTag": "🏠 Sinh hoạt & Đời sống",
+    "usageExplanation": "Dùng khi mời ai dự tiệc hoặc sự kiện.",
+    "collocations": [
+      "accept an invitation (nhận lời mời)",
+      "decline an invitation (từ chối lời mời)",
+      "wedding invitation (thiệp cưới)"
+    ],
+    "exampleEn": "She declined the invitation politely.",
+    "exampleVi": "Cô ấy lịch sự từ chối lời mời."
+  },
+  {
+    "word": "commute",
+    "ipa": "/kəˈmjuːt/",
+    "stress": "com-MUTE (Trọng âm 2)",
+    "pos": "Động từ (v)",
+    "meaningVi": "Đi lại hằng ngày từ nhà đến chỗ làm",
+    "careerTag": "🏠 Sinh hoạt & Đời sống",
+    "usageExplanation": "Cũng là danh từ chỉ quãng đường đi làm.",
+    "collocations": [
+      "daily commute (hành trình đi làm hằng ngày)",
+      "commute to work (đi làm)",
+      "long commute (quãng đường dài)"
+    ],
+    "exampleEn": "I commute to the city by train.",
+    "exampleVi": "Tôi đi tàu vào thành phố mỗi ngày."
+  },
+  {
+    "word": "errand",
+    "ipa": "/ˈer.ənd/",
+    "stress": "ER-rand (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Việc vặt ra ngoài",
+    "careerTag": "🏠 Sinh hoạt & Đời sống",
+    "usageExplanation": "Việc ngắn như mua đồ, gửi thư.",
+    "collocations": [
+      "run errands (đi làm việc vặt)",
+      "an errand for (việc vặt cho)",
+      "weekend errands (việc vặt cuối tuần)"
+    ],
+    "exampleEn": "I have a few errands to run this afternoon.",
+    "exampleVi": "Chiều nay tôi có vài việc vặt phải làm."
+  },
+  {
+    "word": "subscribe",
+    "ipa": "/səbˈskraɪb/",
+    "stress": "sub-SCRIBE (Trọng âm 2)",
+    "pos": "Động từ (v)",
+    "meaningVi": "Đăng ký dài hạn (dịch vụ, kênh)",
+    "careerTag": "🏠 Sinh hoạt & Đời sống",
+    "usageExplanation": "Dùng với kênh, tạp chí, dịch vụ trả phí.",
+    "collocations": [
+      "subscribe to (đăng ký)",
+      "subscribe to a channel (đăng ký kênh)",
+      "monthly subscription (gói đăng ký tháng)"
+    ],
+    "exampleEn": "I subscribed to a music streaming service.",
+    "exampleVi": "Tôi đã đăng ký một dịch vụ nghe nhạc trực tuyến."
+  },
+  {
+    "word": "delivery",
+    "ipa": "/dɪˈlɪv.ər.i/",
+    "stress": "de-LIV-er-y (Trọng âm 2)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Việc giao hàng",
+    "careerTag": "🏠 Sinh hoạt & Đời sống",
+    "usageExplanation": "Dùng khi nhận hàng đặt qua mạng hoặc đồ ăn.",
+    "collocations": [
+      "home delivery (giao tận nhà)",
+      "delivery fee (phí giao hàng)",
+      "food delivery (giao đồ ăn)"
+    ],
+    "exampleEn": "The delivery should arrive by Friday.",
+    "exampleVi": "Hàng sẽ được giao trước thứ Sáu."
+  },
+  {
+    "word": "inexpensive",
+    "ipa": "/ˌɪn.ɪkˈspen.sɪv/",
+    "stress": "in-ex-PEN-sive (Trọng âm 3)",
+    "pos": "Tính từ (adj)",
+    "meaningVi": "Rẻ, không đắt",
+    "careerTag": "🏠 Sinh hoạt & Đời sống",
+    "usageExplanation": "Lịch sự hơn 'cheap', không hàm ý kém chất lượng.",
+    "collocations": [
+      "inexpensive gift (món quà rẻ)",
+      "relatively inexpensive (khá rẻ)",
+      "inexpensive hotel (khách sạn giá rẻ)"
+    ],
+    "exampleEn": "We found an inexpensive restaurant nearby.",
+    "exampleVi": "Chúng tôi tìm được quán ăn giá rẻ gần đây."
+  },
+  {
+    "word": "spontaneous",
+    "ipa": "/spɑːnˈteɪ.ni.əs/",
+    "stress": "spon-TA-ne-ous (Trọng âm 2)",
+    "pos": "Tính từ (adj)",
+    "meaningVi": "Tự phát, bộc phát",
+    "careerTag": "🏠 Sinh hoạt & Đời sống",
+    "usageExplanation": "Dùng cho hành động không lên kế hoạch trước.",
+    "collocations": [
+      "spontaneous decision (quyết định bộc phát)",
+      "spontaneous trip (chuyến đi ngẫu hứng)",
+      "spontaneous laughter (tiếng cười bột phát)"
+    ],
+    "exampleEn": "We took a spontaneous trip to the beach.",
+    "exampleVi": "Chúng tôi có một chuyến đi biển bộc phát."
+  },
+  {
+    "word": "generous",
+    "ipa": "/ˈdʒen.ər.əs/",
+    "stress": "GEN-er-ous (Trọng âm 1)",
+    "pos": "Tính từ (adj)",
+    "meaningVi": "Hào phóng, rộng lượng",
+    "careerTag": "🏠 Sinh hoạt & Đời sống",
+    "usageExplanation": "Dùng cho người sẵn lòng cho đi tiền bạc, thời gian.",
+    "collocations": [
+      "generous gift (món quà hào phóng)",
+      "generous portion (phần ăn đầy đặn)",
+      "generous of you (bạn thật rộng lượng)"
+    ],
+    "exampleEn": "It was generous of him to pay for dinner.",
+    "exampleVi": "Anh ấy thật hào phóng khi trả tiền bữa tối."
+  },
+  {
+    "word": "souvenir",
+    "ipa": "/ˌsuː.vəˈnɪr/",
+    "stress": "sou-ve-NIR (Trọng âm 3)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Quà lưu niệm",
+    "careerTag": "🏠 Sinh hoạt & Đời sống",
+    "usageExplanation": "Món đồ mua khi đi du lịch để nhớ chuyến đi.",
+    "collocations": [
+      "buy a souvenir (mua quà lưu niệm)",
+      "souvenir shop (cửa hàng lưu niệm)",
+      "souvenir from (quà lưu niệm từ)"
+    ],
+    "exampleEn": "I bought a small souvenir for my mom.",
+    "exampleVi": "Tôi mua một món quà lưu niệm nhỏ cho mẹ."
+  },
+  {
+    "word": "cheerful",
+    "ipa": "/ˈtʃɪr.fəl/",
+    "stress": "CHEER-ful (Trọng âm 1)",
+    "pos": "Tính từ (adj)",
+    "meaningVi": "Vui vẻ, tươi tỉnh",
+    "careerTag": "🏠 Sinh hoạt & Đời sống",
+    "usageExplanation": "Miêu tả người hoặc không khí lạc quan, dễ mến.",
+    "collocations": [
+      "cheerful smile (nụ cười tươi)",
+      "cheerful mood (tâm trạng vui vẻ)",
+      "cheerful voice (giọng nói vui tươi)"
+    ],
+    "exampleEn": "The waiter gave us a cheerful greeting.",
+    "exampleVi": "Người phục vụ chào chúng tôi rất niềm nở."
+  },
+  {
+    "word": "lonely",
+    "ipa": "/ˈloʊn.li/",
+    "stress": "LONE-ly (Trọng âm 1)",
+    "pos": "Tính từ (adj)",
+    "meaningVi": "Cô đơn",
+    "careerTag": "🏠 Sinh hoạt & Đời sống",
+    "usageExplanation": "Cảm giác buồn vì thiếu bạn bè hoặc người thân bên cạnh.",
+    "collocations": [
+      "feel lonely (cảm thấy cô đơn)",
+      "lonely life (cuộc sống cô đơn)",
+      "lonely evening (buổi tối cô quạnh)"
+    ],
+    "exampleEn": "He felt lonely after moving to a new city.",
+    "exampleVi": "Anh ấy thấy cô đơn sau khi chuyển đến thành phố mới."
+  }
+]

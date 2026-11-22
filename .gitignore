@@ -1,0 +1,8 @@
+node_modules/
+data/config.json
+data/leaderboard-alltime.json
+data/custom-words.json
+*.tmp
+
+.env
+data/vocabulary.backup.json

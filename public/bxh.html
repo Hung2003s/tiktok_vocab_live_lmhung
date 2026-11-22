@@ -1,0 +1,607 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+  <title>Bảng Xếp Hạng Live - TikTok Vocab Studio</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <!-- Thống nhất 1 font chữ duy nhất: Be Vietnam Pro -->
+  <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --font-unified: 'Be Vietnam Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      --bg-deep: #040711;
+      --bg-panel: rgba(15, 23, 42, 0.88);
+      --border-soft: rgba(148, 163, 184, 0.2);
+      --gold: #fde047;
+      --silver: #e2e8f0;
+      --bronze: #fb923c;
+      --emerald: #10b981;
+      --sky: #38bdf8;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      font-family: var(--font-unified);
+    }
+
+    html, body {
+      width: 100%;
+      min-height: 100dvh;
+      background: radial-gradient(circle at 50% 0%, #172554 0%, #040711 70%);
+      color: #f8fafc;
+      font-family: var(--font-unified);
+    }
+
+    .bxh-studio-container {
+      max-width: 520px;
+      margin: 0 auto;
+      min-height: 100dvh;
+      padding: 12px 14px 24px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    /* Top Header */
+    .bxh-topbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+      background: rgba(15, 23, 42, 0.9);
+      border: 1px solid var(--border-soft);
+      border-radius: 14px;
+      padding: 9px 12px;
+    }
+
+    .bxh-brand {
+      display: flex;
+      align-items: center;
+      gap: 9px;
+      min-width: 0;
+    }
+
+    .live-badge {
+      background: #ef4444;
+      color: #fff;
+      font-size: 10px;
+      font-weight: 900;
+      padding: 3px 7px;
+      border-radius: 99px;
+      letter-spacing: 0.6px;
+      animation: pulseLive 1.4s infinite;
+    }
+
+    @keyframes pulseLive {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.6; }
+    }
+
+    .bxh-session-title {
+      font-size: 13px;
+      font-weight: 800;
+      color: #fff;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .bxh-actions {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      flex-shrink: 0;
+    }
+
+    .btn-chip {
+      background: rgba(30, 41, 59, 0.9);
+      border: 1px solid rgba(148, 163, 184, 0.3);
+      color: #e2e8f0;
+      font-size: 11px;
+      font-weight: 700;
+      padding: 6px 10px;
+      border-radius: 9px;
+      cursor: pointer;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+    }
+    .btn-chip.primary {
+      background: rgba(56, 189, 248, 0.18);
+      border-color: rgba(56, 189, 248, 0.5);
+      color: #7dd3fc;
+    }
+
+    /* Banner Kết Quả Câu Vừa Rồi */
+    .last-round-card {
+      background: linear-gradient(135deg, rgba(16, 185, 129, 0.2), rgba(30, 41, 59, 0.92));
+      border: 1.5px solid rgba(16, 185, 129, 0.55);
+      border-radius: 16px;
+      padding: 11px 14px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      box-shadow: 0 8px 25px rgba(0, 0, 0, 0.35);
+      transition: transform 0.3s ease;
+    }
+
+    .last-round-card.flash-update {
+      transform: scale(1.02);
+      border-color: #fde047;
+    }
+
+    .lr-left {
+      display: flex;
+      flex-direction: column;
+      gap: 3px;
+      min-width: 0;
+    }
+
+    .lr-tag {
+      font-size: 10px;
+      font-weight: 800;
+      color: #6ee7b7;
+      text-transform: uppercase;
+      letter-spacing: 0.6px;
+    }
+
+    .lr-winner-line {
+      font-size: 14px;
+      font-weight: 800;
+      color: #ffffff;
+    }
+
+    .lr-word-line {
+      font-size: 12px;
+      color: #cbd5e1;
+    }
+    .lr-word-line strong {
+      color: var(--gold);
+      font-weight: 800;
+    }
+
+    .lr-phase-pill {
+      flex-shrink: 0;
+      background: rgba(15, 23, 42, 0.85);
+      border: 1px solid rgba(255, 255, 255, 0.16);
+      padding: 6px 10px;
+      border-radius: 10px;
+      text-align: center;
+      font-variant-numeric: tabular-nums;
+    }
+    .lr-phase-label {
+      display: block;
+      font-size: 9.5px;
+      color: #94a3b8;
+    }
+    .lr-phase-val {
+      font-size: 12px;
+      font-weight: 800;
+      color: var(--sky);
+    }
+
+    /* Bục Vinh Danh Top 3 (Podium) */
+    .podium-section {
+      background: var(--bg-panel);
+      border: 1px solid var(--border-soft);
+      border-radius: 18px;
+      padding: 14px 12px 12px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .section-heading {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+    }
+
+    .section-heading h2 {
+      font-size: 14px;
+      font-weight: 900;
+      color: var(--gold);
+      letter-spacing: 0.3px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .total-players-badge {
+      font-size: 11px;
+      font-weight: 700;
+      font-variant-numeric: tabular-nums;
+      color: #6ee7b7;
+      background: rgba(16, 185, 129, 0.14);
+      border: 1px solid rgba(16, 185, 129, 0.35);
+      padding: 3px 9px;
+      border-radius: 99px;
+    }
+
+    .podium-grid {
+      display: grid;
+      grid-template-columns: 1fr 1.16fr 1fr;
+      gap: 8px;
+      align-items: end;
+      padding-top: 6px;
+    }
+
+    .podium-box {
+      position: relative;
+      background: rgba(30, 41, 59, 0.75);
+      border: 1.5px solid rgba(148, 163, 184, 0.25);
+      border-radius: 14px;
+      padding: 12px 8px 10px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+      gap: 4px;
+    }
+
+    .podium-box.top-1 {
+      background: linear-gradient(180deg, rgba(250, 204, 21, 0.26) 0%, rgba(15, 23, 42, 0.95) 100%);
+      border-color: rgba(250, 204, 21, 0.8);
+      padding: 16px 8px 12px;
+      box-shadow: 0 10px 28px rgba(250, 204, 21, 0.18);
+    }
+
+    .podium-box.top-2 {
+      background: linear-gradient(180deg, rgba(226, 232, 240, 0.18) 0%, rgba(15, 23, 42, 0.95) 100%);
+      border-color: rgba(226, 232, 240, 0.55);
+    }
+
+    .podium-box.top-3 {
+      background: linear-gradient(180deg, rgba(251, 146, 60, 0.2) 0%, rgba(15, 23, 42, 0.95) 100%);
+      border-color: rgba(251, 146, 60, 0.55);
+    }
+
+    .score-pop-tag {
+      position: absolute;
+      top: -9px;
+      right: 6px;
+      background: #10b981;
+      color: #fff;
+      font-size: 9.5px;
+      font-weight: 900;
+      padding: 2px 7px;
+      border-radius: 99px;
+      box-shadow: 0 2px 10px rgba(16, 185, 129, 0.7);
+      animation: bounceBadge 0.8s infinite alternate;
+    }
+
+    @keyframes bounceBadge {
+      from { transform: translateY(0); }
+      to { transform: translateY(-3px); }
+    }
+
+    .podium-icon {
+      font-size: 26px;
+      line-height: 1;
+    }
+
+    .podium-user {
+      font-size: 12.5px;
+      font-weight: 800;
+      color: #fff;
+      width: 100%;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .podium-points {
+      font-size: 15px;
+      font-weight: 800;
+      font-variant-numeric: tabular-nums;
+      color: var(--gold);
+    }
+
+    .podium-stats {
+      font-size: 10.5px;
+      color: #cbd5e1;
+    }
+
+    /* Danh sách BXH Chi Tiết */
+    .ranking-table-card,
+    .recent-rounds-card {
+      background: var(--bg-panel);
+      border: 1px solid var(--border-soft);
+      border-radius: 18px;
+      padding: 13px 12px;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .rank-rows-container {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    .rank-item {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+      background: rgba(30, 41, 59, 0.65);
+      border: 1px solid rgba(148, 163, 184, 0.16);
+      border-radius: 11px;
+      padding: 8px 11px;
+    }
+
+    .rank-item.just-won {
+      background: rgba(16, 185, 129, 0.18);
+      border-color: #10b981;
+    }
+
+    .rank-item-left {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      min-width: 0;
+    }
+
+    .rank-badge-num {
+      width: 26px;
+      height: 26px;
+      border-radius: 8px;
+      background: rgba(15, 23, 42, 0.9);
+      font-size: 12px;
+      font-weight: 800;
+      font-variant-numeric: tabular-nums;
+      color: #94a3b8;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+
+    .rank-user-details {
+      min-width: 0;
+    }
+
+    .rank-user-name {
+      font-size: 13px;
+      font-weight: 800;
+      color: #f8fafc;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .rank-user-sub {
+      font-size: 11px;
+      color: #94a3b8;
+    }
+
+    .rank-item-right {
+      text-align: right;
+      flex-shrink: 0;
+    }
+
+    .rank-total-pts {
+      font-size: 14px;
+      font-weight: 800;
+      font-variant-numeric: tabular-nums;
+      color: var(--gold);
+    }
+
+    .rank-best-time {
+      font-size: 10px;
+      font-variant-numeric: tabular-nums;
+      color: #38bdf8;
+    }
+
+    /* Nhật ký sau từng câu hỏi */
+    .history-list {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    .history-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+      background: rgba(15, 23, 42, 0.75);
+      border-left: 3px solid var(--sky);
+      border-radius: 9px;
+      padding: 7px 10px;
+      font-size: 12px;
+    }
+
+    .history-word {
+      font-weight: 800;
+      color: var(--gold);
+      text-transform: uppercase;
+    }
+
+    .history-meaning {
+      color: #cbd5e1;
+      font-size: 11px;
+    }
+
+    .history-winner {
+      font-weight: 800;
+      color: #6ee7b7;
+      white-space: nowrap;
+    }
+
+    .empty-state {
+      text-align: center;
+      padding: 18px 12px;
+      color: #94a3b8;
+      font-size: 12.5px;
+      border: 1px dashed rgba(148, 163, 184, 0.25);
+      border-radius: 12px;
+    }
+  </style>
+</head>
+<body>
+  <style>
+    .tab-row { display: flex; gap: 6px; }
+    .tab-btn { flex: 1; padding: 7px 8px; border-radius: 10px; border: 1px solid var(--border-soft); background: rgba(15,23,42,.8); color: #cbd5e1; font-size: 12px; font-weight: 800; cursor: pointer; }
+    .tab-btn.active { background: rgba(250,204,21,.18); border-color: rgba(250,204,21,.6); color: var(--gold); }
+    .stats-row { display: grid; grid-template-columns: repeat(3, 1fr); gap: 6px; }
+    .stat-box { background: var(--bg-panel); border: 1px solid var(--border-soft); border-radius: 12px; padding: 8px; text-align: center; }
+    .stat-box strong { display: block; font-size: 18px; color: var(--gold); font-variant-numeric: tabular-nums; }
+    .stat-box span { font-size: 10.5px; color: #94a3b8; }
+  </style>
+
+  <div class="bxh-studio-container">
+    <header class="bxh-topbar">
+      <div class="bxh-brand">
+        <span class="live-badge">LIVE BXH</span>
+        <span class="bxh-session-title" id="topicTitle">Đang kết nối...</span>
+      </div>
+      <div class="bxh-actions"><a href="/" class="btn-chip primary">⬅️ Trang câu hỏi</a></div>
+    </header>
+
+    <section class="last-round-card" id="lastRoundCard">
+      <div class="lr-left">
+        <span class="lr-tag">⚡ KẾT QUẢ CÂU VỪA RỒI</span>
+        <div class="lr-winner-line" id="lrWinners">Đang chờ câu đầu tiên...</div>
+        <div class="lr-word-line" id="lrWord">Top 3 người đúng đầu tiên mỗi câu được cộng điểm</div>
+      </div>
+      <div class="lr-phase-pill">
+        <span class="lr-phase-label" id="lrProgress">Câu 0/0</span>
+        <span class="lr-phase-val" id="lrPhase">—</span>
+      </div>
+    </section>
+
+    <section class="stats-row">
+      <div class="stat-box"><strong id="statPlayers">0</strong><span>người chơi / <b id="statMax">0</b></span></div>
+      <div class="stat-box"><strong id="statCorrect">0</strong><span>lượt trả lời đúng</span></div>
+      <div class="stat-box"><strong id="statComments">0</strong><span>comment đã chấm</span></div>
+    </section>
+
+    <div class="tab-row">
+      <button class="tab-btn active" data-tab="session">🎬 Phiên live này</button>
+      <button class="tab-btn" data-tab="alltime">👑 Tổng mọi phiên</button>
+    </div>
+
+    <section class="podium-section">
+      <div class="section-heading">
+        <h2 id="boardHeading">👑 TOP 3 PHIÊN LIVE</h2>
+      </div>
+      <div class="podium-grid" id="podiumGrid"></div>
+    </section>
+
+    <section class="ranking-table-card">
+      <div class="section-heading"><h2>📊 BẢNG XẾP HẠNG CHI TIẾT</h2></div>
+      <div class="rank-rows-container" id="rankRows"></div>
+    </section>
+
+    <section class="recent-rounds-card">
+      <div class="section-heading"><h2>📜 CÁC CÂU VỪA QUA</h2></div>
+      <div class="history-list" id="historyList"></div>
+    </section>
+  </div>
+
+  <script src="/socket.io/socket.io.js"></script>
+  <script>
+    (() => {
+      const $ = (id) => document.getElementById(id);
+      const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]);
+      let state = null;
+      let tab = 'session';
+      let lastHistoryId = null;
+
+      document.querySelectorAll('.tab-btn').forEach((b) =>
+        b.addEventListener('click', () => {
+          tab = b.dataset.tab;
+          document.querySelectorAll('.tab-btn').forEach((x) => x.classList.toggle('active', x === b));
+          if (state) render();
+        })
+      );
+
+      function render() {
+        const s = state;
+        $('topicTitle').textContent = s.topic ? `${s.topic.icon} ${s.topic.title}` : 'TikTok Live Vocab';
+        $('lrProgress').textContent = `Câu ${s.wordIndex}/${s.wordCount}`;
+        $('lrPhase').textContent = s.paused ? '⏸️ Tạm dừng' : { GUESSING: '⏳ Đang đoán', REVEAL: '✨ Đáp án', LEADERBOARD: '🏆 Tổng kết' }[s.phase] || '—';
+
+        $('statPlayers').textContent = s.live.participants;
+        $('statMax').textContent = s.live.maxParticipants;
+        $('statCorrect').textContent = s.live.correct;
+        $('statComments').textContent = s.live.comments;
+
+        const last = s.history[0];
+        if (last) {
+          $('lrWinners').textContent = last.winners.length
+            ? last.winners.map((w, i) => `${['🥇', '🥈', '🥉'][i] || '✅'} @${w.nickname} +${w.points}đ`).join('  ')
+            : '💡 Không ai trả lời kịp';
+          $('lrWord').innerHTML = `<strong>${esc(last.word.toUpperCase())}</strong> ${esc(last.ipa)} — ${esc(last.meaningVi)}`;
+          if (last.roundId !== lastHistoryId) {
+            lastHistoryId = last.roundId;
+            $('lastRoundCard').classList.add('flash-update');
+            setTimeout(() => $('lastRoundCard').classList.remove('flash-update'), 500);
+          }
+        }
+
+        const isSession = tab === 'session';
+        const board = isSession ? s.leaderboard : s.allTime;
+        $('boardHeading').textContent = isSession ? '👑 TOP 3 PHIÊN LIVE NÀY' : '👑 TOP 3 MỌI PHIÊN';
+
+        const box = (u, rank, icon) =>
+          u
+            ? `<div class="podium-box top-${rank}">
+                ${isSession && u.justScored ? '<span class="score-pop-tag">⬆️</span>' : ''}
+                <div class="podium-icon">${icon}</div>
+                <div class="podium-user">@${esc(u.nickname)}</div>
+                <div class="podium-points">${u.score} điểm</div>
+                <div class="podium-stats">${u.correct} câu đúng${isSession ? (u.streak >= 2 ? ` • 🔥x${u.streak}` : '') : ` • ${u.lives} phiên`}</div>
+              </div>`
+            : `<div class="podium-box top-${rank}" style="opacity:.4"><div class="podium-icon">${icon}</div><div class="podium-user">Hạng ${rank}</div><div class="podium-stats">Còn trống</div></div>`;
+        $('podiumGrid').innerHTML = box(board[1], 2, '🥈') + box(board[0], 1, '👑') + box(board[2], 3, '🥉');
+
+        $('rankRows').innerHTML = board.length
+          ? board
+              .map((u, i) => {
+                const medal = ['🥇', '🥈', '🥉'][i] || `#${i + 1}`;
+                const sub = isSession
+                  ? `${u.correct} câu${u.streak >= 2 ? ` • 🔥 chuỗi ${u.streak}` : ''}${u.lastWord ? ` • gần nhất: ${esc(u.lastWord.toUpperCase())}` : ''}`
+                  : `${u.correct} câu • tham gia ${u.lives} phiên`;
+                const right = isSession ? `⚡ nhanh nhất ${u.bestTimeSec ?? '--'}s` : '';
+                return `<div class="rank-item ${isSession && u.justScored ? 'just-won' : ''}">
+                  <div class="rank-item-left"><div class="rank-badge-num">${medal}</div>
+                    <div class="rank-user-details"><div class="rank-user-name">@${esc(u.nickname)}</div><div class="rank-user-sub">${sub}</div></div>
+                  </div>
+                  <div class="rank-item-right"><div class="rank-total-pts">${u.score}đ</div><div class="rank-best-time">${right}</div></div>
+                </div>`;
+              })
+              .join('')
+          : `<div class="empty-state">Chưa có ai ghi điểm${isSession ? ' trong phiên này' : ''}.</div>`;
+
+        $('historyList').innerHTML = s.history.length
+          ? s.history
+              .slice(0, 8)
+              .map(
+                (h) => `<div class="history-row">
+                  <div><span class="history-word">${esc(h.word)}</span><span class="history-meaning"> — ${esc(h.meaningVi)}</span></div>
+                  <div class="history-winner">${h.winners.length ? `🏆 @${esc(h.winners[0].nickname)}${h.winners.length > 1 ? ` +${h.winners.length - 1}` : ''}` : '⏰ Hết giờ'}</div>
+                </div>`
+              )
+              .join('')
+          : '<div class="empty-state">Chưa có câu nào hoàn thành.</div>';
+      }
+
+      const socket = io();
+      socket.on('game:state', (s) => {
+        state = s;
+        render();
+      });
+    })();
+  </script>
+</body>
+</html>

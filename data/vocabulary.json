@@ -1,0 +1,3995 @@
+[
+  {
+    "id": "session_daily",
+    "title": "Đời sống & Giao tiếp",
+    "subtitle": "Daily Life & Social Interaction",
+    "icon": "🏠",
+    "color": "#10b981",
+    "badge": "Đời sống hàng ngày",
+    "description": "Những từ vựng tần suất xuất hiện cực cao trong giao tiếp đời thường, mua sắm, cảm xúc và sinh hoạt.",
+    "words": [
+      {
+        "id": "dl_1",
+        "word": "convenient",
+        "ipa": "/kənˈviː.ni.ənt/",
+        "stress": "con-VE-nient (Trọng âm 2)",
+        "pos": "Tính từ (adj)",
+        "meaningVi": "Thuận tiện, tiện lợi (không gây rắc rối, phù hợp thời gian/địa điểm)",
+        "careerTag": "🏠 Sinh hoạt & Đời sống",
+        "usageExplanation": "Dùng cực kỳ phổ biến khi hẹn giờ giấc, hỏi địa điểm hoặc nói về dịch vụ tiện ích (như cửa hàng tiện lợi - convenience store). Lưu ý: Không dùng từ này cho người (Ex: 'Are you convenient?' là sai, phải nói 'Is it convenient for you?').",
+        "collocations": [
+          "convenient time (thời gian thuận tiện)",
+          "convenient location (vị trí thuận lợi)",
+          "If it's convenient for you (Nếu tiện cho bạn)"
+        ],
+        "exampleEn": "What time would be most convenient for you to meet?",
+        "exampleVi": "Mấy giờ thì thuận tiện nhất cho bạn để gặp mặt?"
+      },
+      {
+        "id": "dl_2",
+        "word": "exhausted",
+        "ipa": "/ɪɡˈzɔː.stɪd/",
+        "stress": "ig-ZAWS-tid (Trọng âm 2, âm 'h' câm)",
+        "pos": "Tính từ (adj)",
+        "meaningVi": "Kiệt sức, mệt rã rời (mức độ mệt hơn rất nhiều so với 'tired')",
+        "careerTag": "💬 Giao tiếp & Cảm xúc",
+        "usageExplanation": "Khi đi làm hoặc học về quá mệt, người bản xứ rất thích dùng 'exhausted' thay vì 'very tired' để nhấn mạnh cảm giác cạn sạch năng lượng. Nhớ âm 'h' bị câm khi phát âm!",
+        "collocations": [
+          "completely exhausted (hoàn toàn kiệt sức)",
+          "physically and mentally exhausted (kiệt sức cả thể chất lẫn tinh thần)",
+          "exhausted from work (mệt rã rời vì công việc)"
+        ],
+        "exampleEn": "I am completely exhausted after working a 12-hour shift.",
+        "exampleVi": "Tôi hoàn toàn kiệt sức sau khi làm việc ca 12 tiếng."
+      },
+      {
+        "id": "dl_3",
+        "word": "appreciate",
+        "ipa": "/əˈpriː.ʃi.eɪt/",
+        "stress": "uh-PREE-shi-eyt (Trọng âm 2)",
+        "pos": "Động từ (v)",
+        "meaningVi": "Trân trọng, cảm kích, đánh giá cao sự giúp đỡ của ai đó",
+        "careerTag": "🤝 Giao tiếp lịch sự",
+        "usageExplanation": "Từ 'vàng' trong cả đời sống lẫn công việc để bày tỏ lòng biết ơn sâu sắc hơn chữ 'thank you' thông thường. Theo sau luôn là Danh từ hoặc V-ing (không dùng 'appreciate you to do').",
+        "collocations": [
+          "I really appreciate it! (Tôi thực sự rất cảm kích điều đó!)",
+          "appreciate your help/time (trân trọng sự giúp đỡ/thời gian của bạn)",
+          "deeply appreciate (vô cùng trân quý)"
+        ],
+        "exampleEn": "I really appreciate your help with moving my apartment.",
+        "exampleVi": "Mình thực sự rất cảm kích sự giúp đỡ của bạn khi chuyển nhà."
+      },
+      {
+        "id": "dl_4",
+        "word": "grocery",
+        "ipa": "/ˈɡroʊ.sər.i/",
+        "stress": "GROH-suh-ree (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Thực phẩm, đồ tạp hóa, nhu yếu phẩm mua về nấu ăn",
+        "careerTag": "🛒 Mua sắm & Gia đình",
+        "usageExplanation": "Trong đời sống hàng ngày, khi nói 'đi siêu thị mua đồ ăn/nhu yếu phẩm', người bản xứ hầu như không nói 'go to the supermarket' mà dùng cụm 'do the groceries' hoặc 'go grocery shopping'.",
+        "collocations": [
+          "go grocery shopping (đi mua đồ ăn/nhu yếu phẩm)",
+          "grocery store (cửa hàng tạp hóa / siêu thị thực phẩm)",
+          "pick up some groceries (ghé mua ít đồ tạp hóa)"
+        ],
+        "exampleEn": "I need to stop by the store to pick up some groceries for dinner.",
+        "exampleVi": "Tôi cần ghé qua cửa hàng mua ít thực phẩm cho bữa tối."
+      },
+      {
+        "id": "dl_5",
+        "word": "neighbor",
+        "ipa": "/ˈneɪ.bər/",
+        "stress": "NEY-ber (Trọng âm 1, âm 'gh' câm)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Hàng xóm, người sống cạnh nhà hoặc khu vực lân cận",
+        "careerTag": "🏘️ Khu dân cư & Đời sống",
+        "usageExplanation": "Dùng để chỉ người sống sát vách, cùng tầng chung cư hoặc cùng khu phố. Ghép thêm '-hood' thành 'neighborhood' (khu phố/khu xóm nơi mình ở).",
+        "collocations": [
+          "next-door neighbor (hàng xóm sát vách)",
+          "friendly neighborhood (khu phố thân thiện)",
+          "good neighbor (người hàng xóm tốt bụng)"
+        ],
+        "exampleEn": "Our next-door neighbor watered our plants while we were away.",
+        "exampleVi": "Người hàng xóm sát vách đã tưới cây giúp chúng tôi khi chúng tôi đi vắng."
+      },
+      {
+        "id": "dl_6",
+        "word": "affordable",
+        "ipa": "/əˈfɔːr.də.bəl/",
+        "stress": "uh-FOR-duh-bul (Trọng âm 2)",
+        "pos": "Tính từ (adj)",
+        "meaningVi": "Giá cả phải chăng, vừa túi tiền (không quá đắt, có khả năng chi trả)",
+        "careerTag": "💰 Chi tiêu & Mua sắm",
+        "usageExplanation": "Khi khen một món đồ hay quán ăn 'rẻ mà chất lượng / vừa túi tiền', dùng 'affordable' lịch sự và tích cực hơn rất nhiều so với từ 'cheap' (đôi khi mang nghĩa rẻ tiền, kém chất lượng).",
+        "collocations": [
+          "affordable price (mức giá phải chăng)",
+          "affordable housing (nhà ở vừa túi tiền)",
+          "high quality and affordable (chất lượng cao mà giá hợp lý)"
+        ],
+        "exampleEn": "This restaurant serves delicious food at very affordable prices.",
+        "exampleVi": "Nhà hàng này phục vụ đồ ăn ngon với mức giá rất phải chăng."
+      },
+      {
+        "id": "dl_7",
+        "word": "habit",
+        "ipa": "/ˈhæb.ɪt/",
+        "stress": "HAB-it (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Thói quen lặp đi lặp lại hàng ngày (tốt hoặc xấu)",
+        "careerTag": "🌱 Lối sống cá nhân",
+        "usageExplanation": "Dùng để nói về những hành vi làm theo quán tính hàng ngày. Rất hay đi với các động từ 'build/develop' (xây dựng thói quen tốt) hoặc 'break/kick' (bỏ thói quen xấu).",
+        "collocations": [
+          "break a bad habit (bỏ một thói quen xấu)",
+          "develop a healthy habit (hình thành thói quen lành mạnh)",
+          "out of habit (theo thói quen / quán tính)"
+        ],
+        "exampleEn": "Waking up early has become a daily habit for me.",
+        "exampleVi": "Thức dậy sớm đã trở thành một thói quen hàng ngày của tôi."
+      },
+      {
+        "id": "dl_8",
+        "word": "recommend",
+        "ipa": "/ˌrek.əˈmend/",
+        "stress": "rek-uh-MEND (Trọng âm 3)",
+        "pos": "Động từ (v)",
+        "meaningVi": "Giới thiệu, đề xuất, khuyên dùng (món ăn, bộ phim, dịch vụ tốt)",
+        "careerTag": "🌟 Đời sống & Trải nghiệm",
+        "usageExplanation": "Dùng mọi lúc khi bạn muốn nhờ người khác gợi ý món ngon ở quán ('What do you recommend?') hoặc giới thiệu sản phẩm/bộ phim đáng thử cho bạn bè.",
+        "collocations": [
+          "highly recommend (cực kỳ khuyên dùng / nhiệt liệt giới thiệu)",
+          "Can you recommend a good...? (Bạn gợi ý giúp mình một... tốt được không?)",
+          "recommend doing something (khuyên nên làm gì)"
+        ],
+        "exampleEn": "I highly recommend trying the local street food here.",
+        "exampleVi": "Tôi nhiệt liệt khuyên bạn nên thử ẩm thực đường phố ở đây."
+      },
+      {
+        "id": "dl_9",
+        "word": "routine",
+        "ipa": "/ruːˈtiːn/",
+        "stress": "roo-TEEN (Trọng âm 2)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Lịch trình sinh hoạt thường nhật, chuỗi thói quen cố định mỗi ngày",
+        "careerTag": "⏰ Sinh hoạt hàng ngày",
+        "usageExplanation": "Khác với 'habit' (1 hành vi đơn lẻ), 'routine' là cả một quy trình nối tiếp nhau (ví dụ: thức dậy -> đánh răng -> tập thể dục -> pha cà phê gọi là 'morning routine').",
+        "collocations": [
+          "morning/night routine (chuỗi sinh hoạt buổi sáng/tối)",
+          "skincare routine (quy trình chăm sóc da)",
+          "daily routine (nhịp sinh hoạt hàng ngày)"
+        ],
+        "exampleEn": "Doing a 20-minute workout is part of my morning routine.",
+        "exampleVi": "Tập thể dục 20 phút là một phần trong lịch sinh hoạt buổi sáng của tôi."
+      },
+      {
+        "id": "dl_10",
+        "word": "appliance",
+        "ipa": "/əˈplaɪ.əns/",
+        "stress": "uh-PLY-uhns (Trọng âm 2)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Thiết bị điện gia dụng trong nhà (tủ lạnh, máy giặt, lò vi sóng...)",
+        "careerTag": "🔌 Gia đình & Nhà cửa",
+        "usageExplanation": "Khi mua sắm đồ đạc trong gia đình hoặc thuê nhà, từ 'home appliances' dùng để chỉ toàn bộ máy móc phục vụ việc nhà như nồi cơm, máy giặt, máy hút bụi.",
+        "collocations": [
+          "home/household appliances (thiết bị điện gia dụng)",
+          "kitchen appliances (thiết bị nhà bếp)",
+          "energy-saving appliance (thiết bị tiết kiệm điện)"
+        ],
+        "exampleEn": "The apartment comes fully furnished with modern kitchen appliances.",
+        "exampleVi": "Căn hộ đã có sẵn đầy đủ nội thất cùng các thiết bị nhà bếp hiện đại."
+      },
+      {
+        "word": "reluctant",
+        "ipa": "/rɪˈlʌk.tənt/",
+        "stress": "re-LUC-tant (Trọng âm 2)",
+        "pos": "Tính từ (adj)",
+        "meaningVi": "Miễn cưỡng, không sẵn lòng",
+        "careerTag": "🏠 Sinh hoạt & Đời sống",
+        "usageExplanation": "Dùng khi ai đó không muốn làm gì nhưng vẫn làm. Thường đi với 'to + V'.",
+        "collocations": [
+          "reluctant to admit (miễn cưỡng thừa nhận)",
+          "reluctant participant (người tham gia miễn cưỡng)",
+          "feel reluctant (cảm thấy ngần ngại)"
+        ],
+        "exampleEn": "She was reluctant to lend him money.",
+        "exampleVi": "Cô ấy miễn cưỡng cho anh ta vay tiền.",
+        "id": "dl_x1"
+      },
+      {
+        "word": "bargain",
+        "ipa": "/ˈbɑː.ɡɪn/",
+        "stress": "BAR-gain (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Món hời, hàng mua được giá rẻ",
+        "careerTag": "🏠 Sinh hoạt & Đời sống",
+        "usageExplanation": "Dùng khi mua được đồ giá tốt hơn giá trị thật. Cũng là động từ nghĩa mặc cả.",
+        "collocations": [
+          "a real bargain (một món hời thực sự)",
+          "bargain price (giá hời)",
+          "bargain hunter (người săn hàng giảm giá)"
+        ],
+        "exampleEn": "This jacket was a bargain at half price.",
+        "exampleVi": "Chiếc áo khoác này là món hời với giá một nửa.",
+        "id": "dl_x2"
+      },
+      {
+        "word": "refund",
+        "ipa": "/ˈriː.fʌnd/",
+        "stress": "RE-fund (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Tiền hoàn lại",
+        "careerTag": "🏠 Sinh hoạt & Đời sống",
+        "usageExplanation": "Dùng khi trả hàng hoặc hủy dịch vụ và được nhận lại tiền.",
+        "collocations": [
+          "ask for a refund (yêu cầu hoàn tiền)",
+          "full refund (hoàn tiền toàn bộ)",
+          "refund policy (chính sách hoàn tiền)"
+        ],
+        "exampleEn": "I returned the shoes and got a full refund.",
+        "exampleVi": "Tôi trả đôi giày và được hoàn lại toàn bộ tiền.",
+        "id": "dl_x3"
+      },
+      {
+        "word": "receipt",
+        "ipa": "/rɪˈsiːt/",
+        "stress": "re-CEIPT (Trọng âm 2)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Hóa đơn, biên lai mua hàng",
+        "careerTag": "🏠 Sinh hoạt & Đời sống",
+        "usageExplanation": "Chữ 'p' là âm câm. Cần khi đổi trả hàng.",
+        "collocations": [
+          "keep the receipt (giữ hóa đơn)",
+          "proof of receipt (bằng chứng đã nhận)",
+          "issue a receipt (xuất hóa đơn)"
+        ],
+        "exampleEn": "Please keep the receipt in case you need to return it.",
+        "exampleVi": "Hãy giữ hóa đơn phòng khi bạn cần trả hàng.",
+        "id": "dl_x4"
+      },
+      {
+        "word": "discount",
+        "ipa": "/ˈdɪs.kaʊnt/",
+        "stress": "DIS-count (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Sự giảm giá, khoản chiết khấu",
+        "careerTag": "🏠 Sinh hoạt & Đời sống",
+        "usageExplanation": "Dùng khi cửa hàng bán rẻ hơn giá niêm yết.",
+        "collocations": [
+          "student discount (giảm giá cho sinh viên)",
+          "get a discount (được giảm giá)",
+          "at a discount (với giá giảm)"
+        ],
+        "exampleEn": "They offer a ten percent discount for members.",
+        "exampleVi": "Họ giảm mười phần trăm cho hội viên.",
+        "id": "dl_x5"
+      },
+      {
+        "word": "cluttered",
+        "ipa": "/ˈklʌt.ərd/",
+        "stress": "CLUT-tered (Trọng âm 1)",
+        "pos": "Tính từ (adj)",
+        "meaningVi": "Bừa bộn, lộn xộn",
+        "careerTag": "🏠 Sinh hoạt & Đời sống",
+        "usageExplanation": "Miêu tả không gian có quá nhiều đồ đạc không ngăn nắp.",
+        "collocations": [
+          "cluttered desk (bàn làm việc bừa bộn)",
+          "cluttered room (căn phòng lộn xộn)",
+          "cluttered mind (đầu óc rối bời)"
+        ],
+        "exampleEn": "His garage is too cluttered to park a car.",
+        "exampleVi": "Nhà để xe của anh ấy quá bừa bộn để đỗ xe.",
+        "id": "dl_x6"
+      },
+      {
+        "word": "laundry",
+        "ipa": "/ˈlɔːn.dri/",
+        "stress": "LAUN-dry (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Đồ giặt, việc giặt giũ",
+        "careerTag": "🏠 Sinh hoạt & Đời sống",
+        "usageExplanation": "Danh từ không đếm được, dùng với 'do the laundry'.",
+        "collocations": [
+          "do the laundry (giặt đồ)",
+          "laundry basket (giỏ đồ giặt)",
+          "laundry detergent (bột giặt)"
+        ],
+        "exampleEn": "I need to do the laundry this weekend.",
+        "exampleVi": "Cuối tuần này tôi cần giặt đồ.",
+        "id": "dl_x7"
+      },
+      {
+        "word": "chores",
+        "ipa": "/tʃɔːrz/",
+        "stress": "CHORES (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Việc vặt trong nhà",
+        "careerTag": "🏠 Sinh hoạt & Đời sống",
+        "usageExplanation": "Thường dùng ở số nhiều, chỉ việc nhà hằng ngày.",
+        "collocations": [
+          "household chores (việc nhà)",
+          "do chores (làm việc vặt)",
+          "share the chores (chia việc nhà)"
+        ],
+        "exampleEn": "We share the chores equally.",
+        "exampleVi": "Chúng tôi chia đều việc nhà.",
+        "id": "dl_x8"
+      },
+      {
+        "word": "furniture",
+        "ipa": "/ˈfɜː.nɪ.tʃər/",
+        "stress": "FUR-ni-ture (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Đồ nội thất",
+        "careerTag": "🏠 Sinh hoạt & Đời sống",
+        "usageExplanation": "Danh từ không đếm được, không thêm 's'. Đếm bằng 'a piece of'.",
+        "collocations": [
+          "a piece of furniture (một món nội thất)",
+          "buy furniture (mua nội thất)",
+          "garden furniture (bàn ghế sân vườn)"
+        ],
+        "exampleEn": "They bought new furniture for the living room.",
+        "exampleVi": "Họ mua nội thất mới cho phòng khách.",
+        "id": "dl_x9"
+      },
+      {
+        "word": "landlord",
+        "ipa": "/ˈlænd.lɔːrd/",
+        "stress": "LAND-lord (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Chủ nhà cho thuê",
+        "careerTag": "🏠 Sinh hoạt & Đời sống",
+        "usageExplanation": "Người cho bạn thuê nhà hoặc phòng.",
+        "collocations": [
+          "pay the landlord (trả tiền cho chủ nhà)",
+          "landlord and tenant (chủ nhà và người thuê)",
+          "contact the landlord (liên hệ chủ nhà)"
+        ],
+        "exampleEn": "The landlord is raising the rent next month.",
+        "exampleVi": "Chủ nhà sẽ tăng tiền thuê vào tháng sau.",
+        "id": "dl_x10"
+      },
+      {
+        "word": "frustrated",
+        "ipa": "/ˈfrʌs.treɪ.tɪd/",
+        "stress": "FRUS-trat-ed (Trọng âm 1)",
+        "pos": "Tính từ (adj)",
+        "meaningVi": "Bực bội, nản lòng",
+        "careerTag": "🏠 Sinh hoạt & Đời sống",
+        "usageExplanation": "Cảm giác khi mọi thứ không như ý hoặc bị cản trở.",
+        "collocations": [
+          "feel frustrated (cảm thấy bực bội)",
+          "frustrated with (bực bội với)",
+          "get frustrated (trở nên nản lòng)"
+        ],
+        "exampleEn": "I get frustrated when the internet keeps dropping.",
+        "exampleVi": "Tôi bực bội khi mạng cứ bị ngắt.",
+        "id": "dl_x11"
+      },
+      {
+        "word": "anxious",
+        "ipa": "/ˈæŋk.ʃəs/",
+        "stress": "ANX-ious (Trọng âm 1)",
+        "pos": "Tính từ (adj)",
+        "meaningVi": "Lo lắng, bồn chồn",
+        "careerTag": "🏠 Sinh hoạt & Đời sống",
+        "usageExplanation": "Dùng khi lo về điều sắp xảy ra.",
+        "collocations": [
+          "feel anxious (cảm thấy lo lắng)",
+          "anxious about (lo lắng về)",
+          "anxious moment (khoảnh khắc căng thẳng)"
+        ],
+        "exampleEn": "He felt anxious before the interview.",
+        "exampleVi": "Anh ấy cảm thấy lo lắng trước buổi phỏng vấn.",
+        "id": "dl_x12"
+      },
+      {
+        "word": "grateful",
+        "ipa": "/ˈɡreɪt.fəl/",
+        "stress": "GRATE-ful (Trọng âm 1)",
+        "pos": "Tính từ (adj)",
+        "meaningVi": "Biết ơn",
+        "careerTag": "🏠 Sinh hoạt & Đời sống",
+        "usageExplanation": "Dùng để bày tỏ lòng cảm kích, trang trọng hơn 'thankful' một chút.",
+        "collocations": [
+          "deeply grateful (vô cùng biết ơn)",
+          "grateful for (biết ơn vì)",
+          "be grateful to (biết ơn ai)"
+        ],
+        "exampleEn": "I'm so grateful for your help.",
+        "exampleVi": "Tôi rất biết ơn sự giúp đỡ của bạn.",
+        "id": "dl_x13"
+      },
+      {
+        "word": "embarrassed",
+        "ipa": "/ɪmˈbær.əst/",
+        "stress": "em-BAR-rassed (Trọng âm 2)",
+        "pos": "Tính từ (adj)",
+        "meaningVi": "Xấu hổ, ngượng ngùng",
+        "careerTag": "🏠 Sinh hoạt & Đời sống",
+        "usageExplanation": "Dùng khi bối rối trước người khác vì lỗi nhỏ.",
+        "collocations": [
+          "feel embarrassed (cảm thấy xấu hổ)",
+          "embarrassed about (ngượng về)",
+          "look embarrassed (trông ngượng ngùng)"
+        ],
+        "exampleEn": "She was embarrassed when she forgot his name.",
+        "exampleVi": "Cô ấy ngượng khi quên tên anh ấy.",
+        "id": "dl_x14"
+      },
+      {
+        "word": "thrilled",
+        "ipa": "/θrɪld/",
+        "stress": "THRILLED (Trọng âm 1)",
+        "pos": "Tính từ (adj)",
+        "meaningVi": "Cực kỳ hào hứng, vui sướng",
+        "careerTag": "🏠 Sinh hoạt & Đời sống",
+        "usageExplanation": "Mạnh hơn 'happy', dùng với tin vui.",
+        "collocations": [
+          "thrilled to bits (vui sướng tột độ)",
+          "thrilled about (hào hứng về)",
+          "absolutely thrilled (hết sức phấn khích)"
+        ],
+        "exampleEn": "We were thrilled to hear the good news.",
+        "exampleVi": "Chúng tôi vô cùng vui khi nghe tin tốt.",
+        "id": "dl_x15"
+      },
+      {
+        "word": "awkward",
+        "ipa": "/ˈɔː.kwɚd/",
+        "stress": "AWK-ward (Trọng âm 1)",
+        "pos": "Tính từ (adj)",
+        "meaningVi": "Khó xử, vụng về",
+        "careerTag": "🏠 Sinh hoạt & Đời sống",
+        "usageExplanation": "Dùng cho tình huống gượng gạo hoặc cử chỉ vụng về.",
+        "collocations": [
+          "awkward silence (sự im lặng gượng gạo)",
+          "awkward situation (tình huống khó xử)",
+          "feel awkward (cảm thấy ngượng)"
+        ],
+        "exampleEn": "There was an awkward silence after his joke.",
+        "exampleVi": "Có một khoảng im lặng gượng gạo sau câu đùa của anh ta.",
+        "id": "dl_x16"
+      },
+      {
+        "word": "apologize",
+        "ipa": "/əˈpɑː.lə.dʒaɪz/",
+        "stress": "a-POL-o-gize (Trọng âm 2)",
+        "pos": "Động từ (v)",
+        "meaningVi": "Xin lỗi",
+        "careerTag": "🏠 Sinh hoạt & Đời sống",
+        "usageExplanation": "Dùng 'apologize to someone for something'.",
+        "collocations": [
+          "apologize for (xin lỗi vì)",
+          "apologize to (xin lỗi ai)",
+          "sincerely apologize (chân thành xin lỗi)"
+        ],
+        "exampleEn": "I apologize for being late.",
+        "exampleVi": "Tôi xin lỗi vì đến trễ.",
+        "id": "dl_x17"
+      },
+      {
+        "word": "gossip",
+        "ipa": "/ˈɡɑː.sɪp/",
+        "stress": "GOS-sip (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Chuyện tầm phào, tin đồn",
+        "careerTag": "🏠 Sinh hoạt & Đời sống",
+        "usageExplanation": "Chuyện đời tư người khác. Cũng là động từ.",
+        "collocations": [
+          "office gossip (chuyện phiếm công sở)",
+          "spread gossip (lan truyền tin đồn)",
+          "gossip about (ngồi lê đôi mách về)"
+        ],
+        "exampleEn": "I don't like listening to gossip.",
+        "exampleVi": "Tôi không thích nghe chuyện tầm phào.",
+        "id": "dl_x18"
+      },
+      {
+        "word": "acquaintance",
+        "ipa": "/əˈkweɪn.təns/",
+        "stress": "ac-QUAINT-ance (Trọng âm 2)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Người quen (không thân)",
+        "careerTag": "🏠 Sinh hoạt & Đời sống",
+        "usageExplanation": "Thân hơn người lạ nhưng chưa là bạn bè.",
+        "collocations": [
+          "a casual acquaintance (người quen xã giao)",
+          "make acquaintance (làm quen)",
+          "mutual acquaintance (người quen chung)"
+        ],
+        "exampleEn": "He is just an acquaintance, not a close friend.",
+        "exampleVi": "Anh ấy chỉ là người quen, không phải bạn thân.",
+        "id": "dl_x19"
+      },
+      {
+        "word": "invitation",
+        "ipa": "/ˌɪn.vɪˈteɪ.ʃən/",
+        "stress": "in-vi-TA-tion (Trọng âm 3)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Lời mời, thiệp mời",
+        "careerTag": "🏠 Sinh hoạt & Đời sống",
+        "usageExplanation": "Dùng khi mời ai dự tiệc hoặc sự kiện.",
+        "collocations": [
+          "accept an invitation (nhận lời mời)",
+          "decline an invitation (từ chối lời mời)",
+          "wedding invitation (thiệp cưới)"
+        ],
+        "exampleEn": "She declined the invitation politely.",
+        "exampleVi": "Cô ấy lịch sự từ chối lời mời.",
+        "id": "dl_x20"
+      },
+      {
+        "word": "commute",
+        "ipa": "/kəˈmjuːt/",
+        "stress": "com-MUTE (Trọng âm 2)",
+        "pos": "Động từ (v)",
+        "meaningVi": "Đi lại hằng ngày từ nhà đến chỗ làm",
+        "careerTag": "🏠 Sinh hoạt & Đời sống",
+        "usageExplanation": "Cũng là danh từ chỉ quãng đường đi làm.",
+        "collocations": [
+          "daily commute (hành trình đi làm hằng ngày)",
+          "commute to work (đi làm)",
+          "long commute (quãng đường dài)"
+        ],
+        "exampleEn": "I commute to the city by train.",
+        "exampleVi": "Tôi đi tàu vào thành phố mỗi ngày.",
+        "id": "dl_x21"
+      },
+      {
+        "word": "errand",
+        "ipa": "/ˈer.ənd/",
+        "stress": "ER-rand (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Việc vặt ra ngoài",
+        "careerTag": "🏠 Sinh hoạt & Đời sống",
+        "usageExplanation": "Việc ngắn như mua đồ, gửi thư.",
+        "collocations": [
+          "run errands (đi làm việc vặt)",
+          "an errand for (việc vặt cho)",
+          "weekend errands (việc vặt cuối tuần)"
+        ],
+        "exampleEn": "I have a few errands to run this afternoon.",
+        "exampleVi": "Chiều nay tôi có vài việc vặt phải làm.",
+        "id": "dl_x22"
+      },
+      {
+        "word": "subscribe",
+        "ipa": "/səbˈskraɪb/",
+        "stress": "sub-SCRIBE (Trọng âm 2)",
+        "pos": "Động từ (v)",
+        "meaningVi": "Đăng ký dài hạn (dịch vụ, kênh)",
+        "careerTag": "🏠 Sinh hoạt & Đời sống",
+        "usageExplanation": "Dùng với kênh, tạp chí, dịch vụ trả phí.",
+        "collocations": [
+          "subscribe to (đăng ký)",
+          "subscribe to a channel (đăng ký kênh)",
+          "monthly subscription (gói đăng ký tháng)"
+        ],
+        "exampleEn": "I subscribed to a music streaming service.",
+        "exampleVi": "Tôi đã đăng ký một dịch vụ nghe nhạc trực tuyến.",
+        "id": "dl_x23"
+      },
+      {
+        "word": "delivery",
+        "ipa": "/dɪˈlɪv.ər.i/",
+        "stress": "de-LIV-er-y (Trọng âm 2)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Việc giao hàng",
+        "careerTag": "🏠 Sinh hoạt & Đời sống",
+        "usageExplanation": "Dùng khi nhận hàng đặt qua mạng hoặc đồ ăn.",
+        "collocations": [
+          "home delivery (giao tận nhà)",
+          "delivery fee (phí giao hàng)",
+          "food delivery (giao đồ ăn)"
+        ],
+        "exampleEn": "The delivery should arrive by Friday.",
+        "exampleVi": "Hàng sẽ được giao trước thứ Sáu.",
+        "id": "dl_x24"
+      },
+      {
+        "word": "inexpensive",
+        "ipa": "/ˌɪn.ɪkˈspen.sɪv/",
+        "stress": "in-ex-PEN-sive (Trọng âm 3)",
+        "pos": "Tính từ (adj)",
+        "meaningVi": "Rẻ, không đắt",
+        "careerTag": "🏠 Sinh hoạt & Đời sống",
+        "usageExplanation": "Lịch sự hơn 'cheap', không hàm ý kém chất lượng.",
+        "collocations": [
+          "inexpensive gift (món quà rẻ)",
+          "relatively inexpensive (khá rẻ)",
+          "inexpensive hotel (khách sạn giá rẻ)"
+        ],
+        "exampleEn": "We found an inexpensive restaurant nearby.",
+        "exampleVi": "Chúng tôi tìm được quán ăn giá rẻ gần đây.",
+        "id": "dl_x25"
+      },
+      {
+        "word": "spontaneous",
+        "ipa": "/spɑːnˈteɪ.ni.əs/",
+        "stress": "spon-TA-ne-ous (Trọng âm 2)",
+        "pos": "Tính từ (adj)",
+        "meaningVi": "Tự phát, bộc phát",
+        "careerTag": "🏠 Sinh hoạt & Đời sống",
+        "usageExplanation": "Dùng cho hành động không lên kế hoạch trước.",
+        "collocations": [
+          "spontaneous decision (quyết định bộc phát)",
+          "spontaneous trip (chuyến đi ngẫu hứng)",
+          "spontaneous laughter (tiếng cười bột phát)"
+        ],
+        "exampleEn": "We took a spontaneous trip to the beach.",
+        "exampleVi": "Chúng tôi có một chuyến đi biển bộc phát.",
+        "id": "dl_x26"
+      },
+      {
+        "word": "generous",
+        "ipa": "/ˈdʒen.ər.əs/",
+        "stress": "GEN-er-ous (Trọng âm 1)",
+        "pos": "Tính từ (adj)",
+        "meaningVi": "Hào phóng, rộng lượng",
+        "careerTag": "🏠 Sinh hoạt & Đời sống",
+        "usageExplanation": "Dùng cho người sẵn lòng cho đi tiền bạc, thời gian.",
+        "collocations": [
+          "generous gift (món quà hào phóng)",
+          "generous portion (phần ăn đầy đặn)",
+          "generous of you (bạn thật rộng lượng)"
+        ],
+        "exampleEn": "It was generous of him to pay for dinner.",
+        "exampleVi": "Anh ấy thật hào phóng khi trả tiền bữa tối.",
+        "id": "dl_x27"
+      },
+      {
+        "word": "cheerful",
+        "ipa": "/ˈtʃɪr.fəl/",
+        "stress": "CHEER-ful (Trọng âm 1)",
+        "pos": "Tính từ (adj)",
+        "meaningVi": "Vui vẻ, tươi tỉnh",
+        "careerTag": "🏠 Sinh hoạt & Đời sống",
+        "usageExplanation": "Miêu tả người hoặc không khí lạc quan, dễ mến.",
+        "collocations": [
+          "cheerful smile (nụ cười tươi)",
+          "cheerful mood (tâm trạng vui vẻ)",
+          "cheerful voice (giọng nói vui tươi)"
+        ],
+        "exampleEn": "The waiter gave us a cheerful greeting.",
+        "exampleVi": "Người phục vụ chào chúng tôi rất niềm nở.",
+        "id": "dl_x28"
+      },
+      {
+        "word": "lonely",
+        "ipa": "/ˈloʊn.li/",
+        "stress": "LONE-ly (Trọng âm 1)",
+        "pos": "Tính từ (adj)",
+        "meaningVi": "Cô đơn",
+        "careerTag": "🏠 Sinh hoạt & Đời sống",
+        "usageExplanation": "Cảm giác buồn vì thiếu bạn bè hoặc người thân bên cạnh.",
+        "collocations": [
+          "feel lonely (cảm thấy cô đơn)",
+          "lonely life (cuộc sống cô đơn)",
+          "lonely evening (buổi tối cô quạnh)"
+        ],
+        "exampleEn": "He felt lonely after moving to a new city.",
+        "exampleVi": "Anh ấy thấy cô đơn sau khi chuyển đến thành phố mới.",
+        "id": "dl_x29"
+      }
+    ]
+  },
+  {
+    "id": "session_office",
+    "title": "Công sở & Kinh doanh",
+    "subtitle": "Office, Corporate & Business",
+    "icon": "💼",
+    "color": "#3b82f6",
+    "badge": "Văn phòng & Kinh doanh",
+    "description": "Bộ từ vựng thực chiến trong email, họp hành, đàm phán khách hàng và quản lý công việc nơi công sở.",
+    "words": [
+      {
+        "id": "of_1",
+        "word": "schedule",
+        "ipa": "/ˈskedʒ.uːl/",
+        "stress": "SKEJ-ool (Mỹ) / SHED-yool (Anh)",
+        "pos": "Danh từ / Động từ (n, v)",
+        "meaningVi": "Lịch trình làm việc, tiến độ dự án; lên lịch hẹn",
+        "careerTag": "💼 Hành chính & Quản lý",
+        "usageExplanation": "Từ xuất hiện mỗi ngày tại văn phòng. Vừa là danh từ (lịch làm việc/tiến độ), vừa là động từ (sắp xếp lịch họp: 'schedule a meeting'). Chú ý giới từ đi kèm cực hay thi TOEIC và dùng thực tế!",
+        "collocations": [
+          "on schedule (đúng tiến độ)",
+          "ahead of / behind schedule (vượt / chậm tiến độ)",
+          "schedule a meeting (lên lịch một cuộc họp)"
+        ],
+        "exampleEn": "Despite some delays, the project is still on schedule.",
+        "exampleVi": "Mặc dù có một vài sự chậm trễ, dự án vẫn đang đúng tiến độ."
+      },
+      {
+        "id": "of_2",
+        "word": "colleague",
+        "ipa": "/ˈkɑː.liːɡ/",
+        "stress": "KAH-leeg (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Đồng nghiệp (người cùng làm việc tại công ty/tổ chức)",
+        "careerTag": "🏢 Môi trường Công sở",
+        "usageExplanation": "Tương đương với 'coworker', nhưng 'colleague' nghe chuyên nghiệp và trang trọng hơn khi giới thiệu đồng nghiệp với đối tác, khách hàng hoặc trong các ngành chuyên môn.",
+        "collocations": [
+          "former colleague (đồng nghiệp cũ)",
+          "senior colleague (đồng nghiệp tiền bối)",
+          "consult with colleagues (tham khảo ý kiến đồng nghiệp)"
+        ],
+        "exampleEn": "Let me discuss this proposal with my colleagues first.",
+        "exampleVi": "Hãy để tôi thảo luận bản đề xuất này với các đồng nghiệp trước nhé."
+      },
+      {
+        "id": "of_3",
+        "word": "negotiate",
+        "ipa": "/nɪˈɡoʊ.ʃi.eɪt/",
+        "stress": "ni-GOH-shi-eyt (Trọng âm 2)",
+        "pos": "Động từ (v)",
+        "meaningVi": "Đàm phán, thương lượng (hợp đồng, mức lương, giá cả)",
+        "careerTag": "🤝 Kinh doanh & Nhân sự (HR)",
+        "usageExplanation": "Dùng khi hai bên trao đổi để đi đến thỏa thuận chung: thương lượng lương khi phỏng vấn ('negotiate salary') hoặc đàm phán điều khoản hợp đồng với khách hàng.",
+        "collocations": [
+          "negotiate a contract/deal (đàm phán hợp đồng/thương vụ)",
+          "negotiate a higher salary (thương lượng mức lương cao hơn)",
+          "negotiate terms and conditions (đàm phán các điều khoản)"
+        ],
+        "exampleEn": "She managed to negotiate a 15% discount with the supplier.",
+        "exampleVi": "Cô ấy đã thương lượng thành công mức chiết khấu 15% với nhà cung cấp."
+      },
+      {
+        "id": "of_4",
+        "word": "deadline",
+        "ipa": "/ˈded.laɪn/",
+        "stress": "DED-lyn (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Hạn chót phải hoàn thành và nộp công việc",
+        "careerTag": "⏳ Quản lý Dự án",
+        "usageExplanation": "Dân văn phòng dùng từ này hàng ngày, nhưng khi nói tiếng Anh hãy nhớ 3 động từ chuẩn đi với 'deadline': kịp hạn là 'MEET a deadline', trễ hạn là 'MISS a deadline', xin dời hạn là 'EXTEND a deadline'.",
+        "collocations": [
+          "meet the deadline (hoàn thành đúng hạn chót)",
+          "miss a deadline (trễ hạn chót)",
+          "tight/strict deadline (hạn chót gấp gáp/nghiêm ngặt)"
+        ],
+        "exampleEn": "We are working overtime to meet the Friday deadline.",
+        "exampleVi": "Chúng tôi đang tăng ca để kịp hạn chót vào thứ Sáu."
+      },
+      {
+        "id": "of_5",
+        "word": "approve",
+        "ipa": "/əˈpruːv/",
+        "stress": "uh-PROOV (Trọng âm 2)",
+        "pos": "Động từ (v)",
+        "meaningVi": "Phê duyệt, chấp thuận chính thức (ngân sách, đơn xin nghỉ, kế hoạch)",
+        "careerTag": "📋 Quản lý & Tài chính",
+        "usageExplanation": "Dùng khi sếp hoặc bộ phận có thẩm quyền ký duyệt kế hoạch, báo giá, đơn nghỉ phép. Danh từ tương ứng rất hay gặp trên hệ thống công ty là 'approval' (sự phê duyệt: waiting for approval).",
+        "collocations": [
+          "approve the budget/request (duyệt ngân sách/yêu cầu)",
+          "get manager's approval (xin phê duyệt của quản lý)",
+          "officially approved (được phê duyệt chính thức)"
+        ],
+        "exampleEn": "The director has approved our marketing budget for next quarter.",
+        "exampleVi": "Giám đốc đã phê duyệt ngân sách marketing của chúng ta cho quý tới."
+      },
+      {
+        "id": "of_6",
+        "word": "agenda",
+        "ipa": "/əˈdʒen.də/",
+        "stress": "uh-JEN-duh (Trọng âm 2)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Chương trình nghị sự, danh sách các nội dung sẽ bàn trong cuộc họp",
+        "careerTag": "🗣️ Họp hành & Điều phối",
+        "usageExplanation": "Trước mỗi cuộc họp chuyên nghiệp, người tổ chức sẽ gửi 'meeting agenda' để mọi người biết cuộc họp bàn về những mục nào, tránh họp lan man.",
+        "collocations": [
+          "on the agenda (có trong chương trình họp)",
+          "first item on the agenda (nội dung đầu tiên trong cuộc họp)",
+          "set/share the meeting agenda (lên/gửi khung nội dung cuộc họp)"
+        ],
+        "exampleEn": "Cost reduction is the main item on today's meeting agenda.",
+        "exampleVi": "Cắt giảm chi phí là nội dung chính trong chương trình họp hôm nay."
+      },
+      {
+        "id": "of_7",
+        "word": "revenue",
+        "ipa": "/ˈrev.ə.nuː/",
+        "stress": "REV-uh-noo (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Doanh thu (tổng số tiền thu về từ bán hàng/dịch vụ trước khi trừ chi phí)",
+        "careerTag": "📈 Kinh doanh & Kế toán",
+        "usageExplanation": "Cần phân biệt rõ trong kinh doanh: 'Revenue' là tổng doanh thu bán hàng mang về, còn sau khi trừ hết chi phí mới ra 'Profit' (lợi nhuận). Dùng cực nhiều trong báo cáo quý/năm.",
+        "collocations": [
+          "generate revenue (tạo ra doanh thu)",
+          "annual/quarterly revenue (doanh thu hàng năm/hàng quý)",
+          "revenue growth/stream (tăng trưởng/nguồn thu)"
+        ],
+        "exampleEn": "Our online sales generated record revenue this month.",
+        "exampleVi": "Mảng bán hàng trực tuyến của chúng ta đã tạo ra doanh thu kỷ lục trong tháng này."
+      },
+      {
+        "id": "of_8",
+        "word": "postpone",
+        "ipa": "/poʊstˈpoʊn/",
+        "stress": "pohst-POHN (Trọng âm 2)",
+        "pos": "Động từ (v)",
+        "meaningVi": "Hoãn lại, dời lịch sang một thời điểm muộn hơn",
+        "careerTag": "📅 Thư ký & Điều phối",
+        "usageExplanation": "Trong email công sở, khi muốn dời lịch họp hoặc sự kiện, người ta dùng 'postpone' (trang trọng) thay vì 'put off' hay 'delay'. Theo sau 'postpone' là danh từ hoặc V-ing.",
+        "collocations": [
+          "postpone the meeting until... (dời cuộc họp sang...)",
+          "postpone indefinitely (hoãn vô thời hạn)",
+          "postpone launching (hoãn việc ra mắt)"
+        ],
+        "exampleEn": "We had to postpone the client meeting until next Wednesday.",
+        "exampleVi": "Chúng tôi đã phải dời lịch họp khách hàng sang thứ Tư tuần sau."
+      },
+      {
+        "id": "of_9",
+        "word": "recruit",
+        "ipa": "/rɪˈkruːt/",
+        "stress": "ri-KROOT (Trọng âm 2)",
+        "pos": "Động từ / Danh từ (v, n)",
+        "meaningVi": "Tuyển dụng nhân sự mới; nhân viên mới trúng tuyển",
+        "careerTag": "👥 Nhân sự (HR & Talent)",
+        "usageExplanation": "Vừa là động từ (tuyển người vào làm), vừa là danh từ ('new recruits' = nhân viên mới). Danh từ chỉ ngành tuyển dụng là 'recruitment'.",
+        "collocations": [
+          "recruit new talent/staff (tuyển dụng nhân tài/nhân sự mới)",
+          "recruitment process (quy trình tuyển dụng)",
+          "train new recruits (đào tạo nhân viên mới)"
+        ],
+        "exampleEn": "The company is planning to recruit 20 software engineers this year.",
+        "exampleVi": "Công ty đang lên kế hoạch tuyển dụng 20 kỹ sư phần mềm trong năm nay."
+      },
+      {
+        "id": "of_10",
+        "word": "invoice",
+        "ipa": "/ˈɪn.vɔɪs/",
+        "stress": "IN-voys (Trọng âm 1)",
+        "pos": "Danh từ / Động từ (n, v)",
+        "meaningVi": "Hóa đơn thanh toán thương mại (liệt kê hàng hóa/dịch vụ và số tiền cần trả)",
+        "careerTag": "🧾 Kế toán & Mua hàng",
+        "usageExplanation": "Khác với 'receipt' (biên lai xác nhận ĐÃ trả tiền xong), 'invoice' là hóa đơn gửi cho khách hàng/đối tác để YÊU CẦU thanh toán theo hợp đồng hoặc đơn hàng.",
+        "collocations": [
+          "issue/send an invoice (xuất/gửi hóa đơn)",
+          "pay/settle an invoice (thanh toán hóa đơn)",
+          "attached invoice (hóa đơn đính kèm trong email)"
+        ],
+        "exampleEn": "Please find the attached invoice for the services provided in October.",
+        "exampleVi": "Vui lòng xem hóa đơn đính kèm cho các dịch vụ đã cung cấp trong tháng 10."
+      },
+      {
+        "word": "budget",
+        "ipa": "/ˈbʌdʒ.ɪt/",
+        "stress": "BUD-jit (Trọng âm 1)",
+        "pos": "Danh từ / Động từ (n, v)",
+        "meaningVi": "Ngân sách; lập kế hoạch chi tiêu",
+        "careerTag": "💰 Tài chính",
+        "usageExplanation": "Dùng khi nói về số tiền được phân bổ cho dự án hay phòng ban. Cũng là động từ khi lên kế hoạch chi tiêu.",
+        "collocations": [
+          "annual budget (ngân sách hằng năm)",
+          "within budget (trong ngân sách)",
+          "budget cuts (cắt giảm ngân sách)"
+        ],
+        "exampleEn": "We must finish the project within budget.",
+        "exampleVi": "Chúng ta phải hoàn thành dự án trong ngân sách.",
+        "id": "of_x1"
+      },
+      {
+        "word": "employee",
+        "ipa": "/ɪmˈplɔɪ.iː/",
+        "stress": "em-PLOY-ee (Trọng âm 2)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Nhân viên, người làm công",
+        "careerTag": "👥 Nhân sự",
+        "usageExplanation": "Chỉ người được công ty thuê và trả lương. Đối lập với employer (người sử dụng lao động).",
+        "collocations": [
+          "full-time employee (nhân viên toàn thời gian)",
+          "employee benefits (phúc lợi nhân viên)",
+          "new employee (nhân viên mới)"
+        ],
+        "exampleEn": "Every new employee attends an orientation session.",
+        "exampleVi": "Mỗi nhân viên mới đều tham dự buổi định hướng.",
+        "id": "of_x2"
+      },
+      {
+        "word": "promotion",
+        "ipa": "/prəˈmoʊ.ʃən/",
+        "stress": "pro-MO-tion (Trọng âm 2)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Sự thăng chức; chương trình khuyến mãi",
+        "careerTag": "👥 Nhân sự & Marketing",
+        "usageExplanation": "Có hai nghĩa phổ biến: được thăng chức hoặc chiến dịch quảng bá sản phẩm.",
+        "collocations": [
+          "get a promotion (được thăng chức)",
+          "sales promotion (khuyến mãi bán hàng)",
+          "promotion campaign (chiến dịch quảng bá)"
+        ],
+        "exampleEn": "She received a promotion after two years.",
+        "exampleVi": "Cô ấy được thăng chức sau hai năm.",
+        "id": "of_x3"
+      },
+      {
+        "word": "strategy",
+        "ipa": "/ˈstræt.ə.dʒi/",
+        "stress": "STRAT-e-gy (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Chiến lược",
+        "careerTag": "📈 Kinh doanh",
+        "usageExplanation": "Kế hoạch dài hạn để đạt mục tiêu của doanh nghiệp. Hay xuất hiện trong họp lãnh đạo.",
+        "collocations": [
+          "marketing strategy (chiến lược tiếp thị)",
+          "develop a strategy (xây dựng chiến lược)",
+          "long-term strategy (chiến lược dài hạn)"
+        ],
+        "exampleEn": "Our new strategy focuses on online sales.",
+        "exampleVi": "Chiến lược mới của chúng tôi tập trung vào bán hàng trực tuyến.",
+        "id": "of_x4"
+      },
+      {
+        "word": "candidate",
+        "ipa": "/ˈkæn.dɪ.dət/",
+        "stress": "CAN-di-date (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Ứng viên",
+        "careerTag": "👥 Nhân sự",
+        "usageExplanation": "Người nộp đơn xin việc hoặc ứng cử. Bộ phận tuyển dụng dùng rất thường xuyên.",
+        "collocations": [
+          "strong candidate (ứng viên mạnh)",
+          "shortlist candidates (lập danh sách rút gọn ứng viên)",
+          "job candidate (ứng viên xin việc)"
+        ],
+        "exampleEn": "The best candidate will start next month.",
+        "exampleVi": "Ứng viên tốt nhất sẽ bắt đầu vào tháng sau.",
+        "id": "of_x5"
+      },
+      {
+        "word": "supervisor",
+        "ipa": "/ˈsuː.pɚ.vaɪ.zɚ/",
+        "stress": "SU-per-vi-sor (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Người giám sát, quản lý trực tiếp",
+        "careerTag": "💼 Hành chính & Quản lý",
+        "usageExplanation": "Người theo dõi và hướng dẫn công việc của nhóm nhân viên.",
+        "collocations": [
+          "report to a supervisor (báo cáo cho cấp trên)",
+          "shift supervisor (giám sát ca)",
+          "line supervisor (giám sát tuyến)"
+        ],
+        "exampleEn": "Please ask your supervisor for approval.",
+        "exampleVi": "Hãy xin sự đồng ý từ người giám sát của bạn.",
+        "id": "of_x6"
+      },
+      {
+        "word": "expenses",
+        "ipa": "/ɪkˈspen.sɪz/",
+        "stress": "ex-PEN-ses (Trọng âm 2)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Các khoản chi phí",
+        "careerTag": "💰 Tài chính",
+        "usageExplanation": "Tiền chi cho hoạt động công việc, như đi công tác. Thường phải nộp hóa đơn để hoàn lại.",
+        "collocations": [
+          "travel expenses (chi phí đi lại)",
+          "cut expenses (cắt giảm chi phí)",
+          "claim expenses (xin hoàn chi phí)"
+        ],
+        "exampleEn": "The company covers all travel expenses.",
+        "exampleVi": "Công ty chi trả mọi chi phí đi lại.",
+        "id": "of_x7"
+      },
+      {
+        "word": "profit",
+        "ipa": "/ˈprɑː.fɪt/",
+        "stress": "PROF-it (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Lợi nhuận",
+        "careerTag": "💰 Tài chính",
+        "usageExplanation": "Số tiền còn lại sau khi trừ chi phí. Đối lập với loss (khoản lỗ).",
+        "collocations": [
+          "net profit (lợi nhuận ròng)",
+          "make a profit (có lãi)",
+          "profit margin (biên lợi nhuận)"
+        ],
+        "exampleEn": "The firm made a huge profit this year.",
+        "exampleVi": "Công ty đã có lợi nhuận khổng lồ trong năm nay.",
+        "id": "of_x8"
+      },
+      {
+        "word": "customer",
+        "ipa": "/ˈkʌs.tə.mɚ/",
+        "stress": "CUS-to-mer (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Khách hàng",
+        "careerTag": "📈 Kinh doanh",
+        "usageExplanation": "Người mua sản phẩm hoặc dịch vụ của công ty.",
+        "collocations": [
+          "loyal customer (khách hàng trung thành)",
+          "customer service (dịch vụ khách hàng)",
+          "customer feedback (phản hồi khách hàng)"
+        ],
+        "exampleEn": "Customer satisfaction is our top priority.",
+        "exampleVi": "Sự hài lòng của khách hàng là ưu tiên hàng đầu.",
+        "id": "of_x9"
+      },
+      {
+        "word": "proposal",
+        "ipa": "/prəˈpoʊ.zəl/",
+        "stress": "pro-PO-sal (Trọng âm 2)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Bản đề xuất",
+        "careerTag": "💼 Hành chính & Quản lý",
+        "usageExplanation": "Tài liệu trình bày ý tưởng hoặc kế hoạch để được xem xét, chấp thuận.",
+        "collocations": [
+          "submit a proposal (nộp đề xuất)",
+          "business proposal (đề xuất kinh doanh)",
+          "reject a proposal (từ chối đề xuất)"
+        ],
+        "exampleEn": "She presented a proposal to the board.",
+        "exampleVi": "Cô ấy trình bày một bản đề xuất trước hội đồng quản trị.",
+        "id": "of_x10"
+      },
+      {
+        "word": "contract",
+        "ipa": "/ˈkɑːn.trækt/",
+        "stress": "CON-tract (Trọng âm 1)",
+        "pos": "Danh từ / Động từ (n, v)",
+        "meaningVi": "Hợp đồng; ký hợp đồng",
+        "careerTag": "⚖️ Pháp lý & Nhân sự",
+        "usageExplanation": "Văn bản thỏa thuận có giá trị pháp lý giữa hai bên. Danh từ nhấn âm 1.",
+        "collocations": [
+          "sign a contract (ký hợp đồng)",
+          "terminate a contract (chấm dứt hợp đồng)",
+          "contract renewal (gia hạn hợp đồng)"
+        ],
+        "exampleEn": "They signed a two-year contract.",
+        "exampleVi": "Họ đã ký hợp đồng hai năm.",
+        "id": "of_x11"
+      },
+      {
+        "word": "salary",
+        "ipa": "/ˈsæl.ɚ.i/",
+        "stress": "SAL-a-ry (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Tiền lương (theo tháng/năm)",
+        "careerTag": "👥 Nhân sự",
+        "usageExplanation": "Khoản trả cố định định kỳ cho nhân viên văn phòng.",
+        "collocations": [
+          "monthly salary (lương tháng)",
+          "salary increase (tăng lương)",
+          "negotiate salary (thương lượng lương)"
+        ],
+        "exampleEn": "He asked for a higher salary.",
+        "exampleVi": "Anh ấy đề nghị mức lương cao hơn.",
+        "id": "of_x12"
+      },
+      {
+        "word": "resign",
+        "ipa": "/rɪˈzaɪn/",
+        "stress": "re-SIGN (Trọng âm 2)",
+        "pos": "Động từ (v)",
+        "meaningVi": "Từ chức, xin nghỉ việc",
+        "careerTag": "👥 Nhân sự",
+        "usageExplanation": "Chủ động rời vị trí công việc, thường nộp đơn chính thức.",
+        "collocations": [
+          "resign from a post (từ chức khỏi vị trí)",
+          "resign effective immediately (từ chức có hiệu lực ngay)",
+          "resign voluntarily (tự nguyện từ chức)"
+        ],
+        "exampleEn": "He decided to resign last week.",
+        "exampleVi": "Anh ấy quyết định từ chức vào tuần trước.",
+        "id": "of_x13"
+      },
+      {
+        "word": "delegate",
+        "ipa": "/ˈdel.ə.ɡeɪt/",
+        "stress": "DEL-e-gate (Trọng âm 1)",
+        "pos": "Động từ (v)",
+        "meaningVi": "Giao việc, ủy quyền",
+        "careerTag": "💼 Quản lý",
+        "usageExplanation": "Giao một phần trách nhiệm cho người khác. Kỹ năng quan trọng của quản lý.",
+        "collocations": [
+          "delegate tasks (giao nhiệm vụ)",
+          "delegate authority (ủy quyền)",
+          "delegate responsibility (giao trách nhiệm)"
+        ],
+        "exampleEn": "Good managers know how to delegate.",
+        "exampleVi": "Người quản lý giỏi biết cách giao việc.",
+        "id": "of_x14"
+      },
+      {
+        "word": "accountant",
+        "ipa": "/əˈkaʊn.t̬ənt/",
+        "stress": "ac-COUN-tant (Trọng âm 2)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Kế toán viên",
+        "careerTag": "💰 Tài chính",
+        "usageExplanation": "Người quản lý sổ sách, thuế và báo cáo tài chính của công ty.",
+        "collocations": [
+          "chartered accountant (kế toán viên công chứng)",
+          "hire an accountant (thuê kế toán)",
+          "senior accountant (kế toán cao cấp)"
+        ],
+        "exampleEn": "Our accountant prepares the tax report.",
+        "exampleVi": "Kế toán của chúng tôi chuẩn bị báo cáo thuế.",
+        "id": "of_x15"
+      },
+      {
+        "word": "stakeholder",
+        "ipa": "/ˈsteɪkˌhoʊl.dɚ/",
+        "stress": "STAKE-hol-der (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Bên liên quan",
+        "careerTag": "📈 Kinh doanh",
+        "usageExplanation": "Cá nhân hay nhóm chịu ảnh hưởng bởi quyết định của công ty, như cổ đông, khách hàng.",
+        "collocations": [
+          "key stakeholders (các bên liên quan chính)",
+          "engage stakeholders (làm việc với các bên liên quan)",
+          "stakeholder meeting (họp các bên liên quan)"
+        ],
+        "exampleEn": "We must update all stakeholders weekly.",
+        "exampleVi": "Chúng ta phải cập nhật cho mọi bên liên quan hằng tuần.",
+        "id": "of_x16"
+      },
+      {
+        "word": "competitor",
+        "ipa": "/kəmˈpet̬.ə.t̬ɚ/",
+        "stress": "com-PET-i-tor (Trọng âm 2)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Đối thủ cạnh tranh",
+        "careerTag": "📈 Kinh doanh & Marketing",
+        "usageExplanation": "Công ty bán sản phẩm tương tự trên cùng thị trường.",
+        "collocations": [
+          "main competitor (đối thủ chính)",
+          "outperform competitors (vượt trội đối thủ)",
+          "analyze competitors (phân tích đối thủ)"
+        ],
+        "exampleEn": "Our competitor launched a cheaper product.",
+        "exampleVi": "Đối thủ của chúng tôi đã ra mắt sản phẩm rẻ hơn.",
+        "id": "of_x17"
+      },
+      {
+        "word": "advertise",
+        "ipa": "/ˈæd.vɚ.taɪz/",
+        "stress": "AD-ver-tise (Trọng âm 1)",
+        "pos": "Động từ (v)",
+        "meaningVi": "Quảng cáo",
+        "careerTag": "📣 Marketing",
+        "usageExplanation": "Giới thiệu sản phẩm hay tuyển dụng công khai qua truyền thông.",
+        "collocations": [
+          "advertise a product (quảng cáo sản phẩm)",
+          "advertise a vacancy (đăng tin tuyển dụng)",
+          "advertise online (quảng cáo trực tuyến)"
+        ],
+        "exampleEn": "They advertise on social media.",
+        "exampleVi": "Họ quảng cáo trên mạng xã hội.",
+        "id": "of_x18"
+      },
+      {
+        "word": "feedback",
+        "ipa": "/ˈfiːd.bæk/",
+        "stress": "FEED-back (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Phản hồi, góp ý",
+        "careerTag": "💼 Hành chính & Nhân sự",
+        "usageExplanation": "Danh từ không đếm được, không thêm s. Dùng khi đánh giá công việc.",
+        "collocations": [
+          "give feedback (đưa ra phản hồi)",
+          "positive feedback (phản hồi tích cực)",
+          "constructive feedback (góp ý mang tính xây dựng)"
+        ],
+        "exampleEn": "I appreciate your honest feedback.",
+        "exampleVi": "Tôi trân trọng góp ý thẳng thắn của bạn.",
+        "id": "of_x19"
+      },
+      {
+        "word": "outsource",
+        "ipa": "/ˈaʊt.sɔːrs/",
+        "stress": "OUT-source (Trọng âm 1)",
+        "pos": "Động từ (v)",
+        "meaningVi": "Thuê ngoài",
+        "careerTag": "📈 Kinh doanh",
+        "usageExplanation": "Giao công việc cho công ty bên ngoài thay vì tự làm.",
+        "collocations": [
+          "outsource production (thuê ngoài sản xuất)",
+          "outsource services (thuê ngoài dịch vụ)",
+          "outsource to vendors (thuê ngoài cho nhà cung cấp)"
+        ],
+        "exampleEn": "The firm decided to outsource its payroll.",
+        "exampleVi": "Công ty quyết định thuê ngoài việc tính lương.",
+        "id": "of_x20"
+      },
+      {
+        "word": "quarterly",
+        "ipa": "/ˈkwɔːr.t̬ɚ.li/",
+        "stress": "QUAR-ter-ly (Trọng âm 1)",
+        "pos": "Tính từ / Trạng từ (adj, adv)",
+        "meaningVi": "Theo quý, hằng quý",
+        "careerTag": "💰 Tài chính",
+        "usageExplanation": "Diễn ra mỗi ba tháng, thường nói về báo cáo hay doanh thu.",
+        "collocations": [
+          "quarterly report (báo cáo quý)",
+          "quarterly earnings (thu nhập quý)",
+          "quarterly review (đánh giá quý)"
+        ],
+        "exampleEn": "We publish quarterly results online.",
+        "exampleVi": "Chúng tôi đăng kết quả hằng quý trực tuyến.",
+        "id": "of_x21"
+      },
+      {
+        "word": "efficient",
+        "ipa": "/ɪˈfɪʃ.ənt/",
+        "stress": "ef-FI-cient (Trọng âm 2)",
+        "pos": "Tính từ (adj)",
+        "meaningVi": "Hiệu quả, làm việc năng suất",
+        "careerTag": "💼 Hành chính",
+        "usageExplanation": "Làm tốt mà ít tốn thời gian hay tiền bạc.",
+        "collocations": [
+          "efficient system (hệ thống hiệu quả)",
+          "highly efficient (rất hiệu quả)",
+          "energy efficient (tiết kiệm năng lượng)"
+        ],
+        "exampleEn": "She is an efficient project manager.",
+        "exampleVi": "Cô ấy là một quản lý dự án làm việc hiệu quả.",
+        "id": "of_x22"
+      },
+      {
+        "word": "merger",
+        "ipa": "/ˈmɝː.dʒɚ/",
+        "stress": "MER-ger (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Sự sáp nhập công ty",
+        "careerTag": "📈 Kinh doanh & Tài chính",
+        "usageExplanation": "Hai công ty hợp nhất thành một. Thường đi cùng acquisition.",
+        "collocations": [
+          "announce a merger (công bố sáp nhập)",
+          "merger talks (đàm phán sáp nhập)",
+          "proposed merger (vụ sáp nhập đề xuất)"
+        ],
+        "exampleEn": "The merger created a giant company.",
+        "exampleVi": "Vụ sáp nhập đã tạo ra một công ty khổng lồ.",
+        "id": "of_x23"
+      },
+      {
+        "word": "shareholder",
+        "ipa": "/ˈʃerˌhoʊl.dɚ/",
+        "stress": "SHARE-hol-der (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Cổ đông",
+        "careerTag": "💰 Tài chính",
+        "usageExplanation": "Người sở hữu cổ phần của công ty và có quyền biểu quyết.",
+        "collocations": [
+          "major shareholder (cổ đông lớn)",
+          "shareholder meeting (đại hội cổ đông)",
+          "shareholder value (giá trị cổ đông)"
+        ],
+        "exampleEn": "Shareholders approved the dividend.",
+        "exampleVi": "Các cổ đông đã chấp thuận khoản cổ tức.",
+        "id": "of_x24"
+      },
+      {
+        "word": "productivity",
+        "ipa": "/ˌproʊ.dʌkˈtɪv.ə.t̬i/",
+        "stress": "pro-duc-TIV-i-ty (Trọng âm 3)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Năng suất làm việc",
+        "careerTag": "💼 Hành chính & Quản lý",
+        "usageExplanation": "Mức độ làm ra kết quả trong một khoảng thời gian.",
+        "collocations": [
+          "boost productivity (tăng năng suất)",
+          "labor productivity (năng suất lao động)",
+          "productivity gains (mức tăng năng suất)"
+        ],
+        "exampleEn": "Flexible hours improved productivity.",
+        "exampleVi": "Giờ làm linh hoạt đã cải thiện năng suất.",
+        "id": "of_x25"
+      },
+      {
+        "word": "negotiation",
+        "ipa": "/nɪˌɡoʊ.ʃiˈeɪ.ʃən/",
+        "stress": "ne-go-ti-A-tion (Trọng âm 4)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Cuộc thương lượng",
+        "careerTag": "📈 Kinh doanh",
+        "usageExplanation": "Quá trình bàn bạc để đạt thỏa thuận về giá hoặc điều khoản.",
+        "collocations": [
+          "enter negotiations (bắt đầu đàm phán)",
+          "contract negotiation (đàm phán hợp đồng)",
+          "salary negotiation (thương lượng lương)"
+        ],
+        "exampleEn": "The negotiation lasted three hours.",
+        "exampleVi": "Cuộc thương lượng kéo dài ba tiếng.",
+        "id": "of_x26"
+      },
+      {
+        "word": "investor",
+        "ipa": "/ɪnˈves.t̬ɚ/",
+        "stress": "in-VES-tor (Trọng âm 2)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Nhà đầu tư",
+        "careerTag": "💰 Tài chính",
+        "usageExplanation": "Người bỏ vốn vào công ty để mong sinh lời.",
+        "collocations": [
+          "attract investors (thu hút nhà đầu tư)",
+          "private investor (nhà đầu tư tư nhân)",
+          "angel investor (nhà đầu tư thiên thần)"
+        ],
+        "exampleEn": "The startup is looking for investors.",
+        "exampleVi": "Công ty khởi nghiệp đang tìm nhà đầu tư.",
+        "id": "of_x27"
+      },
+      {
+        "word": "workload",
+        "ipa": "/ˈwɝːk.loʊd/",
+        "stress": "WORK-load (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Khối lượng công việc",
+        "careerTag": "💼 Hành chính & Nhân sự",
+        "usageExplanation": "Lượng việc một người phải xử lý. Hay dùng khi bàn về quá tải.",
+        "collocations": [
+          "heavy workload (khối lượng việc nặng)",
+          "reduce workload (giảm khối lượng việc)",
+          "manage workload (quản lý khối lượng việc)"
+        ],
+        "exampleEn": "My workload doubled after the layoffs.",
+        "exampleVi": "Khối lượng công việc của tôi tăng gấp đôi sau đợt sa thải.",
+        "id": "of_x28"
+      },
+      {
+        "word": "headquarters",
+        "ipa": "/ˈhedˌkwɔːr.t̬ɚz/",
+        "stress": "HEAD-quar-ters (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Trụ sở chính",
+        "careerTag": "💼 Hành chính & Kinh doanh",
+        "usageExplanation": "Nơi đặt văn phòng điều hành chính của công ty, thường viết tắt HQ.",
+        "collocations": [
+          "company headquarters (trụ sở công ty)",
+          "global headquarters (trụ sở toàn cầu)",
+          "move headquarters (dời trụ sở)"
+        ],
+        "exampleEn": "The headquarters is located in Singapore.",
+        "exampleVi": "Trụ sở chính đặt tại Singapore.",
+        "id": "of_x29"
+      },
+      {
+        "word": "reimburse",
+        "ipa": "/ˌriː.ɪmˈbɝːs/",
+        "stress": "re-im-BURSE (Trọng âm 3)",
+        "pos": "Động từ (v)",
+        "meaningVi": "Hoàn trả tiền đã chi",
+        "careerTag": "💰 Tài chính",
+        "usageExplanation": "Công ty trả lại tiền bạn đã tự bỏ ra cho công việc.",
+        "collocations": [
+          "reimburse expenses (hoàn chi phí)",
+          "reimburse an employee (hoàn tiền cho nhân viên)",
+          "fully reimbursed (được hoàn đầy đủ)"
+        ],
+        "exampleEn": "The company will reimburse your taxi fare.",
+        "exampleVi": "Công ty sẽ hoàn lại tiền taxi của bạn.",
+        "id": "of_x30"
+      }
+    ]
+  },
+  {
+    "id": "session_tech",
+    "title": "Công nghệ & IT",
+    "subtitle": "Software, Tech & Digital",
+    "icon": "💻",
+    "color": "#8b5cf6",
+    "badge": "IT & Phần mềm",
+    "description": "Từ vựng chuyên ngành dành cho lập trình viên, QA/Tester, Product Manager và người làm công nghệ.",
+    "words": [
+      {
+        "id": "it_1",
+        "word": "deploy",
+        "ipa": "/dɪˈplɔɪ/",
+        "stress": "di-PLOY (Trọng âm 2)",
+        "pos": "Động từ (v)",
+        "meaningVi": "Triển khai, đưa phần mềm/tính năng mới lên môi trường chạy thực tế",
+        "careerTag": "💻 Lập trình & DevOps",
+        "usageExplanation": "Thuật ngữ sống còn của dân IT: khi code đã viết và test xong, bước đẩy code lên server cho người dùng sử dụng gọi là 'deploy'. Danh từ là 'deployment'.",
+        "collocations": [
+          "deploy to production (triển khai lên môi trường thực tế)",
+          "deploy a new feature/update (đẩy tính năng/bản cập nhật mới)",
+          "automated deployment (triển khai tự động)"
+        ],
+        "exampleEn": "Never deploy new code to production on a Friday afternoon!",
+        "exampleVi": "Đừng bao giờ triển khai code mới lên môi trường thật vào chiều thứ Sáu!"
+      },
+      {
+        "id": "it_2",
+        "word": "database",
+        "ipa": "/ˈdeɪ.tə.beɪs/",
+        "stress": "DEY-tuh-beys (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Cơ sở dữ liệu (hệ thống lưu trữ và truy xuất thông tin có cấu trúc)",
+        "careerTag": "🗄️ Backend & Dữ liệu",
+        "usageExplanation": "Mọi ứng dụng web/mobile đều cần 'database' (viết tắt là DB) để lưu tài khoản, đơn hàng, tin nhắn. Hay đi kèm các động từ truy vấn (query), sao lưu (back up) hoặc di chuyển (migrate).",
+        "collocations": [
+          "query the database (truy vấn cơ sở dữ liệu)",
+          "database backup / migration (sao lưu / nâng cấp cấu trúc DB)",
+          "relational database (cơ sở dữ liệu quan hệ)"
+        ],
+        "exampleEn": "We back up our customer database every night at midnight.",
+        "exampleVi": "Chúng tôi sao lưu cơ sở dữ liệu khách hàng vào nửa đêm mỗi ngày."
+      },
+      {
+        "id": "it_3",
+        "word": "algorithm",
+        "ipa": "/ˈæl.ɡə.rɪð.əm/",
+        "stress": "AL-guh-ri-thuhm (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Thuật toán (tập hợp các bước/quy tắc xử lý bài toán hoặc gợi ý nội dung)",
+        "careerTag": "🤖 AI, Data & Lập trình",
+        "usageExplanation": "Không chỉ dùng trong lập trình (thuật toán tìm kiếm, sắp xếp), ngày nay từ này còn cực kỳ phổ biến trên mạng xã hội như 'TikTok/YouTube algorithm' (thuật toán đề xuất xu hướng).",
+        "collocations": [
+          "recommendation algorithm (thuật toán đề xuất nội dung)",
+          "machine learning algorithm (thuật toán học máy)",
+          "optimize the algorithm (tối ưu hóa thuật toán)"
+        ],
+        "exampleEn": "The recommendation algorithm suggests videos based on your watch history.",
+        "exampleVi": "Thuật toán đề xuất sẽ gợi ý video dựa trên lịch sử xem của bạn."
+      },
+      {
+        "id": "it_4",
+        "word": "encrypt",
+        "ipa": "/ɪnˈkrɪpt/",
+        "stress": "in-KRIPT (Trọng âm 2)",
+        "pos": "Động từ (v)",
+        "meaningVi": "Mã hóa dữ liệu (biến thông tin thành mật mã để bảo mật)",
+        "careerTag": "🔐 An ninh mạng & Bảo mật",
+        "usageExplanation": "Dùng khi nói về bảo mật mật khẩu, tin nhắn hoặc thanh toán ngân hàng. Ngược nghĩa với 'encrypt' (mã hóa) là 'decrypt' (giải mã), danh từ là 'encryption'.",
+        "collocations": [
+          "end-to-end encrypted (được mã hóa đầu cuối)",
+          "encrypt sensitive data (mã hóa dữ liệu nhạy cảm)",
+          "data encryption (sự mã hóa dữ liệu)"
+        ],
+        "exampleEn": "All user passwords are encrypted before being stored in the system.",
+        "exampleVi": "Tất cả mật khẩu người dùng đều được mã hóa trước khi lưu vào hệ thống."
+      },
+      {
+        "id": "it_5",
+        "word": "compatible",
+        "ipa": "/kəmˈpæt.ə.bəl/",
+        "stress": "kuhm-PAT-uh-bul (Trọng âm 2)",
+        "pos": "Tính từ (adj)",
+        "meaningVi": "Tương thích (có thể hoạt động chung với thiết bị/hệ điều hành khác mà không lỗi)",
+        "careerTag": "📱 Phần cứng & Phần mềm",
+        "usageExplanation": "Dùng khi kiểm tra xem ứng dụng, dây sạc, linh kiện hoặc trình duyệt có chạy tốt với nhau không. Luôn đi với giới từ 'WITH' (compatible with iOS/Android).",
+        "collocations": [
+          "compatible with... (tương thích với...)",
+          "backward compatible (tương thích ngược với phiên bản cũ)",
+          "fully compatible (hoàn toàn tương thích)"
+        ],
+        "exampleEn": "Is this wireless charger compatible with my phone model?",
+        "exampleVi": "Bộ sạc không dây này có tương thích với dòng điện thoại của tôi không?"
+      },
+      {
+        "id": "it_6",
+        "word": "interface",
+        "ipa": "/ˈɪn.tər.feɪs/",
+        "stress": "IN-ter-feys (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Giao diện (nơi người dùng tương tác với máy tính/điện thoại hoặc cổng kết nối giữa 2 hệ thống)",
+        "careerTag": "🎨 UI/UX & Phát triển Web",
+        "usageExplanation": "Chính là chữ 'I' trong UI (User Interface - Giao diện người dùng) và API (Application Programming Interface - Giao diện lập trình ứng dụng).",
+        "collocations": [
+          "user-friendly interface (giao diện thân thiện, dễ dùng)",
+          "graphical user interface - GUI (giao diện đồ họa)",
+          "redesign the interface (thiết kế lại giao diện)"
+        ],
+        "exampleEn": "The app has a clean and intuitive user interface.",
+        "exampleVi": "Ứng dụng này có một giao diện người dùng gọn gàng và trực quan."
+      },
+      {
+        "id": "it_7",
+        "word": "bandwidth",
+        "ipa": "/ˈbænd.wɪtθ/",
+        "stress": "BAND-width (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Băng thông mạng (tốc độ truyền tải dữ liệu); (nghĩa bóng) thời gian/sức lực còn trống để nhận thêm việc",
+        "careerTag": "🌐 Hạ tầng mạng & Công sở Tech",
+        "usageExplanation": "Nghĩa gốc là băng thông đường truyền Internet. Đặc biệt trong các công ty công nghệ, người ta còn dùng theo nghĩa bóng: 'I don't have the bandwidth right now' = Hiện tại mình đang quá tải, không còn sức/thời gian nhận thêm task!",
+        "collocations": [
+          "high/low bandwidth (băng thông cao/thấp)",
+          "consume bandwidth (tiêu tốn băng thông mạng)",
+          "have the mental bandwidth (còn đủ thời gian/tâm sức để gánh việc)"
+        ],
+        "exampleEn": "Streaming 4K video requires a lot of network bandwidth.",
+        "exampleVi": "Phát trực tuyến video 4K đòi hỏi rất nhiều băng thông mạng."
+      },
+      {
+        "id": "it_8",
+        "word": "outage",
+        "ipa": "/ˈaʊ.tɪdʒ/",
+        "stress": "OW-tij (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Sự cố sập hệ thống, mất điện hoặc gián đoạn dịch vụ tạm thời",
+        "careerTag": "🚨 Vận hành Hệ thống (SRE/IT)",
+        "usageExplanation": "Khi Facebook, ngân hàng, mạng Internet bị sập hoặc nhà bị cúp điện, từ chuẩn chuyên ngành trên các thông báo chính thức luôn là 'service outage' hoặc 'power outage'.",
+        "collocations": [
+          "service/system outage (sự cố sập dịch vụ/hệ thống)",
+          "power outage (mất điện / cúp điện)",
+          "cause a major outage (gây ra sự cố gián đoạn diện rộng)"
+        ],
+        "exampleEn": "We apologize for the temporary service outage earlier today.",
+        "exampleVi": "Chúng tôi xin lỗi vì sự cố gián đoạn dịch vụ tạm thời vào sáng nay."
+      },
+      {
+        "id": "it_9",
+        "word": "bug",
+        "ipa": "/bʌɡ/",
+        "stress": "BUHG (1 âm tiết)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Lỗi phần mềm khiến chương trình chạy sai hoặc bị văng (crash)",
+        "careerTag": "🐞 QA/Tester & Developer",
+        "usageExplanation": "Từ quen thuộc nhất của dân làm phần mềm. Khi phát hiện lỗi gọi là 'find/report a bug', khi tìm nguyên nhân và sửa lỗi gọi là 'fix a bug' hoặc 'debug'.",
+        "collocations": [
+          "fix a critical bug (sửa một lỗi nghiêm trọng)",
+          "report/log a bug (báo cáo/ghi nhận lỗi)",
+          "bug-free software (phần mềm không có lỗi)"
+        ],
+        "exampleEn": "The QA team found a critical bug right before the release.",
+        "exampleVi": "Đội kiểm thử (QA) đã phát hiện một lỗi nghiêm trọng ngay trước giờ phát hành."
+      },
+      {
+        "id": "it_10",
+        "word": "credential",
+        "ipa": "/krɪˈden.ʃəl/",
+        "stress": "kri-DEN-shuhl (Trọng âm 2)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Thông tin định danh đăng nhập (tài khoản/mật khẩu/token) hoặc bằng cấp chứng chỉ",
+        "careerTag": "🔑 Bảo mật IT & Tuyển dụng",
+        "usageExplanation": "Trong IT (số nhiều 'credentials'), nó chỉ cặp Username + Password hoặc API Key dùng để đăng nhập ('login credentials'). Trong nhân sự, nó chỉ bằng cấp/chứng chỉ năng lực.",
+        "collocations": [
+          "login credentials (thông tin đăng nhập: tài khoản & mật khẩu)",
+          "invalid credentials (thông tin đăng nhập không hợp lệ)",
+          "academic/professional credentials (bằng cấp/chứng chỉ chuyên môn)"
+        ],
+        "exampleEn": "Never share your login credentials with anyone over email.",
+        "exampleVi": "Đừng bao giờ chia sẻ thông tin đăng nhập của bạn với bất kỳ ai qua email."
+      },
+      {
+        "word": "firewall",
+        "ipa": "/ˈfaɪərwɔːl/",
+        "stress": "FIRE-wall (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Tường lửa, hệ thống chặn truy cập mạng trái phép",
+        "careerTag": "🔒 An ninh mạng",
+        "usageExplanation": "Dùng cho phần mềm hoặc thiết bị lọc lưu lượng mạng vào/ra theo quy tắc bảo mật. Dân IT hay nói 'open a port in the firewall'.",
+        "collocations": [
+          "configure a firewall (cấu hình tường lửa)",
+          "firewall rules (quy tắc tường lửa)",
+          "bypass the firewall (vượt qua tường lửa)"
+        ],
+        "exampleEn": "The firewall blocked the suspicious connection immediately.",
+        "exampleVi": "Tường lửa đã chặn kết nối đáng ngờ ngay lập tức.",
+        "id": "it_x1"
+      },
+      {
+        "word": "malware",
+        "ipa": "/ˈmælweər/",
+        "stress": "MAL-ware (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Phần mềm độc hại nói chung (virus, trojan, ransomware...)",
+        "careerTag": "🔒 An ninh mạng",
+        "usageExplanation": "Từ chung chỉ mọi phần mềm được viết để gây hại hoặc đánh cắp dữ liệu. Là danh từ không đếm được.",
+        "collocations": [
+          "detect malware (phát hiện phần mềm độc hại)",
+          "malware attack (cuộc tấn công bằng mã độc)",
+          "remove malware (gỡ bỏ mã độc)"
+        ],
+        "exampleEn": "Her laptop was infected with malware after she opened the attachment.",
+        "exampleVi": "Laptop của cô ấy bị nhiễm mã độc sau khi mở tệp đính kèm.",
+        "id": "it_x2"
+      },
+      {
+        "word": "phishing",
+        "ipa": "/ˈfɪʃɪŋ/",
+        "stress": "PHISH-ing (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Lừa đảo giả mạo để đánh cắp thông tin đăng nhập qua email/tin nhắn",
+        "careerTag": "🔒 An ninh mạng",
+        "usageExplanation": "Kẻ gian giả danh ngân hàng hay công ty để dụ nạn nhân nhập mật khẩu. Thường đi với 'email' hoặc 'attack'.",
+        "collocations": [
+          "phishing email (email lừa đảo)",
+          "fall for a phishing scam (sập bẫy lừa đảo)",
+          "phishing attempt (nỗ lực lừa đảo)"
+        ],
+        "exampleEn": "Staff are trained to recognise phishing emails.",
+        "exampleVi": "Nhân viên được đào tạo để nhận biết các email lừa đảo.",
+        "id": "it_x3"
+      },
+      {
+        "word": "router",
+        "ipa": "/ˈruːtər/",
+        "stress": "ROU-ter (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Thiết bị định tuyến, bộ phát mạng kết nối thiết bị với internet",
+        "careerTag": "🌐 Mạng máy tính",
+        "usageExplanation": "Thiết bị chuyển gói dữ liệu giữa các mạng; ở nhà thường là bộ phát Wi-Fi. Hay gặp câu 'restart the router'.",
+        "collocations": [
+          "wireless router (bộ định tuyến không dây)",
+          "restart the router (khởi động lại bộ định tuyến)",
+          "router settings (cài đặt bộ định tuyến)"
+        ],
+        "exampleEn": "Try restarting the router if the connection keeps dropping.",
+        "exampleVi": "Hãy thử khởi động lại bộ định tuyến nếu kết nối cứ bị rớt.",
+        "id": "it_x4"
+      },
+      {
+        "word": "firmware",
+        "ipa": "/ˈfɜːrmweər/",
+        "stress": "FIRM-ware (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Phần mềm nhúng cố định điều khiển phần cứng của thiết bị",
+        "careerTag": "📱 Thiết bị & Phần cứng",
+        "usageExplanation": "Chương trình nằm trong thiết bị như router, tai nghe, camera. Cập nhật thường gọi là 'firmware update'.",
+        "collocations": [
+          "update the firmware (cập nhật phần mềm nhúng)",
+          "firmware version (phiên bản phần mềm nhúng)",
+          "flash the firmware (nạp lại phần mềm nhúng)"
+        ],
+        "exampleEn": "The new firmware fixed the battery drain problem.",
+        "exampleVi": "Bản phần mềm nhúng mới đã khắc phục lỗi hao pin.",
+        "id": "it_x5"
+      },
+      {
+        "word": "latency",
+        "ipa": "/ˈleɪtənsi/",
+        "stress": "LA-ten-cy (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Độ trễ, khoảng thời gian chờ giữa yêu cầu và phản hồi",
+        "careerTag": "🌐 Mạng máy tính",
+        "usageExplanation": "Đo bằng mili giây, rất quan trọng với game online và gọi video. Độ trễ thấp nghĩa là mạng phản hồi nhanh.",
+        "collocations": [
+          "low latency (độ trễ thấp)",
+          "network latency (độ trễ mạng)",
+          "reduce latency (giảm độ trễ)"
+        ],
+        "exampleEn": "High latency made the online game almost unplayable.",
+        "exampleVi": "Độ trễ cao khiến trò chơi trực tuyến gần như không thể chơi.",
+        "id": "it_x6"
+      },
+      {
+        "word": "protocol",
+        "ipa": "/ˈproʊtəkɔːl/",
+        "stress": "PRO-to-col (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Giao thức, bộ quy tắc để các thiết bị trao đổi dữ liệu",
+        "careerTag": "🌐 Mạng máy tính",
+        "usageExplanation": "HTTP, FTP, TCP/IP đều là giao thức. Hai hệ thống phải dùng chung giao thức mới giao tiếp được.",
+        "collocations": [
+          "network protocol (giao thức mạng)",
+          "secure protocol (giao thức bảo mật)",
+          "follow the protocol (tuân theo giao thức)"
+        ],
+        "exampleEn": "Both servers must use the same protocol to communicate.",
+        "exampleVi": "Hai máy chủ phải dùng cùng một giao thức để giao tiếp.",
+        "id": "it_x7"
+      },
+      {
+        "word": "hardware",
+        "ipa": "/ˈhɑːrdweər/",
+        "stress": "HARD-ware (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Phần cứng, các bộ phận vật lý của máy tính",
+        "careerTag": "📱 Thiết bị & Phần cứng",
+        "usageExplanation": "Chỉ linh kiện hữu hình như chip, ổ cứng, màn hình; đối lập với phần mềm. Là danh từ không đếm được.",
+        "collocations": [
+          "hardware failure (hỏng phần cứng)",
+          "upgrade the hardware (nâng cấp phần cứng)",
+          "hardware requirements (yêu cầu phần cứng)"
+        ],
+        "exampleEn": "The crash was caused by faulty hardware, not a software bug.",
+        "exampleVi": "Sự cố do phần cứng lỗi chứ không phải lỗi phần mềm.",
+        "id": "it_x8"
+      },
+      {
+        "word": "cache",
+        "ipa": "/kæʃ/",
+        "stress": "CACHE (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Bộ nhớ đệm lưu tạm dữ liệu để truy cập nhanh hơn",
+        "careerTag": "💻 Lập trình & DevOps",
+        "usageExplanation": "Trình duyệt và máy chủ lưu tạm dữ liệu để tải nhanh. Cũng dùng như động từ: lưu vào bộ nhớ đệm.",
+        "collocations": [
+          "clear the cache (xóa bộ nhớ đệm)",
+          "browser cache (bộ nhớ đệm trình duyệt)",
+          "cache memory (bộ nhớ đệm)"
+        ],
+        "exampleEn": "Clear your cache if the website still shows the old design.",
+        "exampleVi": "Hãy xóa bộ nhớ đệm nếu trang web vẫn hiện thiết kế cũ.",
+        "id": "it_x9"
+      },
+      {
+        "word": "debug",
+        "ipa": "/diːˈbʌɡ/",
+        "stress": "de-BUG (Trọng âm 2)",
+        "pos": "Động từ (v)",
+        "meaningVi": "Gỡ lỗi, tìm và sửa lỗi trong mã nguồn",
+        "careerTag": "💻 Lập trình & DevOps",
+        "usageExplanation": "Công việc hằng ngày của lập trình viên: tìm nguyên nhân chương trình chạy sai rồi sửa. Danh từ liên quan là 'debugger'.",
+        "collocations": [
+          "debug the code (gỡ lỗi mã)",
+          "debug an issue (xử lý một sự cố)",
+          "debugging tools (công cụ gỡ lỗi)"
+        ],
+        "exampleEn": "It took me three hours to debug that tiny function.",
+        "exampleVi": "Tôi mất ba tiếng để gỡ lỗi cái hàm nhỏ xíu đó.",
+        "id": "it_x10"
+      },
+      {
+        "word": "compile",
+        "ipa": "/kəmˈpaɪl/",
+        "stress": "com-PILE (Trọng âm 2)",
+        "pos": "Động từ (v)",
+        "meaningVi": "Biên dịch mã nguồn thành chương trình máy chạy được",
+        "careerTag": "💻 Lập trình & DevOps",
+        "usageExplanation": "Dùng với các ngôn ngữ như C++ hay Java: mã được chuyển thành dạng máy hiểu. Nếu lỗi cú pháp, mã sẽ không biên dịch được.",
+        "collocations": [
+          "compile the code (biên dịch mã)",
+          "fail to compile (biên dịch thất bại)",
+          "compile time (thời gian biên dịch)"
+        ],
+        "exampleEn": "The program won't compile because of a missing semicolon.",
+        "exampleVi": "Chương trình không biên dịch được vì thiếu dấu chấm phẩy.",
+        "id": "it_x11"
+      },
+      {
+        "word": "repository",
+        "ipa": "/rɪˈpɑːzətɔːri/",
+        "stress": "re-POS-i-to-ry (Trọng âm 2)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Kho lưu trữ mã nguồn kèm lịch sử thay đổi",
+        "careerTag": "💻 Lập trình & DevOps",
+        "usageExplanation": "Nơi chứa dự án trên Git/GitHub, thường viết tắt là 'repo'. Cả nhóm cùng đẩy và lấy mã từ đó.",
+        "collocations": [
+          "clone a repository (sao chép kho mã)",
+          "private repository (kho mã riêng tư)",
+          "push to the repository (đẩy mã lên kho)"
+        ],
+        "exampleEn": "Please push your changes to the main repository today.",
+        "exampleVi": "Hôm nay hãy đẩy thay đổi của bạn lên kho mã chính.",
+        "id": "it_x12"
+      },
+      {
+        "word": "framework",
+        "ipa": "/ˈfreɪmwɜːrk/",
+        "stress": "FRAME-work (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Khung phát triển, bộ thư viện và quy ước dựng sẵn để xây ứng dụng",
+        "careerTag": "💻 Lập trình & DevOps",
+        "usageExplanation": "Giúp lập trình viên không phải viết mọi thứ từ đầu, ví dụ React, Django. Chọn khung phù hợp ảnh hưởng lớn đến dự án.",
+        "collocations": [
+          "web framework (khung phát triển web)",
+          "popular framework (khung phổ biến)",
+          "built on a framework (xây trên một khung)"
+        ],
+        "exampleEn": "We chose a lightweight framework to speed up development.",
+        "exampleVi": "Chúng tôi chọn một khung gọn nhẹ để đẩy nhanh quá trình phát triển.",
+        "id": "it_x13"
+      },
+      {
+        "word": "scalable",
+        "ipa": "/ˈskeɪləbl/",
+        "stress": "SCA-la-ble (Trọng âm 1)",
+        "pos": "Tính từ (adj)",
+        "meaningVi": "Có khả năng mở rộng khi lượng người dùng hoặc dữ liệu tăng",
+        "careerTag": "💻 Lập trình & DevOps",
+        "usageExplanation": "Hệ thống tốt phải xử lý được tải lớn hơn mà không phải làm lại từ đầu. Danh từ là 'scalability'.",
+        "collocations": [
+          "scalable architecture (kiến trúc có thể mở rộng)",
+          "highly scalable (rất dễ mở rộng)",
+          "scalable solution (giải pháp mở rộng được)"
+        ],
+        "exampleEn": "The startup needs a scalable system to handle millions of users.",
+        "exampleVi": "Công ty khởi nghiệp cần một hệ thống dễ mở rộng để phục vụ hàng triệu người dùng.",
+        "id": "it_x14"
+      },
+      {
+        "word": "redundant",
+        "ipa": "/rɪˈdʌndənt/",
+        "stress": "re-DUN-dant (Trọng âm 2)",
+        "pos": "Tính từ (adj)",
+        "meaningVi": "Dự phòng, dư thừa có chủ đích để hệ thống không sập khi có sự cố",
+        "careerTag": "🌐 Mạng máy tính",
+        "usageExplanation": "Trong hạ tầng IT, thành phần dự phòng là điều tốt, giúp hệ thống vẫn chạy khi một phần hỏng. Ngoài đời còn có nghĩa thừa thãi.",
+        "collocations": [
+          "redundant server (máy chủ dự phòng)",
+          "redundant power supply (nguồn điện dự phòng)",
+          "make the system redundant (thiết kế dự phòng cho hệ thống)"
+        ],
+        "exampleEn": "A redundant power supply keeps the data center running during outages.",
+        "exampleVi": "Nguồn điện dự phòng giúp trung tâm dữ liệu vẫn hoạt động khi mất điện.",
+        "id": "it_x15"
+      },
+      {
+        "word": "authenticate",
+        "ipa": "/ɔːˈθentɪkeɪt/",
+        "stress": "au-THEN-ti-cate (Trọng âm 2)",
+        "pos": "Động từ (v)",
+        "meaningVi": "Xác thực danh tính người dùng hoặc thiết bị",
+        "careerTag": "🔒 An ninh mạng",
+        "usageExplanation": "Hệ thống kiểm tra bạn đúng là người được phép truy cập, bằng mật khẩu, vân tay hay mã OTP. Danh từ là 'authentication'.",
+        "collocations": [
+          "authenticate a user (xác thực người dùng)",
+          "fail to authenticate (xác thực thất bại)",
+          "authenticate with a password (xác thực bằng mật khẩu)"
+        ],
+        "exampleEn": "You must authenticate with a code sent to your phone.",
+        "exampleVi": "Bạn phải xác thực bằng mã gửi đến điện thoại.",
+        "id": "it_x16"
+      },
+      {
+        "word": "encryption",
+        "ipa": "/ɪnˈkrɪpʃn/",
+        "stress": "en-CRYP-tion (Trọng âm 2)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Việc mã hóa dữ liệu để người khác không đọc được",
+        "careerTag": "🔒 An ninh mạng",
+        "usageExplanation": "Dữ liệu được biến thành dạng khó hiểu, chỉ ai có khóa mới giải được. Ứng dụng nhắn tin hay nhắc 'end-to-end encryption'.",
+        "collocations": [
+          "end-to-end encryption (mã hóa đầu cuối)",
+          "strong encryption (mã hóa mạnh)",
+          "encryption key (khóa mã hóa)"
+        ],
+        "exampleEn": "The app uses end-to-end encryption to protect your messages.",
+        "exampleVi": "Ứng dụng dùng mã hóa đầu cuối để bảo vệ tin nhắn của bạn.",
+        "id": "it_x17"
+      },
+      {
+        "word": "sensor",
+        "ipa": "/ˈsensər/",
+        "stress": "SEN-sor (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Cảm biến, linh kiện đo ánh sáng, chuyển động, nhiệt độ...",
+        "careerTag": "📱 Thiết bị & Phần cứng",
+        "usageExplanation": "Có trong điện thoại, đồng hồ thông minh, xe hơi và thiết bị IoT để thu thập thông tin môi trường.",
+        "collocations": [
+          "motion sensor (cảm biến chuyển động)",
+          "fingerprint sensor (cảm biến vân tay)",
+          "temperature sensor (cảm biến nhiệt độ)"
+        ],
+        "exampleEn": "The light turns on automatically when the sensor detects movement.",
+        "exampleVi": "Đèn tự bật khi cảm biến phát hiện chuyển động.",
+        "id": "it_x18"
+      },
+      {
+        "word": "wireless",
+        "ipa": "/ˈwaɪərləs/",
+        "stress": "WIRE-less (Trọng âm 1)",
+        "pos": "Tính từ (adj)",
+        "meaningVi": "Không dây, kết nối mà không cần cáp",
+        "careerTag": "📱 Thiết bị & Phần cứng",
+        "usageExplanation": "Mô tả thiết bị hoặc kết nối dùng sóng như Wi-Fi, Bluetooth thay cho dây cáp.",
+        "collocations": [
+          "wireless network (mạng không dây)",
+          "wireless charging (sạc không dây)",
+          "wireless headphones (tai nghe không dây)"
+        ],
+        "exampleEn": "I bought wireless headphones so I can move around freely.",
+        "exampleVi": "Tôi mua tai nghe không dây để di chuyển thoải mái.",
+        "id": "it_x19"
+      },
+      {
+        "word": "platform",
+        "ipa": "/ˈplætfɔːrm/",
+        "stress": "PLAT-form (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Nền tảng, môi trường hoặc hệ thống để chạy ứng dụng và dịch vụ",
+        "careerTag": "💻 Lập trình & DevOps",
+        "usageExplanation": "Chỉ hệ điều hành, dịch vụ đám mây hay mạng xã hội cho phép xây dựng và chạy sản phẩm trên đó.",
+        "collocations": [
+          "cloud platform (nền tảng đám mây)",
+          "cross-platform app (ứng dụng đa nền tảng)",
+          "social media platform (nền tảng mạng xã hội)"
+        ],
+        "exampleEn": "Our app runs on both mobile and desktop platforms.",
+        "exampleVi": "Ứng dụng của chúng tôi chạy trên cả nền tảng di động và máy tính.",
+        "id": "it_x20"
+      },
+      {
+        "word": "backup",
+        "ipa": "/ˈbækʌp/",
+        "stress": "BACK-up (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Bản sao lưu dữ liệu phòng khi mất mát",
+        "careerTag": "🗄️ Dữ liệu & Lưu trữ",
+        "usageExplanation": "Bản sao dữ liệu cất ở nơi khác để khôi phục khi sự cố xảy ra. Động từ viết tách: 'back up'.",
+        "collocations": [
+          "create a backup (tạo bản sao lưu)",
+          "automatic backup (sao lưu tự động)",
+          "restore from backup (khôi phục từ bản sao lưu)"
+        ],
+        "exampleEn": "Always keep a backup of your important files.",
+        "exampleVi": "Hãy luôn giữ một bản sao lưu cho các tệp quan trọng.",
+        "id": "it_x21"
+      },
+      {
+        "word": "spyware",
+        "ipa": "/ˈspaɪweər/",
+        "stress": "SPY-ware (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Phần mềm gián điệp lén theo dõi hoạt động người dùng",
+        "careerTag": "🔒 An ninh mạng",
+        "usageExplanation": "Chương trình cài ngầm để thu thập mật khẩu, lịch sử duyệt web mà người dùng không hay biết.",
+        "collocations": [
+          "install spyware (cài phần mềm gián điệp)",
+          "spyware infection (nhiễm phần mềm gián điệp)",
+          "scan for spyware (quét phần mềm gián điệp)"
+        ],
+        "exampleEn": "The free app secretly installed spyware on his phone.",
+        "exampleVi": "Ứng dụng miễn phí đó đã lén cài phần mềm gián điệp lên điện thoại của anh ấy.",
+        "id": "it_x22"
+      },
+      {
+        "word": "bottleneck",
+        "ipa": "/ˈbɑːtlnek/",
+        "stress": "BOT-tle-neck (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Điểm nghẽn làm chậm toàn bộ hệ thống hoặc quy trình",
+        "careerTag": "💻 Lập trình & DevOps",
+        "usageExplanation": "Thành phần chậm nhất kéo hiệu năng cả hệ thống xuống, ví dụ ổ cứng chậm hay đường truyền yếu.",
+        "collocations": [
+          "performance bottleneck (điểm nghẽn hiệu năng)",
+          "identify the bottleneck (xác định điểm nghẽn)",
+          "remove a bottleneck (loại bỏ điểm nghẽn)"
+        ],
+        "exampleEn": "The slow database turned out to be the main bottleneck.",
+        "exampleVi": "Cơ sở dữ liệu chậm hóa ra là điểm nghẽn chính.",
+        "id": "it_x23"
+      },
+      {
+        "word": "plugin",
+        "ipa": "/ˈplʌɡɪn/",
+        "stress": "PLUG-in (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Phần mở rộng cài thêm để bổ sung tính năng cho phần mềm",
+        "careerTag": "💻 Lập trình & DevOps",
+        "usageExplanation": "Module nhỏ gắn vào trình duyệt hay trình soạn thảo để thêm chức năng mà không sửa phần mềm gốc.",
+        "collocations": [
+          "install a plugin (cài phần mở rộng)",
+          "browser plugin (tiện ích trình duyệt)",
+          "plugin conflict (xung đột phần mở rộng)"
+        ],
+        "exampleEn": "This plugin adds a dark mode to the editor.",
+        "exampleVi": "Phần mở rộng này thêm chế độ tối cho trình soạn thảo.",
+        "id": "it_x24"
+      },
+      {
+        "word": "configure",
+        "ipa": "/kənˈfɪɡjər/",
+        "stress": "con-FIG-ure (Trọng âm 2)",
+        "pos": "Động từ (v)",
+        "meaningVi": "Cấu hình, thiết lập các tùy chọn để hệ thống hoạt động đúng",
+        "careerTag": "🌐 Mạng máy tính",
+        "usageExplanation": "Điều chỉnh thông số của phần mềm, thiết bị hay mạng. Danh từ là 'configuration'.",
+        "collocations": [
+          "configure the settings (thiết lập cài đặt)",
+          "configure a server (cấu hình máy chủ)",
+          "properly configured (được cấu hình đúng)"
+        ],
+        "exampleEn": "I need to configure the network before the meeting starts.",
+        "exampleVi": "Tôi cần cấu hình mạng trước khi cuộc họp bắt đầu.",
+        "id": "it_x25"
+      },
+      {
+        "word": "migrate",
+        "ipa": "/ˈmaɪɡreɪt/",
+        "stress": "MI-grate (Trọng âm 1)",
+        "pos": "Động từ (v)",
+        "meaningVi": "Chuyển dữ liệu hoặc hệ thống sang nền tảng mới",
+        "careerTag": "🗄️ Dữ liệu & Lưu trữ",
+        "usageExplanation": "Dùng khi di dời hệ thống từ máy chủ cũ lên đám mây hay đổi cơ sở dữ liệu. Danh từ là 'migration'.",
+        "collocations": [
+          "migrate to the cloud (chuyển lên đám mây)",
+          "migrate data (chuyển dữ liệu)",
+          "database migration (di chuyển cơ sở dữ liệu)"
+        ],
+        "exampleEn": "The company plans to migrate all its data to the cloud.",
+        "exampleVi": "Công ty dự định chuyển toàn bộ dữ liệu lên đám mây.",
+        "id": "it_x26"
+      },
+      {
+        "word": "terminal",
+        "ipa": "/ˈtɜːrmɪnl/",
+        "stress": "TER-mi-nal (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Cửa sổ dòng lệnh để gõ lệnh trực tiếp điều khiển máy tính",
+        "careerTag": "💻 Lập trình & DevOps",
+        "usageExplanation": "Lập trình viên mở nó để chạy lệnh, cài gói, kết nối máy chủ. Cũng còn nghĩa nhà ga ở đời thường.",
+        "collocations": [
+          "open a terminal (mở cửa sổ dòng lệnh)",
+          "terminal command (lệnh dòng lệnh)",
+          "run it in the terminal (chạy trong dòng lệnh)"
+        ],
+        "exampleEn": "Open the terminal and type the command exactly as shown.",
+        "exampleVi": "Hãy mở cửa sổ dòng lệnh và gõ lệnh đúng như hướng dẫn.",
+        "id": "it_x27"
+      },
+      {
+        "word": "kernel",
+        "ipa": "/ˈkɜːrnl/",
+        "stress": "KER-nel (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Nhân hệ điều hành, phần lõi quản lý phần cứng và tiến trình",
+        "careerTag": "💻 Lập trình & DevOps",
+        "usageExplanation": "Phần cốt lõi của hệ điều hành như Linux, làm cầu nối giữa phần mềm và phần cứng.",
+        "collocations": [
+          "Linux kernel (nhân Linux)",
+          "kernel panic (lỗi nghiêm trọng của nhân)",
+          "update the kernel (cập nhật nhân hệ điều hành)"
+        ],
+        "exampleEn": "A bug in the kernel caused the whole system to freeze.",
+        "exampleVi": "Một lỗi trong nhân hệ điều hành khiến cả hệ thống bị treo.",
+        "id": "it_x28"
+      },
+      {
+        "word": "patch",
+        "ipa": "/pætʃ/",
+        "stress": "PATCH (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Bản vá nhỏ sửa lỗi hoặc lỗ hổng bảo mật của phần mềm",
+        "careerTag": "🔒 An ninh mạng",
+        "usageExplanation": "Nhà phát triển phát hành để khắc phục lỗi mà không cần bản mới hoàn toàn. Cũng dùng làm động từ: vá lỗi.",
+        "collocations": [
+          "security patch (bản vá bảo mật)",
+          "apply a patch (áp dụng bản vá)",
+          "release a patch (phát hành bản vá)"
+        ],
+        "exampleEn": "Install the latest security patch as soon as possible.",
+        "exampleVi": "Hãy cài bản vá bảo mật mới nhất càng sớm càng tốt.",
+        "id": "it_x29"
+      },
+      {
+        "word": "server",
+        "ipa": "/ˈsɜːrvər/",
+        "stress": "SER-ver (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Máy chủ cung cấp dữ liệu và dịch vụ cho các máy khác",
+        "careerTag": "🌐 Mạng máy tính",
+        "usageExplanation": "Máy tính hoặc chương trình luôn chạy để phản hồi yêu cầu từ người dùng, ví dụ khi mở một trang web.",
+        "collocations": [
+          "web server (máy chủ web)",
+          "server crashed (máy chủ bị sập)",
+          "host on a server (lưu trữ trên máy chủ)"
+        ],
+        "exampleEn": "The server crashed during the product launch.",
+        "exampleVi": "Máy chủ bị sập đúng lúc ra mắt sản phẩm.",
+        "id": "it_x30"
+      }
+    ]
+  },
+  {
+    "id": "session_fnb",
+    "title": "Nhà hàng, Khách sạn & Du lịch",
+    "subtitle": "F&B, Hospitality & Travel",
+    "icon": "🍽️",
+    "color": "#f59e0b",
+    "badge": "F&B & Du lịch",
+    "description": "Từ vựng thiết yếu cho ngành dịch vụ nhà hàng, khách sạn, pha chế, hướng dẫn viên và đi du lịch nước ngoài.",
+    "words": [
+      {
+        "id": "fb_1",
+        "word": "reservation",
+        "ipa": "/ˌrez.ɚˈveɪ.ʃən/",
+        "stress": "rez-er-VEY-shuhn (Trọng âm 3)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Sự đặt chỗ trước (đặt bàn nhà hàng, đặt phòng khách sạn, vé máy bay)",
+        "careerTag": "🍽️ Nhà hàng & Khách sạn",
+        "usageExplanation": "Khi bước vào nhà hàng hoặc quầy lễ tân khách sạn, câu đầu tiên nhân viên hỏi luôn là 'Do you have a reservation?' (Quý khách đã đặt chỗ trước chưa?). Đi với động từ 'make' (không dùng 'do').",
+        "collocations": [
+          "make a reservation (đặt bàn / đặt phòng trước)",
+          "cancel/confirm a reservation (hủy/xác nhận đặt chỗ)",
+          "reservation under the name of... (đặt chỗ dưới tên của...)"
+        ],
+        "exampleEn": "I'd like to make a dinner reservation for two at 7 PM.",
+        "exampleVi": "Tôi muốn đặt bàn ăn tối cho 2 người vào lúc 7 giờ tối."
+      },
+      {
+        "id": "fb_2",
+        "word": "ingredient",
+        "ipa": "/ɪnˈɡriː.di.ənt/",
+        "stress": "in-GREE-dee-uhnt (Trọng âm 2)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Nguyên liệu, thành phần để chế biến món ăn hoặc đồ uống",
+        "careerTag": "👨‍🍳 Đầu bếp & Pha chế (F&B)",
+        "usageExplanation": "Khách nước ngoài rất hay hỏi từ này để kiểm tra dị ứng thực phẩm ('What are the ingredients in this dish?'), hoặc in trên bao bì thực phẩm/mỹ phẩm ('Ingredients: ...').",
+        "collocations": [
+          "fresh/local ingredients (nguyên liệu tươi sống/địa phương)",
+          "secret ingredient (nguyên liệu bí quyết)",
+          "active ingredient (hoạt chất chính)"
+        ],
+        "exampleEn": "Our chef only uses fresh, locally sourced ingredients.",
+        "exampleVi": "Đầu bếp của chúng tôi chỉ sử dụng các nguyên liệu tươi sạch tại địa phương."
+      },
+      {
+        "id": "fb_3",
+        "word": "itinerary",
+        "ipa": "/aɪˈtɪn.ə.rer.i/",
+        "stress": "eye-TIN-uh-rer-ee (Trọng âm 2)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Lịch trình chi tiết của chuyến đi (đi đâu, giờ nào, ở khách sạn nào)",
+        "careerTag": "✈️ Du lịch & Lữ hành (Tour)",
+        "usageExplanation": "Dành cho dân du lịch, đại lý bán tour hoặc khi xin visa: 'travel itinerary' là bản kế hoạch chi tiết từng ngày trong chuyến du lịch hoặc công tác.",
+        "collocations": [
+          "travel/tour itinerary (lịch trình chuyến du lịch/tour)",
+          "plan an itinerary (lên lịch trình chuyến đi)",
+          "detailed flight itinerary (lịch trình bay chi tiết)"
+        ],
+        "exampleEn": "The tour guide sent us the full 5-day itinerary by email.",
+        "exampleVi": "Hướng dẫn viên đã gửi cho chúng tôi toàn bộ lịch trình 5 ngày qua email."
+      },
+      {
+        "id": "fb_4",
+        "word": "complimentary",
+        "ipa": "/ˌkɑːm.pləˈmen.tər.i/",
+        "stress": "kom-pluh-MEN-tuh-ree (Trọng âm 3)",
+        "pos": "Tính từ (adj)",
+        "meaningVi": "Miễn phí tặng kèm (nước uống, bữa sáng, trái cây chào mừng tại khách sạn/máy bay)",
+        "careerTag": "🏨 Khách sạn & Hàng không",
+        "usageExplanation": "Các khách sạn 4-5 sao và hãng bay không bao giờ ghi chữ 'free breakfast' hay 'free water' vì nghe kém sang, họ luôn dùng từ 'complimentary' (miễn phí như một món quà tri ân khách).",
+        "collocations": [
+          "complimentary breakfast (bữa sáng miễn phí đi kèm phòng)",
+          "complimentary drink/water (đồ uống/nước suối miễn phí)",
+          "complimentary airport shuttle (xe đưa đón sân bay miễn phí)"
+        ],
+        "exampleEn": "Hotel guests enjoy complimentary breakfast every morning.",
+        "exampleVi": "Khách lưu trú tại khách sạn được thưởng thức bữa sáng miễn phí mỗi sáng."
+      },
+      {
+        "id": "fb_5",
+        "word": "souvenir",
+        "ipa": "/ˌsuː.vəˈnɪr/",
+        "stress": "soo-vuh-NEER (Trọng âm 3)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Quà lưu niệm mua khi đi du lịch",
+        "careerTag": "🎁 Du lịch & Bán lẻ",
+        "usageExplanation": "Từ mượn gốc Pháp nên phát âm là /ˌsuː.vəˈnɪr/. Dùng để chỉ những món quà nhỏ mang đặc trưng vùng miền mua về tặng người thân sau chuyến đi.",
+        "collocations": [
+          "buy souvenirs (mua quà lưu niệm)",
+          "souvenir shop (cửa hàng bán đồ lưu niệm)",
+          "keep as a souvenir (giữ lại làm kỷ niệm)"
+        ],
+        "exampleEn": "Don't forget to buy some local souvenirs at the night market.",
+        "exampleVi": "Đừng quên mua vài món quà lưu niệm địa phương ở chợ đêm nhé."
+      },
+      {
+        "id": "fb_6",
+        "word": "beverage",
+        "ipa": "/ˈbev.ər.ɪdʒ/",
+        "stress": "BEV-rij (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Đồ uống, thức uống các loại (nói chung trong menu nhà hàng/khách sạn)",
+        "careerTag": "🍹 Ngành F&B (Food & Beverage)",
+        "usageExplanation": "Chính là chữ 'B' trong ngành F&B (Food & Beverage). Trên thực đơn nhà hàng, quầy bar hay máy bay, mục đồ uống luôn được ghi trang trọng là 'Beverages' thay vì 'Drinks'.",
+        "collocations": [
+          "Food and Beverage - F&B (Ngành dịch vụ Ẩm thực & Đồ uống)",
+          "alcoholic/non-alcoholic beverages (đồ uống có cồn / không cồn)",
+          "hot and cold beverages (đồ uống nóng và lạnh)"
+        ],
+        "exampleEn": "Would you like to order any beverages before your meal?",
+        "exampleVi": "Quý khách có muốn gọi đồ uống gì trước khi dùng bữa không ạ?"
+      },
+      {
+        "id": "fb_7",
+        "word": "vacancy",
+        "ipa": "/ˈveɪ.kən.si/",
+        "stress": "VEY-kuhn-see (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Phòng trống (ở khách sạn/nhà trọ); hoặc vị trí công việc đang tuyển dụng",
+        "careerTag": "🔑 Khách sạn & Nhân sự",
+        "usageExplanation": "Có 2 ngữ cảnh cực phổ biến: (1) Ở khách sạn: 'No Vacancy' = Hết phòng trống; (2) Trong tuyển dụng: 'Job vacancies' = Các vị trí đang trống cần tuyển người.",
+        "collocations": [
+          "no vacancies (hết phòng trống / hết chỗ)",
+          "check room availability/vacancy (kiểm tra phòng trống)",
+          "job vacancy (vị trí công việc đang khuyết)"
+        ],
+        "exampleEn": "Sorry, our hotel has no vacancies left for this weekend.",
+        "exampleVi": "Xin lỗi quý khách, khách sạn chúng tôi đã hết phòng trống cho dịp cuối tuần này."
+      },
+      {
+        "id": "fb_8",
+        "word": "appetizer",
+        "ipa": "/ˈæp.ə.taɪ.zər/",
+        "stress": "AP-uh-ty-zer (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Món khai vị (ăn nhẹ đầu bữa để kích thích vị giác)",
+        "careerTag": "🥗 Nhà hàng & Ẩm thực",
+        "usageExplanation": "Trong thực đơn chuẩn Âu - Mỹ, bữa ăn gồm 3 phần: Appetizer / Starter (Món khai vị) -> Main course / Entrée (Món chính) -> Dessert (Món tráng miệng).",
+        "collocations": [
+          "order an appetizer (gọi món khai vị)",
+          "share some appetizers (ăn chung vài món khai vị)",
+          "light appetizer (món khai vị nhẹ)"
+        ],
+        "exampleEn": "Would you like to start with some soup or salad as an appetizer?",
+        "exampleVi": "Quý khách có muốn bắt đầu với súp hoặc salad làm món khai vị không ạ?"
+      },
+      {
+        "id": "fb_9",
+        "word": "luggage",
+        "ipa": "/ˈlʌɡ.ɪdʒ/",
+        "stress": "LUHG-ij (Trọng âm 1, danh từ không đếm được)",
+        "pos": "Danh từ không đếm được (n)",
+        "meaningVi": "Hành lý mang theo khi đi du lịch, công tác (vali, túi xách)",
+        "careerTag": "🧳 Sân bay & Khách sạn",
+        "usageExplanation": "Đồng nghĩa với 'baggage'. Lưu ý cực quan trọng: 'luggage' là danh từ KHÔNG đếm được (không bao giờ thêm 's' thành luggages!). Dùng ở quầy làm thủ tục sân bay hoặc gửi đồ ở sảnh khách sạn.",
+        "collocations": [
+          "carry-on / hand luggage (hành lý xách tay)",
+          "checked luggage (hành lý ký gửi)",
+          "store your luggage (gửi/giữ hành lý tại quầy lễ tân)"
+        ],
+        "exampleEn": "You can leave your luggage at the front desk until check-in time.",
+        "exampleVi": "Quý khách có thể gửi hành lý tại quầy lễ tân cho đến giờ nhận phòng."
+      },
+      {
+        "id": "fb_10",
+        "word": "tip",
+        "ipa": "/tɪp/",
+        "stress": "TIP (1 âm tiết)",
+        "pos": "Danh từ / Động từ (n, v)",
+        "meaningVi": "Tiền boa (tiền thưởng thêm cho nhân viên phục vụ); hoặc mẹo vặt hữu ích",
+        "careerTag": "💵 Dịch vụ Khách hàng",
+        "usageExplanation": "Trong ngành dịch vụ nhà hàng/khách sạn/spa, 'leave a tip' là tiền khách thưởng thêm vì phục vụ chu đáo (từ trang trọng trên hóa đơn là 'gratuity'). Ngoài ra 'useful tips' còn có nghĩa là các mẹo hay!",
+        "collocations": [
+          "leave a generous tip (để lại khoản tiền boa hậu hĩnh)",
+          "tips included (đã bao gồm phí phục vụ/tiền tip)",
+          "helpful travel tips (những mẹo du lịch hữu ích)"
+        ],
+        "exampleEn": "We left a generous tip because the waiter was so attentive.",
+        "exampleVi": "Chúng tôi đã để lại một khoản tiền boa hậu hĩnh vì bạn phục vụ quá chu đáo."
+      },
+      {
+        "word": "cuisine",
+        "ipa": "/kwɪˈziːn/",
+        "stress": "cui-SINE (Trọng âm 2)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Phong cách ẩm thực, nền ẩm thực của một vùng",
+        "careerTag": "🍽️ Nhà hàng & Khách sạn",
+        "usageExplanation": "Dùng để nói về kiểu nấu ăn đặc trưng của một quốc gia hay nhà hàng. Là danh từ không đếm được trong hầu hết ngữ cảnh.",
+        "collocations": [
+          "Italian cuisine (ẩm thực Ý)",
+          "local cuisine (ẩm thực địa phương)",
+          "fine cuisine (ẩm thực cao cấp)"
+        ],
+        "exampleEn": "I love trying the local cuisine when I travel.",
+        "exampleVi": "Tôi thích thử ẩm thực địa phương khi đi du lịch.",
+        "id": "fb_x1"
+      },
+      {
+        "word": "buffet",
+        "ipa": "/bʊˈfeɪ/",
+        "stress": "buf-FET (Trọng âm 2)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Tiệc tự chọn món, ăn thoải mái tự phục vụ",
+        "careerTag": "🍽️ Nhà hàng & Khách sạn",
+        "usageExplanation": "Thường gặp ở khách sạn, nơi khách tự lấy món. Đi với 'breakfast buffet' rất phổ biến.",
+        "collocations": [
+          "breakfast buffet (buffet sáng)",
+          "all-you-can-eat buffet (buffet ăn thỏa thích)",
+          "buffet lunch (bữa trưa tự chọn)"
+        ],
+        "exampleEn": "The hotel serves a huge breakfast buffet every morning.",
+        "exampleVi": "Khách sạn phục vụ buffet sáng rất lớn mỗi ngày.",
+        "id": "fb_x2"
+      },
+      {
+        "word": "amenities",
+        "ipa": "/əˈmen.ə.tiz/",
+        "stress": "a-MEN-i-tiz (Trọng âm 2)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Các tiện nghi, tiện ích đi kèm",
+        "careerTag": "🏨 Khách sạn",
+        "usageExplanation": "Dùng khi mô tả hồ bơi, phòng gym, wifi... của khách sạn. Thường ở dạng số nhiều.",
+        "collocations": [
+          "hotel amenities (tiện nghi khách sạn)",
+          "modern amenities (tiện nghi hiện đại)",
+          "basic amenities (tiện nghi cơ bản)"
+        ],
+        "exampleEn": "The room has all the modern amenities you need.",
+        "exampleVi": "Phòng có đầy đủ tiện nghi hiện đại bạn cần.",
+        "id": "fb_x3"
+      },
+      {
+        "word": "concierge",
+        "ipa": "/ˌkɒn.siˈeərʒ/",
+        "stress": "con-si-ERGE (Trọng âm 3)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Nhân viên hỗ trợ khách, tư vấn tour và đặt dịch vụ",
+        "careerTag": "🏨 Khách sạn",
+        "usageExplanation": "Người ở sảnh khách sạn giúp đặt taxi, nhà hàng, vé tham quan. Hỏi họ khi cần gợi ý địa điểm.",
+        "collocations": [
+          "ask the concierge (hỏi nhân viên hỗ trợ)",
+          "concierge service (dịch vụ hỗ trợ khách)",
+          "hotel concierge (nhân viên hỗ trợ khách sạn)"
+        ],
+        "exampleEn": "The concierge booked a table at a great restaurant for us.",
+        "exampleVi": "Nhân viên hỗ trợ đã đặt cho chúng tôi một bàn ở nhà hàng tuyệt vời.",
+        "id": "fb_x4"
+      },
+      {
+        "word": "layover",
+        "ipa": "/ˈleɪ.əʊ.vər/",
+        "stress": "LAY-o-ver (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Thời gian dừng chờ nối chuyến",
+        "careerTag": "✈️ Sân bay & Du lịch",
+        "usageExplanation": "Khoảng chờ giữa hai chuyến bay khi quá cảnh. Khác với chuyến bay thẳng.",
+        "collocations": [
+          "a long layover (chờ nối chuyến lâu)",
+          "layover in Dubai (quá cảnh ở Dubai)",
+          "two-hour layover (chờ nối chuyến hai tiếng)"
+        ],
+        "exampleEn": "We had a six-hour layover in Singapore.",
+        "exampleVi": "Chúng tôi phải chờ nối chuyến sáu tiếng ở Singapore.",
+        "id": "fb_x5"
+      },
+      {
+        "word": "departure",
+        "ipa": "/dɪˈpɑː.tʃər/",
+        "stress": "de-PAR-ture (Trọng âm 2)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Sự khởi hành, chuyến đi",
+        "careerTag": "✈️ Sân bay & Du lịch",
+        "usageExplanation": "Hiển thị trên bảng thông tin sân bay cho các chuyến bay sắp cất cánh.",
+        "collocations": [
+          "departure gate (cổng khởi hành)",
+          "departure time (giờ khởi hành)",
+          "departure lounge (phòng chờ khởi hành)"
+        ],
+        "exampleEn": "Please check the departure board for your gate number.",
+        "exampleVi": "Vui lòng xem bảng khởi hành để biết số cổng của bạn.",
+        "id": "fb_x6"
+      },
+      {
+        "word": "passport",
+        "ipa": "/ˈpɑːs.pɔːt/",
+        "stress": "PASS-port (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Hộ chiếu",
+        "careerTag": "✈️ Sân bay & Du lịch",
+        "usageExplanation": "Giấy tờ bắt buộc khi đi nước ngoài, được kiểm tra khi làm thủ tục và nhập cảnh.",
+        "collocations": [
+          "valid passport (hộ chiếu còn hạn)",
+          "renew a passport (gia hạn hộ chiếu)",
+          "passport control (kiểm soát hộ chiếu)"
+        ],
+        "exampleEn": "Don't forget to bring your passport to the airport.",
+        "exampleVi": "Đừng quên mang hộ chiếu ra sân bay.",
+        "id": "fb_x7"
+      },
+      {
+        "word": "baggage",
+        "ipa": "/ˈbæɡ.ɪdʒ/",
+        "stress": "BAG-gage (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Hành lý nói chung",
+        "careerTag": "✈️ Sân bay & Du lịch",
+        "usageExplanation": "Danh từ không đếm được, dùng nhiều ở sân bay. Tương tự 'luggage'.",
+        "collocations": [
+          "baggage claim (nơi nhận hành lý)",
+          "checked baggage (hành lý ký gửi)",
+          "baggage allowance (định mức hành lý)"
+        ],
+        "exampleEn": "Please collect your baggage at carousel number five.",
+        "exampleVi": "Vui lòng nhận hành lý ở băng chuyền số năm.",
+        "id": "fb_x8"
+      },
+      {
+        "word": "hospitality",
+        "ipa": "/ˌhɒs.pɪˈtæl.ə.ti/",
+        "stress": "hos-pi-TAL-i-ty (Trọng âm 3)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Lòng hiếu khách; ngành dịch vụ khách sạn nhà hàng",
+        "careerTag": "🍽️ Nhà hàng & Khách sạn",
+        "usageExplanation": "Vừa chỉ sự đón tiếp nồng hậu, vừa chỉ cả ngành nhà hàng khách sạn.",
+        "collocations": [
+          "warm hospitality (sự hiếu khách nồng hậu)",
+          "hospitality industry (ngành dịch vụ lưu trú ăn uống)",
+          "show hospitality (thể hiện lòng hiếu khách)"
+        ],
+        "exampleEn": "The family welcomed us with great hospitality.",
+        "exampleVi": "Gia đình đó đón tiếp chúng tôi rất hiếu khách.",
+        "id": "fb_x9"
+      },
+      {
+        "word": "turbulence",
+        "ipa": "/ˈtɜː.bjə.ləns/",
+        "stress": "TUR-bu-lence (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Sự rung lắc mạnh của máy bay do nhiễu động không khí",
+        "careerTag": "✈️ Sân bay & Du lịch",
+        "usageExplanation": "Phi công thường thông báo khi gặp hiện tượng này, yêu cầu hành khách thắt dây an toàn.",
+        "collocations": [
+          "severe turbulence (rung lắc mạnh)",
+          "experience turbulence (gặp nhiễu động)",
+          "light turbulence (rung lắc nhẹ)"
+        ],
+        "exampleEn": "The plane shook because of turbulence over the mountains.",
+        "exampleVi": "Máy bay rung lắc do nhiễu động trên vùng núi.",
+        "id": "fb_x10"
+      },
+      {
+        "word": "reception",
+        "ipa": "/rɪˈsep.ʃən/",
+        "stress": "re-CEP-tion (Trọng âm 2)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Quầy lễ tân, bộ phận đón tiếp khách",
+        "careerTag": "🏨 Khách sạn",
+        "usageExplanation": "Chỉ quầy lễ tân ở sảnh khách sạn, nơi làm thủ tục nhận phòng và hỏi thông tin. Hay nói 'Call reception' khi cần hỗ trợ.",
+        "collocations": [
+          "reception desk (quầy lễ tân)",
+          "call reception (gọi cho lễ tân)",
+          "hotel reception (lễ tân khách sạn)"
+        ],
+        "exampleEn": "Please call reception if you need extra towels.",
+        "exampleVi": "Vui lòng gọi lễ tân nếu cần thêm khăn tắm.",
+        "id": "fb_x11"
+      },
+      {
+        "word": "sightseeing",
+        "ipa": "/ˈsaɪtˌsiː.ɪŋ/",
+        "stress": "SIGHT-see-ing (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Việc tham quan thắng cảnh",
+        "careerTag": "✈️ Sân bay & Du lịch",
+        "usageExplanation": "Thường đi với 'go' hoặc 'do'. Chỉ hoạt động đi xem các địa điểm nổi tiếng.",
+        "collocations": [
+          "go sightseeing (đi tham quan)",
+          "sightseeing tour (tour tham quan)",
+          "sightseeing bus (xe buýt tham quan)"
+        ],
+        "exampleEn": "We spent the day sightseeing around the old town.",
+        "exampleVi": "Chúng tôi dành cả ngày tham quan khu phố cổ.",
+        "id": "fb_x12"
+      },
+      {
+        "word": "destination",
+        "ipa": "/ˌdes.tɪˈneɪ.ʃən/",
+        "stress": "des-ti-NA-tion (Trọng âm 3)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Điểm đến",
+        "careerTag": "✈️ Sân bay & Du lịch",
+        "usageExplanation": "Nơi bạn muốn đến trong chuyến đi hoặc nơi chuyến bay hạ cánh.",
+        "collocations": [
+          "tourist destination (điểm đến du lịch)",
+          "popular destination (điểm đến phổ biến)",
+          "final destination (điểm đến cuối cùng)"
+        ],
+        "exampleEn": "Bali is a popular holiday destination.",
+        "exampleVi": "Bali là điểm đến nghỉ dưỡng phổ biến.",
+        "id": "fb_x13"
+      },
+      {
+        "word": "delicacy",
+        "ipa": "/ˈdel.ɪ.kə.si/",
+        "stress": "DEL-i-ca-cy (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Món ngon đặc sản, món quý hiếm",
+        "careerTag": "🍽️ Nhà hàng & Khách sạn",
+        "usageExplanation": "Chỉ món ăn đặc biệt hoặc đắt tiền của một vùng.",
+        "collocations": [
+          "local delicacy (đặc sản địa phương)",
+          "a seafood delicacy (đặc sản hải sản)",
+          "regional delicacy (đặc sản vùng miền)"
+        ],
+        "exampleEn": "Fresh crab is a local delicacy here.",
+        "exampleVi": "Cua tươi là đặc sản địa phương ở đây.",
+        "id": "fb_x14"
+      },
+      {
+        "word": "vegetarian",
+        "ipa": "/ˌvedʒ.əˈteə.ri.ən/",
+        "stress": "veg-e-TAIR-i-an (Trọng âm 3)",
+        "pos": "Tính từ (adj)",
+        "meaningVi": "Ăn chay, thuộc đồ chay",
+        "careerTag": "🍽️ Nhà hàng & Khách sạn",
+        "usageExplanation": "Dùng khi hỏi món không thịt. Cũng là danh từ chỉ người ăn chay.",
+        "collocations": [
+          "vegetarian dish (món chay)",
+          "vegetarian option (lựa chọn chay)",
+          "strict vegetarian (người ăn chay nghiêm ngặt)"
+        ],
+        "exampleEn": "Do you have any vegetarian options on the menu?",
+        "exampleVi": "Thực đơn có món chay nào không?",
+        "id": "fb_x15"
+      },
+      {
+        "word": "hostel",
+        "ipa": "/ˈhɒs.təl/",
+        "stress": "HOS-tel (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Nhà trọ giá rẻ cho khách du lịch, ở ghép phòng",
+        "careerTag": "🏨 Khách sạn",
+        "usageExplanation": "Phổ biến với dân du lịch bụi, thường có phòng tập thể.",
+        "collocations": [
+          "youth hostel (nhà trọ thanh niên)",
+          "stay in a hostel (ở nhà trọ)",
+          "hostel dormitory (phòng tập thể nhà trọ)"
+        ],
+        "exampleEn": "We stayed in a cheap hostel near the station.",
+        "exampleVi": "Chúng tôi ở một nhà trọ rẻ gần nhà ga.",
+        "id": "fb_x16"
+      },
+      {
+        "word": "voucher",
+        "ipa": "/ˈvaʊ.tʃər/",
+        "stress": "VOU-cher (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Phiếu giảm giá hoặc phiếu quà tặng dùng thay tiền",
+        "careerTag": "🍽️ Nhà hàng & Khách sạn",
+        "usageExplanation": "Dùng để đổi bữa ăn, phòng hoặc dịch vụ. Hay gặp khi đặt tour.",
+        "collocations": [
+          "gift voucher (phiếu quà tặng)",
+          "hotel voucher (phiếu lưu trú)",
+          "redeem a voucher (đổi phiếu)"
+        ],
+        "exampleEn": "I used a voucher to get a free dessert.",
+        "exampleVi": "Tôi dùng phiếu để được tặng món tráng miệng.",
+        "id": "fb_x17"
+      },
+      {
+        "word": "excursion",
+        "ipa": "/ɪkˈskɜː.ʃən/",
+        "stress": "ex-CUR-sion (Trọng âm 2)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Chuyến đi chơi ngắn trong ngày",
+        "careerTag": "✈️ Sân bay & Du lịch",
+        "usageExplanation": "Chuyến tham quan ngắn, thường theo nhóm, nằm trong chuyến du lịch lớn hơn.",
+        "collocations": [
+          "day excursion (chuyến đi trong ngày)",
+          "go on an excursion (đi một chuyến tham quan)",
+          "boat excursion (chuyến đi thuyền)"
+        ],
+        "exampleEn": "We joined a boat excursion to the nearby islands.",
+        "exampleVi": "Chúng tôi tham gia chuyến đi thuyền tới các đảo gần đó.",
+        "id": "fb_x18"
+      },
+      {
+        "word": "checkout",
+        "ipa": "/ˈtʃek.aʊt/",
+        "stress": "CHECK-out (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Việc trả phòng; giờ trả phòng",
+        "careerTag": "🏨 Khách sạn",
+        "usageExplanation": "Chỉ thủ tục rời khách sạn. Dạng động từ viết tách 'check out'.",
+        "collocations": [
+          "checkout time (giờ trả phòng)",
+          "late checkout (trả phòng muộn)",
+          "express checkout (trả phòng nhanh)"
+        ],
+        "exampleEn": "Checkout time is at noon.",
+        "exampleVi": "Giờ trả phòng là 12 giờ trưa.",
+        "id": "fb_x19"
+      },
+      {
+        "word": "gratuity",
+        "ipa": "/ɡrəˈtjuː.ə.ti/",
+        "stress": "gra-TU-i-ty (Trọng âm 2)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Tiền thưởng thêm cho nhân viên phục vụ, cách nói trang trọng",
+        "careerTag": "🍽️ Nhà hàng & Khách sạn",
+        "usageExplanation": "Cách nói lịch sự của tiền boa, hay in trên hóa đơn nhà hàng.",
+        "collocations": [
+          "gratuity included (đã gồm tiền boa)",
+          "add a gratuity (cộng thêm tiền boa)",
+          "automatic gratuity (phí phục vụ tự động)"
+        ],
+        "exampleEn": "A 15% gratuity is added to parties of six or more.",
+        "exampleVi": "Nhóm từ sáu người trở lên sẽ bị cộng thêm 15% tiền phục vụ.",
+        "id": "fb_x20"
+      },
+      {
+        "word": "sommelier",
+        "ipa": "/ˌsɒm.əlˈjeɪ/",
+        "stress": "som-el-YAY (Trọng âm 3)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Chuyên gia tư vấn rượu vang trong nhà hàng",
+        "careerTag": "🍽️ Nhà hàng & Khách sạn",
+        "usageExplanation": "Chỉ người phục vụ rượu vang chuyên nghiệp ở nhà hàng cao cấp.",
+        "collocations": [
+          "ask the sommelier (hỏi chuyên gia rượu vang)",
+          "head sommelier (trưởng bộ phận rượu vang)",
+          "sommelier recommendation (gợi ý của chuyên gia rượu)"
+        ],
+        "exampleEn": "The sommelier recommended a red wine to go with the steak.",
+        "exampleVi": "Chuyên gia rượu vang gợi ý một loại vang đỏ hợp với món bít tết.",
+        "id": "fb_x21"
+      },
+      {
+        "word": "waiter",
+        "ipa": "/ˈweɪ.tər/",
+        "stress": "WAI-ter (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Nam nhân viên phục vụ bàn",
+        "careerTag": "🍽️ Nhà hàng & Khách sạn",
+        "usageExplanation": "Gọi nhân viên bằng 'Excuse me'. Nữ là 'waitress'.",
+        "collocations": [
+          "call the waiter (gọi phục vụ)",
+          "head waiter (trưởng nhóm phục vụ)",
+          "attentive waiter (nhân viên chu đáo)"
+        ],
+        "exampleEn": "The waiter brought our drinks quickly.",
+        "exampleVi": "Nhân viên phục vụ mang đồ uống ra rất nhanh.",
+        "id": "fb_x22"
+      },
+      {
+        "word": "dessert",
+        "ipa": "/dɪˈzɜːt/",
+        "stress": "de-ZERT (Trọng âm 2)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Món tráng miệng",
+        "careerTag": "🍽️ Nhà hàng & Khách sạn",
+        "usageExplanation": "Món ngọt cuối bữa. Đừng nhầm với 'desert' (sa mạc).",
+        "collocations": [
+          "order dessert (gọi món tráng miệng)",
+          "dessert menu (thực đơn tráng miệng)",
+          "save room for dessert (chừa bụng cho món ngọt)"
+        ],
+        "exampleEn": "Would you like to see the dessert menu?",
+        "exampleVi": "Quý khách có muốn xem thực đơn tráng miệng không?",
+        "id": "fb_x23"
+      },
+      {
+        "word": "arrival",
+        "ipa": "/əˈraɪ.vəl/",
+        "stress": "a-RI-val (Trọng âm 2)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Sự đến nơi, lúc đến",
+        "careerTag": "✈️ Sân bay & Du lịch",
+        "usageExplanation": "Chỉ thời điểm đến sân bay hay khách sạn. Ngược nghĩa với departure.",
+        "collocations": [
+          "arrival time (giờ đến)",
+          "on arrival (khi đến nơi)",
+          "arrival hall (sảnh đến)"
+        ],
+        "exampleEn": "Please show your passport on arrival.",
+        "exampleVi": "Vui lòng xuất trình hộ chiếu khi đến nơi.",
+        "id": "fb_x24"
+      },
+      {
+        "word": "cancellation",
+        "ipa": "/ˌkæn.səlˈeɪ.ʃən/",
+        "stress": "can-cel-LA-tion (Trọng âm 3)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Việc hủy bỏ chuyến bay, đặt phòng",
+        "careerTag": "✈️ Sân bay & Du lịch",
+        "usageExplanation": "Dùng khi hủy hoặc bị hủy dịch vụ. Hay đi với 'policy' hoặc 'fee'.",
+        "collocations": [
+          "cancellation policy (chính sách hủy)",
+          "flight cancellation (chuyến bay bị hủy)",
+          "free cancellation (hủy miễn phí)"
+        ],
+        "exampleEn": "The hotel offers free cancellation up to 24 hours before.",
+        "exampleVi": "Khách sạn cho hủy miễn phí đến 24 giờ trước.",
+        "id": "fb_x25"
+      },
+      {
+        "word": "upgrade",
+        "ipa": "/ˈʌp.ɡreɪd/",
+        "stress": "UP-grade (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Sự nâng hạng lên loại tốt hơn",
+        "careerTag": "🏨 Khách sạn",
+        "usageExplanation": "Khi được chuyển sang phòng hoặc ghế tốt hơn. Cũng là động từ (trọng âm 2).",
+        "collocations": [
+          "free upgrade (nâng hạng miễn phí)",
+          "room upgrade (nâng hạng phòng)",
+          "ask for an upgrade (xin nâng hạng)"
+        ],
+        "exampleEn": "We got a free upgrade to a suite.",
+        "exampleVi": "Chúng tôi được nâng hạng miễn phí lên phòng suite.",
+        "id": "fb_x26"
+      },
+      {
+        "word": "landmark",
+        "ipa": "/ˈlænd.mɑːk/",
+        "stress": "LAND-mark (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Công trình hoặc địa danh nổi tiếng, dễ nhận biết",
+        "careerTag": "✈️ Sân bay & Du lịch",
+        "usageExplanation": "Dùng để chỉ nơi du khách hay ghé thăm hoặc làm mốc chỉ đường.",
+        "collocations": [
+          "famous landmark (địa danh nổi tiếng)",
+          "historic landmark (di tích lịch sử)",
+          "local landmark (địa danh địa phương)"
+        ],
+        "exampleEn": "The tower is the best-known landmark in the city.",
+        "exampleVi": "Tòa tháp là địa danh nổi tiếng nhất thành phố.",
+        "id": "fb_x27"
+      }
+    ]
+  },
+  {
+    "id": "session_health",
+    "title": "Y tế & Chăm sóc Sức khỏe",
+    "subtitle": "Healthcare, Pharmacy & Wellness",
+    "icon": "🩺",
+    "color": "#ef4444",
+    "badge": "Y tế & Sức khỏe",
+    "description": "Từ vựng cực kỳ quan trọng khi đi khám bệnh, mua thuốc tại hiệu thuốc, bảo hiểm và chăm sóc sức khỏe.",
+    "words": [
+      {
+        "id": "hc_1",
+        "word": "symptom",
+        "ipa": "/ˈsɪmp.təm/",
+        "stress": "SIMP-tuhm (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Triệu chứng, biểu hiện của bệnh (như sốt, ho, đau đầu, chóng mặt)",
+        "careerTag": "🩺 Khám chữa bệnh & Dược",
+        "usageExplanation": "Khi đi khám bác sĩ hoặc ra tiệm thuốc, câu hỏi quen thuộc nhất là 'What are your symptoms?' (Triệu chứng của bạn là gì?). Giúp mô tả tình trạng cơ thể chính xác.",
+        "collocations": [
+          "mild/severe symptoms (triệu chứng nhẹ/nặng)",
+          "show/develop symptoms (bắt đầu có biểu hiện triệu chứng)",
+          "relieve symptoms (làm giảm các triệu chứng)"
+        ],
+        "exampleEn": "If your symptoms persist for more than three days, see a doctor.",
+        "exampleVi": "Nếu các triệu chứng của bạn kéo dài hơn ba ngày, hãy đi khám bác sĩ."
+      },
+      {
+        "id": "hc_2",
+        "word": "prescription",
+        "ipa": "/prɪˈskrɪp.ʃən/",
+        "stress": "pri-SKRIP-shuhn (Trọng âm 2)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Đơn thuốc / Toa thuốc do bác sĩ kê; thuốc bán theo đơn",
+        "careerTag": "💊 Hiệu thuốc & Bệnh viện",
+        "usageExplanation": "Ở nước ngoài, thuốc chia làm 2 loại rõ rệt: 'prescription drugs' (thuốc bắt buộc phải có toa bác sĩ mới mua được) và 'over-the-counter (OTC) medicine' (thuốc mua tự do không cần đơn).",
+        "collocations": [
+          "doctor's prescription (đơn thuốc của bác sĩ)",
+          "prescription medication (thuốc kê đơn)",
+          "fill a prescription (mua thuốc theo đơn tại nhà thuốc)"
+        ],
+        "exampleEn": "You need a doctor's prescription to buy these antibiotics.",
+        "exampleVi": "Bạn cần có đơn thuốc của bác sĩ mới mua được loại kháng sinh này."
+      },
+      {
+        "id": "hc_3",
+        "word": "allergy",
+        "ipa": "/ˈæl.ɚ.dʒi/",
+        "stress": "AL-er-jee (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Sự dị ứng (với hải sản, đậu phộng, phấn hoa, thời tiết hoặc thuốc)",
+        "careerTag": "🏥 Y tế & Ẩm thực an toàn",
+        "usageExplanation": "Từ bảo vệ tính mạng khi đi ăn nhà hàng hoặc đi khám bệnh! Danh từ là 'allergy', tính từ là 'allergic to...' (Ví dụ: 'I am allergic to peanuts/penicillin' = Tôi bị dị ứng với đậu phộng/thuốc kháng sinh penicillin).",
+        "collocations": [
+          "food/drug allergy (dị ứng thực phẩm / dị ứng thuốc)",
+          "allergic reaction (phản ứng dị ứng)",
+          "be allergic to seafood (bị dị ứng với hải sản)"
+        ],
+        "exampleEn": "Please let the nurse know if you have any drug allergies.",
+        "exampleVi": "Vui lòng báo cho y tá biết nếu bạn có bất kỳ dị ứng thuốc nào."
+      },
+      {
+        "id": "hc_4",
+        "word": "diagnose",
+        "ipa": "/ˌdaɪ.əɡˈnoʊz/",
+        "stress": "dy-uhg-NOHZ (Trọng âm 3)",
+        "pos": "Động từ (v)",
+        "meaningVi": "Chẩn đoán bệnh (xác định nguyên nhân bệnh qua khám và xét nghiệm)",
+        "careerTag": "🔬 Bác sĩ & Chuyên khoa",
+        "usageExplanation": "Dùng cho bác sĩ khi kết luận bệnh nhân mắc bệnh gì (luôn đi với giới từ WITH: 'diagnosed with...'), hoặc dùng trong kỹ thuật khi chẩn đoán lỗi máy móc. Danh từ là 'diagnosis'.",
+        "collocations": [
+          "diagnose a patient with... (chẩn đoán bệnh nhân mắc...)",
+          "early diagnosis (chẩn đoán phát hiện bệnh sớm)",
+          "accurately diagnose (chẩn đoán chính xác)"
+        ],
+        "exampleEn": "The condition is much easier to treat if diagnosed early.",
+        "exampleVi": "Tình trạng bệnh sẽ dễ điều trị hơn rất nhiều nếu được chẩn đoán sớm."
+      },
+      {
+        "id": "hc_5",
+        "word": "vaccine",
+        "ipa": "/vækˈsiːn/",
+        "stress": "vak-SEEN (Trọng âm 2)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Vắc-xin (chế phẩm sinh học tạo miễn dịch phòng ngừa bệnh truyền nhiễm)",
+        "careerTag": "💉 Y tế dự phòng",
+        "usageExplanation": "Chú ý phát âm tiếng Anh là /vækˈsiːn/ (âm 'c' đầu đọc là /k/, âm 'c' thứ hai đọc là /s/). Động từ tiêm chủng là 'vaccinate', danh từ sự tiêm chủng là 'vaccination'.",
+        "collocations": [
+          "flu vaccine (vắc-xin phòng cúm)",
+          "get vaccinated (đi tiêm vắc-xin)",
+          "develop a vaccine (phát triển vắc-xin)"
+        ],
+        "exampleEn": "Doctors recommend getting a flu vaccine before winter starts.",
+        "exampleVi": "Các bác sĩ khuyên nên tiêm vắc-xin phòng cúm trước khi mùa đông bắt đầu."
+      },
+      {
+        "id": "hc_6",
+        "word": "emergency",
+        "ipa": "/ɪˈmɝː.dʒən.si/",
+        "stress": "i-MER-juhn-see (Trọng âm 2)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Tình huống khẩn cấp, cấp cứu",
+        "careerTag": "🚑 Cấp cứu & An toàn",
+        "usageExplanation": "Từ bắt buộc phải biết trong đời sống và y tế: Khoa cấp cứu bệnh viện viết tắt là 'ER' (Emergency Room), lối thoát hiểm là 'Emergency Exit', liên hệ khẩn cấp là 'Emergency Contact'.",
+        "collocations": [
+          "Emergency Room - ER (Khoa/Phòng cấp cứu)",
+          "in case of emergency (trong trường hợp khẩn cấp)",
+          "medical emergency (tình huống cấp cứu y tế)"
+        ],
+        "exampleEn": "Call an ambulance immediately if it is a medical emergency.",
+        "exampleVi": "Hãy gọi xe cấp cứu ngay lập tức nếu đó là tình huống cấp cứu y tế."
+      },
+      {
+        "id": "hc_7",
+        "word": "therapy",
+        "ipa": "/ˈθer.ə.pi/",
+        "stress": "THER-uh-pee (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Liệu pháp điều trị, trị liệu (vật lý trị liệu hoặc trị liệu tâm lý)",
+        "careerTag": "🧘 Phục hồi chức năng & Tâm lý",
+        "usageExplanation": "Dùng cho các phương pháp chữa trị phục hồi không dùng phẫu thuật, như tập vật lý trị liệu sau chấn thương ('physical therapy') hoặc tham vấn tâm lý ('psychotherapy').",
+        "collocations": [
+          "physical therapy (vật lý trị liệu)",
+          "undergo therapy (trải qua quá trình trị liệu)",
+          "speech/occupational therapy (âm ngữ / hoạt động trị liệu)"
+        ],
+        "exampleEn": "He needs three months of physical therapy after his knee surgery.",
+        "exampleVi": "Anh ấy cần ba tháng tập vật lý trị liệu sau ca phẫu thuật đầu gối."
+      },
+      {
+        "id": "hc_8",
+        "word": "nutrition",
+        "ipa": "/nuˈtrɪʃ.ən/",
+        "stress": "noo-TRISH-uhn (Trọng âm 2)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Dinh dưỡng, chế độ hấp thụ dưỡng chất nuôi cơ thể",
+        "careerTag": "🍎 Dinh dưỡng & Thể hình",
+        "usageExplanation": "Xuất hiện trên mọi nhãn thực phẩm ('Nutrition Facts' = Bảng thành phần dinh dưỡng). Chuyên gia dinh dưỡng gọi là 'nutritionist', tính từ giàu dinh dưỡng là 'nutritious'.",
+        "collocations": [
+          "Nutrition Facts (Bảng thông tin dinh dưỡng trên bao bì)",
+          "proper/balanced nutrition (chế độ dinh dưỡng cân bằng, hợp lý)",
+          "nutritionist (chuyên gia dinh dưỡng)"
+        ],
+        "exampleEn": "Good nutrition and regular exercise are essential for a long life.",
+        "exampleVi": "Dinh dưỡng tốt và tập thể dục đều đặn là yếu tố thiết yếu để sống thọ."
+      },
+      {
+        "word": "dosage",
+        "ipa": "/ˈdoʊ.sɪdʒ/",
+        "stress": "DOH-sij (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Liều lượng thuốc cần dùng",
+        "careerTag": "🩺 Khám chữa bệnh & Dược",
+        "usageExplanation": "Dùng khi nói về lượng thuốc uống mỗi lần hoặc mỗi ngày. Dược sĩ thường nhắc bạn không vượt quá mức này.",
+        "collocations": [
+          "recommended dosage (liều khuyến nghị)",
+          "increase the dosage (tăng liều)",
+          "daily dosage (liều dùng hằng ngày)"
+        ],
+        "exampleEn": "Do not exceed the recommended dosage.",
+        "exampleVi": "Không được vượt quá liều khuyến nghị.",
+        "id": "hl_x1"
+      },
+      {
+        "word": "surgeon",
+        "ipa": "/ˈsɜː.dʒən/",
+        "stress": "SUR-juhn (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Bác sĩ phẫu thuật",
+        "careerTag": "🏥 Bệnh viện & Điều dưỡng",
+        "usageExplanation": "Chỉ bác sĩ thực hiện các ca mổ trong bệnh viện. Thường đi cùng tên chuyên khoa.",
+        "collocations": [
+          "heart surgeon (bác sĩ phẫu thuật tim)",
+          "chief surgeon (trưởng khoa phẫu thuật)",
+          "skilled surgeon (bác sĩ mổ giỏi)"
+        ],
+        "exampleEn": "The surgeon explained the risks before the operation.",
+        "exampleVi": "Bác sĩ phẫu thuật giải thích các rủi ro trước ca mổ.",
+        "id": "hl_x2"
+      },
+      {
+        "word": "ambulance",
+        "ipa": "/ˈæm.bjə.ləns/",
+        "stress": "AM-byuh-luhns (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Xe cứu thương",
+        "careerTag": "🏥 Bệnh viện & Điều dưỡng",
+        "usageExplanation": "Dùng khi cần chở người bệnh khẩn cấp đến bệnh viện. Rất phổ biến trong tình huống gọi cấp cứu.",
+        "collocations": [
+          "call an ambulance (gọi xe cứu thương)",
+          "ambulance driver (tài xế xe cứu thương)",
+          "ambulance service (dịch vụ cứu thương)"
+        ],
+        "exampleEn": "Someone call an ambulance right now!",
+        "exampleVi": "Ai đó gọi xe cứu thương ngay đi!",
+        "id": "hl_x3"
+      },
+      {
+        "word": "infection",
+        "ipa": "/ɪnˈfek.ʃən/",
+        "stress": "in-FEK-shuhn (Trọng âm 2)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Sự nhiễm trùng, nhiễm khuẩn",
+        "careerTag": "🩺 Khám chữa bệnh & Dược",
+        "usageExplanation": "Nói về việc vi khuẩn hoặc virus xâm nhập cơ thể gây bệnh. Hay gặp khi nói về vết thương hoặc cảm cúm.",
+        "collocations": [
+          "bacterial infection (nhiễm khuẩn)",
+          "ear infection (viêm tai)",
+          "prevent infection (ngăn ngừa nhiễm trùng)"
+        ],
+        "exampleEn": "Clean the wound to avoid infection.",
+        "exampleVi": "Hãy làm sạch vết thương để tránh nhiễm trùng.",
+        "id": "hl_x4"
+      },
+      {
+        "word": "recovery",
+        "ipa": "/rɪˈkʌv.ər.i/",
+        "stress": "ri-KUV-uh-ree (Trọng âm 2)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Sự hồi phục sức khỏe",
+        "careerTag": "🏥 Bệnh viện & Điều dưỡng",
+        "usageExplanation": "Chỉ quá trình khỏe lại sau bệnh hoặc phẫu thuật. Hay dùng khi hỏi thăm bệnh nhân.",
+        "collocations": [
+          "full recovery (hồi phục hoàn toàn)",
+          "speedy recovery (mau bình phục)",
+          "recovery time (thời gian hồi phục)"
+        ],
+        "exampleEn": "She made a full recovery after the surgery.",
+        "exampleVi": "Cô ấy đã hồi phục hoàn toàn sau ca phẫu thuật.",
+        "id": "hl_x5"
+      },
+      {
+        "word": "antibiotic",
+        "ipa": "/ˌæn.ti.baɪˈɒt.ɪk/",
+        "stress": "an-ti-bye-OT-ik (Trọng âm 3)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Thuốc kháng sinh",
+        "careerTag": "🩺 Khám chữa bệnh & Dược",
+        "usageExplanation": "Loại thuốc diệt vi khuẩn, chỉ dùng khi bác sĩ kê đơn. Không có tác dụng với virus.",
+        "collocations": [
+          "take antibiotics (uống kháng sinh)",
+          "course of antibiotics (liệu trình kháng sinh)",
+          "antibiotic resistance (kháng kháng sinh)"
+        ],
+        "exampleEn": "The doctor prescribed an antibiotic for my throat.",
+        "exampleVi": "Bác sĩ kê thuốc kháng sinh cho cổ họng của tôi.",
+        "id": "hl_x6"
+      },
+      {
+        "word": "immune",
+        "ipa": "/ɪˈmjuːn/",
+        "stress": "i-MYOON (Trọng âm 2)",
+        "pos": "Tính từ (adj)",
+        "meaningVi": "Miễn dịch, có khả năng chống bệnh",
+        "careerTag": "🩺 Khám chữa bệnh & Dược",
+        "usageExplanation": "Mô tả cơ thể không bị mắc một bệnh nào đó hoặc hệ thống bảo vệ cơ thể. Hay đi với 'system'.",
+        "collocations": [
+          "immune system (hệ miễn dịch)",
+          "immune to a disease (miễn nhiễm với bệnh)",
+          "boost immune function (tăng cường miễn dịch)"
+        ],
+        "exampleEn": "Vitamin C may help support your immune system.",
+        "exampleVi": "Vitamin C có thể giúp hỗ trợ hệ miễn dịch của bạn.",
+        "id": "hl_x7"
+      },
+      {
+        "word": "chronic",
+        "ipa": "/ˈkrɒn.ɪk/",
+        "stress": "KRON-ik (Trọng âm 1)",
+        "pos": "Tính từ (adj)",
+        "meaningVi": "Mãn tính, kéo dài lâu",
+        "careerTag": "🩺 Khám chữa bệnh & Dược",
+        "usageExplanation": "Dùng cho bệnh hoặc cơn đau kéo dài, khó chữa dứt điểm. Trái nghĩa với cấp tính.",
+        "collocations": [
+          "chronic disease (bệnh mãn tính)",
+          "chronic pain (đau mãn tính)",
+          "chronic condition (tình trạng mãn tính)"
+        ],
+        "exampleEn": "He suffers from chronic back pain.",
+        "exampleVi": "Anh ấy bị đau lưng mãn tính.",
+        "id": "hl_x8"
+      },
+      {
+        "word": "injury",
+        "ipa": "/ˈɪn.dʒər.i/",
+        "stress": "IN-juh-ree (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Chấn thương, vết thương",
+        "careerTag": "💪 Thể hình & Sức khỏe",
+        "usageExplanation": "Chỉ tổn thương cơ thể do tai nạn hoặc tập luyện. Rất hay dùng trong thể thao.",
+        "collocations": [
+          "serious injury (chấn thương nghiêm trọng)",
+          "sports injury (chấn thương thể thao)",
+          "suffer an injury (bị thương)"
+        ],
+        "exampleEn": "The player missed the season due to a knee injury.",
+        "exampleVi": "Cầu thủ nghỉ cả mùa giải vì chấn thương đầu gối.",
+        "id": "hl_x9"
+      },
+      {
+        "word": "pharmacist",
+        "ipa": "/ˈfɑː.mə.sɪst/",
+        "stress": "FAR-muh-sist (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Dược sĩ",
+        "careerTag": "🩺 Khám chữa bệnh & Dược",
+        "usageExplanation": "Người bán và tư vấn thuốc tại nhà thuốc. Bạn có thể hỏi họ về tác dụng phụ.",
+        "collocations": [
+          "ask the pharmacist (hỏi dược sĩ)",
+          "licensed pharmacist (dược sĩ có giấy phép)",
+          "hospital pharmacist (dược sĩ bệnh viện)"
+        ],
+        "exampleEn": "The pharmacist told me to take the pills after meals.",
+        "exampleVi": "Dược sĩ dặn tôi uống thuốc sau bữa ăn.",
+        "id": "hl_x10"
+      },
+      {
+        "word": "patient",
+        "ipa": "/ˈpeɪ.ʃənt/",
+        "stress": "PAY-shuhnt (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Bệnh nhân",
+        "careerTag": "🏥 Bệnh viện & Điều dưỡng",
+        "usageExplanation": "Người đang được khám hoặc điều trị. Từ cơ bản nhất trong môi trường bệnh viện.",
+        "collocations": [
+          "treat a patient (điều trị bệnh nhân)",
+          "admit a patient (cho bệnh nhân nhập viện)",
+          "patient records (hồ sơ bệnh nhân)"
+        ],
+        "exampleEn": "The nurse checked each patient every hour.",
+        "exampleVi": "Y tá kiểm tra từng bệnh nhân mỗi giờ.",
+        "id": "hl_x11"
+      },
+      {
+        "word": "hygiene",
+        "ipa": "/ˈhaɪ.dʒiːn/",
+        "stress": "HY-jeen (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Vệ sinh, giữ gìn sạch sẽ",
+        "careerTag": "🏥 Bệnh viện & Điều dưỡng",
+        "usageExplanation": "Nói về thói quen giữ sạch để phòng bệnh như rửa tay. Thường gặp trong y tế và đời sống.",
+        "collocations": [
+          "personal hygiene (vệ sinh cá nhân)",
+          "hand hygiene (vệ sinh tay)",
+          "oral hygiene (vệ sinh răng miệng)"
+        ],
+        "exampleEn": "Good hygiene reduces the spread of germs.",
+        "exampleVi": "Vệ sinh tốt giúp giảm sự lây lan của vi trùng.",
+        "id": "hl_x12"
+      },
+      {
+        "word": "dehydration",
+        "ipa": "/ˌdiː.haɪˈdreɪ.ʃən/",
+        "stress": "dee-hy-DRAY-shuhn (Trọng âm 3)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Tình trạng mất nước",
+        "careerTag": "💪 Thể hình & Sức khỏe",
+        "usageExplanation": "Xảy ra khi cơ thể thiếu nước do đổ mồ hôi, tiêu chảy hoặc nóng. Hay được nhắc khi tập thể thao.",
+        "collocations": [
+          "severe dehydration (mất nước nặng)",
+          "prevent dehydration (phòng mất nước)",
+          "signs of dehydration (dấu hiệu mất nước)"
+        ],
+        "exampleEn": "Drink plenty of water to avoid dehydration.",
+        "exampleVi": "Hãy uống nhiều nước để tránh mất nước.",
+        "id": "hl_x13"
+      },
+      {
+        "word": "inflammation",
+        "ipa": "/ˌɪn.fləˈmeɪ.ʃən/",
+        "stress": "in-fluh-MAY-shuhn (Trọng âm 3)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Tình trạng viêm, sưng đỏ",
+        "careerTag": "🩺 Khám chữa bệnh & Dược",
+        "usageExplanation": "Phản ứng sưng, nóng, đỏ của cơ thể khi bị tổn thương hoặc nhiễm trùng. Thường xuất hiện trong báo cáo y khoa.",
+        "collocations": [
+          "reduce inflammation (giảm viêm)",
+          "joint inflammation (viêm khớp)",
+          "chronic inflammation (viêm mãn tính)"
+        ],
+        "exampleEn": "Ice can help reduce inflammation around the ankle.",
+        "exampleVi": "Chườm đá có thể giúp giảm viêm quanh mắt cá chân.",
+        "id": "hl_x14"
+      },
+      {
+        "word": "ointment",
+        "ipa": "/ˈɔɪnt.mənt/",
+        "stress": "OYNT-muhnt (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Thuốc mỡ bôi ngoài da",
+        "careerTag": "🩺 Khám chữa bệnh & Dược",
+        "usageExplanation": "Loại thuốc dạng sệt bôi lên da để trị vết thương hoặc phát ban. Thường mua ở nhà thuốc.",
+        "collocations": [
+          "apply ointment (bôi thuốc mỡ)",
+          "antibiotic ointment (thuốc mỡ kháng sinh)",
+          "tube of ointment (một tuýp thuốc mỡ)"
+        ],
+        "exampleEn": "Apply the ointment twice a day.",
+        "exampleVi": "Hãy bôi thuốc mỡ hai lần mỗi ngày.",
+        "id": "hl_x15"
+      },
+      {
+        "word": "syringe",
+        "ipa": "/sɪˈrɪndʒ/",
+        "stress": "si-RINJ (Trọng âm 2)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Ống tiêm",
+        "careerTag": "🏥 Bệnh viện & Điều dưỡng",
+        "usageExplanation": "Dụng cụ dùng để tiêm thuốc hoặc lấy máu. Thường là loại dùng một lần.",
+        "collocations": [
+          "disposable syringe (ống tiêm dùng một lần)",
+          "fill a syringe (hút thuốc vào ống tiêm)",
+          "sterile syringe (ống tiêm vô trùng)"
+        ],
+        "exampleEn": "The nurse filled the syringe with the vaccine.",
+        "exampleVi": "Y tá hút vắc-xin vào ống tiêm.",
+        "id": "hl_x16"
+      },
+      {
+        "word": "stethoscope",
+        "ipa": "/ˈsteθ.ə.skoʊp/",
+        "stress": "STETH-uh-skohp (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Ống nghe của bác sĩ",
+        "careerTag": "🏥 Bệnh viện & Điều dưỡng",
+        "usageExplanation": "Dụng cụ để nghe nhịp tim và hơi thở. Hình ảnh quen thuộc đeo trên cổ bác sĩ.",
+        "collocations": [
+          "use a stethoscope (dùng ống nghe)",
+          "listen with a stethoscope (nghe bằng ống nghe)",
+          "digital stethoscope (ống nghe điện tử)"
+        ],
+        "exampleEn": "The doctor placed the stethoscope on my chest.",
+        "exampleVi": "Bác sĩ đặt ống nghe lên ngực tôi.",
+        "id": "hl_x17"
+      },
+      {
+        "word": "paramedic",
+        "ipa": "/ˌpær.əˈmed.ɪk/",
+        "stress": "pa-ruh-MED-ik (Trọng âm 3)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Nhân viên cấp cứu y tế",
+        "careerTag": "🏥 Bệnh viện & Điều dưỡng",
+        "usageExplanation": "Người được đào tạo để sơ cứu và chăm sóc bệnh nhân tại hiện trường hoặc trên xe cứu thương.",
+        "collocations": [
+          "call a paramedic (gọi nhân viên cấp cứu)",
+          "paramedics arrive (nhân viên cấp cứu đến nơi)",
+          "trained paramedic (nhân viên cấp cứu được đào tạo)"
+        ],
+        "exampleEn": "Paramedics arrived within five minutes.",
+        "exampleVi": "Nhân viên cấp cứu đã đến trong vòng năm phút.",
+        "id": "hl_x18"
+      },
+      {
+        "word": "outpatient",
+        "ipa": "/ˈaʊt.peɪ.ʃənt/",
+        "stress": "OWT-pay-shuhnt (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Bệnh nhân ngoại trú",
+        "careerTag": "🏥 Bệnh viện & Điều dưỡng",
+        "usageExplanation": "Người đến khám hoặc điều trị nhưng không phải ở lại qua đêm. Trái nghĩa với bệnh nhân nội trú.",
+        "collocations": [
+          "outpatient clinic (phòng khám ngoại trú)",
+          "outpatient care (chăm sóc ngoại trú)",
+          "outpatient surgery (phẫu thuật ngoại trú)"
+        ],
+        "exampleEn": "She is treated as an outpatient twice a week.",
+        "exampleVi": "Cô ấy điều trị ngoại trú hai lần một tuần.",
+        "id": "hl_x19"
+      },
+      {
+        "word": "treatment",
+        "ipa": "/ˈtriːt.mənt/",
+        "stress": "TREET-muhnt (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Phương pháp điều trị",
+        "careerTag": "🩺 Khám chữa bệnh & Dược",
+        "usageExplanation": "Chỉ cách chữa bệnh hoặc quá trình chăm sóc y tế. Dùng rất nhiều trong bệnh viện.",
+        "collocations": [
+          "receive treatment (được điều trị)",
+          "medical treatment (điều trị y tế)",
+          "treatment plan (phác đồ điều trị)"
+        ],
+        "exampleEn": "He is receiving treatment for diabetes.",
+        "exampleVi": "Anh ấy đang được điều trị bệnh tiểu đường.",
+        "id": "hl_x20"
+      },
+      {
+        "word": "diagnosis",
+        "ipa": "/ˌdaɪ.əɡˈnoʊ.sɪs/",
+        "stress": "dy-ag-NOH-sis (Trọng âm 3)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Kết quả chẩn đoán bệnh",
+        "careerTag": "🩺 Khám chữa bệnh & Dược",
+        "usageExplanation": "Là kết luận của bác sĩ về bệnh sau khi khám và xét nghiệm. Số nhiều là 'diagnoses'.",
+        "collocations": [
+          "early diagnosis (chẩn đoán sớm)",
+          "confirm a diagnosis (xác nhận chẩn đoán)",
+          "accurate diagnosis (chẩn đoán chính xác)"
+        ],
+        "exampleEn": "Early diagnosis improves the chances of recovery.",
+        "exampleVi": "Chẩn đoán sớm làm tăng cơ hội hồi phục.",
+        "id": "hl_x21"
+      },
+      {
+        "word": "insomnia",
+        "ipa": "/ɪnˈsɒm.ni.ə/",
+        "stress": "in-SOM-nee-uh (Trọng âm 2)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Chứng mất ngủ",
+        "careerTag": "🩺 Khám chữa bệnh & Dược",
+        "usageExplanation": "Tình trạng khó ngủ hoặc ngủ không sâu kéo dài. Thường do căng thẳng.",
+        "collocations": [
+          "suffer from insomnia (bị mất ngủ)",
+          "chronic insomnia (mất ngủ kinh niên)",
+          "treat insomnia (điều trị mất ngủ)"
+        ],
+        "exampleEn": "Stress often leads to insomnia.",
+        "exampleVi": "Căng thẳng thường dẫn đến mất ngủ.",
+        "id": "hl_x22"
+      },
+      {
+        "word": "workout",
+        "ipa": "/ˈwɜːk.aʊt/",
+        "stress": "WURK-owt (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Buổi tập luyện thể dục",
+        "careerTag": "💪 Thể hình & Sức khỏe",
+        "usageExplanation": "Chỉ một buổi tập tại phòng gym hoặc ở nhà. Rất phổ biến trong đời sống hiện đại.",
+        "collocations": [
+          "morning workout (buổi tập sáng)",
+          "intense workout (buổi tập cường độ cao)",
+          "workout routine (lịch tập luyện)"
+        ],
+        "exampleEn": "I do a thirty-minute workout every morning.",
+        "exampleVi": "Tôi tập ba mươi phút mỗi sáng.",
+        "id": "hl_x23"
+      },
+      {
+        "word": "stamina",
+        "ipa": "/ˈstæm.ɪ.nə/",
+        "stress": "STAM-i-nuh (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Sức bền, sức chịu đựng",
+        "careerTag": "💪 Thể hình & Sức khỏe",
+        "usageExplanation": "Khả năng duy trì hoạt động thể chất hoặc tinh thần trong thời gian dài. Hay dùng khi chạy bộ.",
+        "collocations": [
+          "build stamina (xây dựng sức bền)",
+          "physical stamina (sức bền thể chất)",
+          "lack stamina (thiếu sức bền)"
+        ],
+        "exampleEn": "Running regularly will improve your stamina.",
+        "exampleVi": "Chạy bộ thường xuyên sẽ cải thiện sức bền của bạn.",
+        "id": "hl_x24"
+      },
+      {
+        "word": "fracture",
+        "ipa": "/ˈfræk.tʃər/",
+        "stress": "FRAK-chuhr (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Gãy xương, rạn xương",
+        "careerTag": "🏥 Bệnh viện & Điều dưỡng",
+        "usageExplanation": "Thuật ngữ y khoa chỉ xương bị nứt hoặc gãy. Thường thấy trong kết quả chụp X-quang.",
+        "collocations": [
+          "hairline fracture (rạn xương nhỏ)",
+          "suffer a fracture (bị gãy xương)",
+          "wrist fracture (gãy xương cổ tay)"
+        ],
+        "exampleEn": "The X-ray showed a fracture in his arm.",
+        "exampleVi": "Phim X-quang cho thấy cánh tay anh ấy bị gãy xương.",
+        "id": "hl_x25"
+      },
+      {
+        "word": "wellness",
+        "ipa": "/ˈwel.nəs/",
+        "stress": "WEL-nuhs (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Trạng thái khỏe mạnh toàn diện",
+        "careerTag": "💪 Thể hình & Sức khỏe",
+        "usageExplanation": "Chỉ lối sống chăm sóc cả thể chất lẫn tinh thần. Thường xuất hiện trong quảng cáo spa, gym.",
+        "collocations": [
+          "wellness program (chương trình chăm sóc sức khỏe)",
+          "mental wellness (sức khỏe tinh thần)",
+          "wellness center (trung tâm sức khỏe)"
+        ],
+        "exampleEn": "Our company offers a wellness program for staff.",
+        "exampleVi": "Công ty chúng tôi có chương trình chăm sóc sức khỏe cho nhân viên.",
+        "id": "hl_x26"
+      },
+      {
+        "word": "sedative",
+        "ipa": "/ˈsed.ə.tɪv/",
+        "stress": "SED-uh-tiv (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Thuốc an thần",
+        "careerTag": "🩺 Khám chữa bệnh & Dược",
+        "usageExplanation": "Loại thuốc làm dịu thần kinh hoặc giúp ngủ, dùng trước phẫu thuật hay khi lo âu nặng.",
+        "collocations": [
+          "mild sedative (thuốc an thần nhẹ)",
+          "give a sedative (cho dùng thuốc an thần)",
+          "under sedation (đang được an thần)"
+        ],
+        "exampleEn": "The patient was given a sedative before the procedure.",
+        "exampleVi": "Bệnh nhân được cho dùng thuốc an thần trước thủ thuật.",
+        "id": "hl_x27"
+      },
+      {
+        "word": "contagious",
+        "ipa": "/kənˈteɪ.dʒəs/",
+        "stress": "kuhn-TAY-juhs (Trọng âm 2)",
+        "pos": "Tính từ (adj)",
+        "meaningVi": "Dễ lây, có khả năng lây truyền",
+        "careerTag": "🩺 Khám chữa bệnh & Dược",
+        "usageExplanation": "Mô tả bệnh có thể truyền từ người này sang người khác khi tiếp xúc. Hay dùng với cảm cúm.",
+        "collocations": [
+          "highly contagious (rất dễ lây)",
+          "contagious disease (bệnh truyền nhiễm)",
+          "remain contagious (vẫn còn khả năng lây)"
+        ],
+        "exampleEn": "The flu is highly contagious, so stay home.",
+        "exampleVi": "Cúm rất dễ lây nên hãy ở nhà.",
+        "id": "hl_x28"
+      },
+      {
+        "word": "physician",
+        "ipa": "/fɪˈzɪʃ.ən/",
+        "stress": "fi-ZISH-uhn (Trọng âm 2)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Bác sĩ nội khoa, thầy thuốc",
+        "careerTag": "🏥 Bệnh viện & Điều dưỡng",
+        "usageExplanation": "Cách nói trang trọng chỉ bác sĩ, thường trong văn bản y tế hoặc bảo hiểm.",
+        "collocations": [
+          "family physician (bác sĩ gia đình)",
+          "consult a physician (tham khảo ý kiến bác sĩ)",
+          "attending physician (bác sĩ điều trị)"
+        ],
+        "exampleEn": "Consult your physician before taking any supplements.",
+        "exampleVi": "Hãy hỏi ý kiến bác sĩ trước khi dùng bất kỳ thực phẩm bổ sung nào.",
+        "id": "hl_x29"
+      },
+      {
+        "word": "checkup",
+        "ipa": "/ˈtʃek.ʌp/",
+        "stress": "CHEK-up (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Buổi khám sức khỏe tổng quát",
+        "careerTag": "🩺 Khám chữa bệnh & Dược",
+        "usageExplanation": "Lần khám định kỳ để kiểm tra sức khỏe dù không có triệu chứng bệnh.",
+        "collocations": [
+          "annual checkup (khám sức khỏe hằng năm)",
+          "routine checkup (khám định kỳ)",
+          "go for a checkup (đi khám tổng quát)"
+        ],
+        "exampleEn": "I have a dental checkup next week.",
+        "exampleVi": "Tuần sau tôi có buổi khám răng.",
+        "id": "hl_x30"
+      }
+    ]
+  },
+  {
+    "id": "session_engineering",
+    "title": "Kỹ thuật, Sản xuất & Logistics",
+    "subtitle": "Engineering, Manufacturing & Supply Chain",
+    "icon": "⚙️",
+    "color": "#06b6d4",
+    "badge": "Kỹ thuật & Logistics",
+    "description": "Từ vựng chuyên ngành cho kỹ sư, quản lý nhà máy, bảo trì thiết bị, kho vận và xuất nhập khẩu.",
+    "words": [
+      {
+        "id": "eg_1",
+        "word": "maintenance",
+        "ipa": "/ˈmeɪn.tən.əns/",
+        "stress": "MEYN-tuh-nuhns (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Sự bảo trì, bảo dưỡng (máy móc, tòa nhà, hệ thống để hoạt động ổn định)",
+        "careerTag": "🔧 Kỹ thuật & Vận hành",
+        "usageExplanation": "Dùng trong cả nhà máy sản xuất, tòa nhà chung cư lẫn hệ thống phần mềm. Rất nhiều người đọc nhầm từ này theo chữ 'maintain', nhưng danh từ phải đọc trọng âm 1 là /ˈmeɪn.tən.əns/!",
+        "collocations": [
+          "regular/routine maintenance (bảo trì định kỳ)",
+          "under maintenance (đang trong quá trình bảo trì)",
+          "preventive maintenance (bảo dưỡng phòng ngừa hỏng hóc)"
+        ],
+        "exampleEn": "The production line will shut down for scheduled maintenance tonight.",
+        "exampleVi": "Dây chuyền sản xuất sẽ tạm dừng để bảo trì định kỳ vào tối nay."
+      },
+      {
+        "id": "eg_2",
+        "word": "warehouse",
+        "ipa": "/ˈwer.haʊs/",
+        "stress": "WER-hows (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Kho bãi, nhà kho lớn chứa hàng hóa trước khi phân phối",
+        "careerTag": "📦 Kho vận & Logistics",
+        "usageExplanation": "Từ cốt lõi của ngành thương mại điện tử và chuỗi cung ứng (Supply Chain). Hàng hóa nhập về lưu ở 'warehouse' trước khi giao cho đơn vị vận chuyển tới tay khách hàng.",
+        "collocations": [
+          "in the warehouse (trong kho hàng)",
+          "warehouse management (quản lý kho vận)",
+          "automated warehouse (nhà kho tự động hóa)"
+        ],
+        "exampleEn": "Your order has left the warehouse and is on its way to you.",
+        "exampleVi": "Đơn hàng của bạn đã rời kho và đang trên đường giao đến bạn."
+      },
+      {
+        "id": "eg_3",
+        "word": "inventory",
+        "ipa": "/ˈɪn.vən.tɔːr.i/",
+        "stress": "IN-vuhn-tor-ee (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Hàng tồn kho; sự kiểm kê số lượng hàng hóa đang có trong kho",
+        "careerTag": "📊 Chuỗi cung ứng & Bán lẻ",
+        "usageExplanation": "Dùng để chỉ toàn bộ lượng hàng đang lưu trữ để bán, hoặc hành động kiểm đếm kho ('take inventory'). Nếu quản lý 'inventory' tốt sẽ tránh được tình trạng đọng vốn hoặc cháy hàng.",
+        "collocations": [
+          "manage/track inventory (quản lý/theo dõi hàng tồn kho)",
+          "take/do inventory (kiểm kê kho hàng)",
+          "low on inventory (sắp hết hàng trong kho)"
+        ],
+        "exampleEn": "We close the store early once a month to take inventory.",
+        "exampleVi": "Chúng tôi đóng cửa hàng sớm mỗi tháng một lần để kiểm kê hàng tồn kho."
+      },
+      {
+        "id": "eg_4",
+        "word": "inspect",
+        "ipa": "/ɪnˈspekt/",
+        "stress": "in-SPEKT (Trọng âm 2)",
+        "pos": "Động từ (v)",
+        "meaningVi": "Kiểm tra, thanh tra kỹ lưỡng (chất lượng sản phẩm, an toàn lao động)",
+        "careerTag": "🔍 QC/QA & Sản xuất",
+        "usageExplanation": "Khác với 'check' thông thường, 'inspect' là kiểm tra tỉ mỉ theo tiêu chuẩn kỹ thuật hoặc quy định an toàn. Danh từ là 'inspection' (kiểm định/thanh tra), người kiểm tra là 'inspector'.",
+        "collocations": [
+          "inspect for defects (kiểm tra tìm lỗi/khuyết tật sản phẩm)",
+          "quality inspection (kiểm định chất lượng)",
+          "safety inspector (thanh tra an toàn)"
+        ],
+        "exampleEn": "Engineers carefully inspect every aircraft engine before takeoff.",
+        "exampleVi": "Các kỹ sư kiểm tra kỹ lưỡng từng động cơ máy bay trước khi cất cánh."
+      },
+      {
+        "id": "eg_5",
+        "word": "shipment",
+        "ipa": "/ˈʃɪp.mənt/",
+        "stress": "SHIP-muhnt (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Lô hàng gửi đi; việc vận chuyển hàng hóa (bằng đường bộ, biển hoặc hàng không)",
+        "careerTag": "🚢 Xuất nhập khẩu & Vận tải",
+        "usageExplanation": "Lưu ý thú vị: Tuy có chữ 'ship' (tàu thủy), nhưng 'shipment' dùng cho MỌI lô hàng vận chuyển bằng xe tải, máy bay hay tàu biển! Dùng cực nhiều khi báo tiến độ giao hàng quốc tế.",
+        "collocations": [
+          "track a shipment (theo dõi hành trình lô hàng)",
+          "delay a shipment (chậm trễ lô hàng)",
+          "ready for shipment (sẵn sàng để xuất hàng đi)"
+        ],
+        "exampleEn": "The next shipment of raw materials will arrive at the port tomorrow.",
+        "exampleVi": "Lô hàng nguyên vật liệu tiếp theo sẽ cập cảng vào ngày mai."
+      },
+      {
+        "id": "eg_6",
+        "word": "assemble",
+        "ipa": "/əˈsem.bəl/",
+        "stress": "uh-SEM-buhl (Trọng âm 2)",
+        "pos": "Động từ (v)",
+        "meaningVi": "Lắp ráp các linh kiện rời thành một sản phẩm hoàn chỉnh; hoặc tập hợp lại",
+        "careerTag": "🏭 Nhà máy & Cơ khí điện tử",
+        "usageExplanation": "Trong các nhà máy sản xuất ô tô, điện thoại hay nội thất, công đoạn ghép các linh kiện lại gọi là 'assemble'. Dây chuyền lắp ráp trong nhà máy gọi là 'assembly line'.",
+        "collocations": [
+          "assemble parts/furniture (lắp ráp linh kiện/đồ nội thất)",
+          "assembly line (dây chuyền lắp ráp)",
+          "easy to assemble (dễ lắp ráp)"
+        ],
+        "exampleEn": "It took us two hours to assemble the new office desk.",
+        "exampleVi": "Chúng tôi mất hai tiếng đồng hồ để lắp ráp chiếc bàn làm việc mới."
+      },
+      {
+        "id": "eg_7",
+        "word": "defect",
+        "ipa": "/ˈdiː.fekt/",
+        "stress": "DEE-fekt (Trọng âm 1 khi là Danh từ)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Lỗi kỹ thuật, khuyết tật trên sản phẩm (do quá trình sản xuất)",
+        "careerTag": "⚙️ Quản lý Chất lượng (QC)",
+        "usageExplanation": "Trong nhà máy và bảo hành sản phẩm, hàng bị lỗi do nhà sản xuất gọi là 'manufacturing defect', tính từ là 'defective' (defective product = hàng lỗi cần đổi trả).",
+        "collocations": [
+          "manufacturing defect (lỗi từ phía nhà sản xuất)",
+          "zero defects (mục tiêu không có sản phẩm lỗi)",
+          "defective item/product (sản phẩm bị lỗi)"
+        ],
+        "exampleEn": "You can return the item for a full refund if it has a manufacturing defect.",
+        "exampleVi": "Bạn có thể trả lại hàng để được hoàn tiền 100% nếu có lỗi từ nhà sản xuất."
+      },
+      {
+        "id": "eg_8",
+        "word": "customs",
+        "ipa": "/ˈkʌs.təmz/",
+        "stress": "KUHS-tuhmz (Trọng âm 1, luôn có 's')",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Hải quan (cơ quan kiểm soát hàng hóa xuất nhập khẩu tại biên giới/sân bay)",
+        "careerTag": "🛃 Xuất nhập khẩu & Sân bay",
+        "usageExplanation": "Khi mang nghĩa 'Hải quan', từ này LUÔN LUÔN phải có chữ 's' ở cuối ('customs'). Dùng khi làm thủ tục thông quan hàng hóa ('clear customs') hoặc đi qua cửa hải quan sân bay.",
+        "collocations": [
+          "clear customs (thông quan hải quan)",
+          "customs declaration (tờ khai hải quan)",
+          "held at customs (bị giữ lại ở hải quan để kiểm tra)"
+        ],
+        "exampleEn": "It took three days for our imported equipment to clear customs.",
+        "exampleVi": "Mất ba ngày để thiết bị nhập khẩu của chúng tôi hoàn tất thủ tục thông quan."
+      },
+      {
+        "word": "scaffolding",
+        "ipa": "/ˈskæf.əl.dɪŋ/",
+        "stress": "SKAF-uhl-ding (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Giàn giáo dựng quanh công trình để thợ làm việc trên cao",
+        "careerTag": "🏗️ Xây dựng & An toàn",
+        "usageExplanation": "Dùng ở công trường xây dựng hoặc sửa chữa tòa nhà. Là danh từ không đếm được.",
+        "collocations": [
+          "erect scaffolding (dựng giàn giáo)",
+          "scaffolding collapse (sập giàn giáo)",
+          "steel scaffolding (giàn giáo thép)"
+        ],
+        "exampleEn": "Workers climbed the scaffolding to repaint the facade.",
+        "exampleVi": "Công nhân leo lên giàn giáo để sơn lại mặt tiền.",
+        "id": "en_x1"
+      },
+      {
+        "word": "hazard",
+        "ipa": "/ˈhæz.ərd/",
+        "stress": "HAZ-erd (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Mối nguy hiểm tiềm ẩn gây hại hoặc tai nạn",
+        "careerTag": "🏗️ Xây dựng & An toàn",
+        "usageExplanation": "Thường xuất hiện trong quy định an toàn lao động; chỉ nguồn gây nguy hiểm chứ không phải tai nạn đã xảy ra.",
+        "collocations": [
+          "fire hazard (nguy cơ cháy)",
+          "health hazard (mối nguy cho sức khỏe)",
+          "safety hazard (nguy cơ mất an toàn)"
+        ],
+        "exampleEn": "A wet floor is a serious hazard in the factory.",
+        "exampleVi": "Sàn ướt là một mối nguy nghiêm trọng trong nhà máy.",
+        "id": "en_x2"
+      },
+      {
+        "word": "forklift",
+        "ipa": "/ˈfɔːrk.lɪft/",
+        "stress": "FORK-lift (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Xe nâng dùng để nâng và di chuyển hàng hóa nặng",
+        "careerTag": "🚚 Chuỗi cung ứng & Logistics",
+        "usageExplanation": "Dùng trong kho bãi và nhà máy. Người lái cần có chứng chỉ vận hành.",
+        "collocations": [
+          "drive a forklift (lái xe nâng)",
+          "forklift operator (người vận hành xe nâng)",
+          "forklift truck (xe nâng hàng)"
+        ],
+        "exampleEn": "The forklift moved the heavy crates to the loading dock.",
+        "exampleVi": "Xe nâng chuyển những thùng nặng đến bến bốc hàng.",
+        "id": "en_x3"
+      },
+      {
+        "word": "conveyor",
+        "ipa": "/kənˈveɪ.ər/",
+        "stress": "kuhn-VEY-er (Trọng âm 2)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Băng tải chuyển sản phẩm liên tục trên dây chuyền",
+        "careerTag": "🏭 Sản xuất",
+        "usageExplanation": "Hay đi cùng 'belt' thành 'conveyor belt'. Phổ biến trong nhà máy, sân bay, siêu thị.",
+        "collocations": [
+          "conveyor belt (băng tải)",
+          "conveyor system (hệ thống băng tải)",
+          "load onto the conveyor (đặt lên băng tải)"
+        ],
+        "exampleEn": "Boxes travel along the conveyor to the packing area.",
+        "exampleVi": "Các hộp di chuyển trên băng tải đến khu đóng gói.",
+        "id": "en_x4"
+      },
+      {
+        "word": "throughput",
+        "ipa": "/ˈθruː.pʊt/",
+        "stress": "THROO-put (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Sản lượng xử lý được trong một khoảng thời gian",
+        "careerTag": "🏭 Sản xuất",
+        "usageExplanation": "Đo năng suất của máy móc, dây chuyền hoặc hệ thống. Thường dùng trong báo cáo vận hành.",
+        "collocations": [
+          "increase throughput (tăng sản lượng xử lý)",
+          "high throughput (năng suất cao)",
+          "daily throughput (sản lượng mỗi ngày)"
+        ],
+        "exampleEn": "The new machine doubled the plant's throughput.",
+        "exampleVi": "Chiếc máy mới đã tăng gấp đôi năng suất của nhà máy.",
+        "id": "en_x5"
+      },
+      {
+        "word": "calibrate",
+        "ipa": "/ˈkæl.ə.breɪt/",
+        "stress": "KAL-uh-breyt (Trọng âm 1)",
+        "pos": "Động từ (v)",
+        "meaningVi": "Hiệu chuẩn thiết bị để đo chính xác",
+        "careerTag": "🔧 Kỹ thuật & Vận hành",
+        "usageExplanation": "Dùng cho cân, máy đo, cảm biến cần chỉnh về chuẩn. Danh từ là calibration.",
+        "collocations": [
+          "calibrate a sensor (hiệu chuẩn cảm biến)",
+          "calibrate the scale (chỉnh cân)",
+          "carefully calibrate (hiệu chuẩn cẩn thận)"
+        ],
+        "exampleEn": "Technicians calibrate the machines every month.",
+        "exampleVi": "Kỹ thuật viên hiệu chuẩn máy móc mỗi tháng.",
+        "id": "en_x6"
+      },
+      {
+        "word": "prototype",
+        "ipa": "/ˈproʊ.t̬ə.taɪp/",
+        "stress": "PROH-tuh-typ (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Mẫu thử đầu tiên của sản phẩm trước khi sản xuất hàng loạt",
+        "careerTag": "🏭 Sản xuất",
+        "usageExplanation": "Dùng trong thiết kế và phát triển sản phẩm, cả phần cứng lẫn phần mềm.",
+        "collocations": [
+          "build a prototype (chế tạo mẫu thử)",
+          "working prototype (mẫu thử hoạt động được)",
+          "test a prototype (thử nghiệm mẫu)"
+        ],
+        "exampleEn": "The engineers presented a prototype of the new engine.",
+        "exampleVi": "Các kỹ sư giới thiệu mẫu thử của động cơ mới.",
+        "id": "en_x7"
+      },
+      {
+        "word": "tolerance",
+        "ipa": "/ˈtɑː.lɚ.əns/",
+        "stress": "TAH-ler-uhns (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Dung sai, mức sai lệch cho phép trong kích thước chi tiết",
+        "careerTag": "🔧 Kỹ thuật & Vận hành",
+        "usageExplanation": "Trong cơ khí, đây là sai lệch tối đa được chấp nhận. Còn có nghĩa chung là sự chịu đựng.",
+        "collocations": [
+          "tight tolerance (dung sai chặt)",
+          "within tolerance (trong mức cho phép)",
+          "tolerance level (mức dung sai)"
+        ],
+        "exampleEn": "The part must be made within a tolerance of 0.01 millimeters.",
+        "exampleVi": "Chi tiết phải được gia công với dung sai 0,01 mm.",
+        "id": "en_x8"
+      },
+      {
+        "word": "ventilation",
+        "ipa": "/ˌven.t̬əlˈeɪ.ʃən/",
+        "stress": "ven-tuh-LEY-shuhn (Trọng âm 3)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Hệ thống hoặc sự thông gió cho không gian làm việc",
+        "careerTag": "🏗️ Xây dựng & An toàn",
+        "usageExplanation": "Quan trọng ở hầm, xưởng sơn, nhà máy hóa chất để tránh khí độc.",
+        "collocations": [
+          "proper ventilation (thông gió tốt)",
+          "ventilation system (hệ thống thông gió)",
+          "poor ventilation (thông gió kém)"
+        ],
+        "exampleEn": "Good ventilation is required in the paint workshop.",
+        "exampleVi": "Xưởng sơn cần có thông gió tốt.",
+        "id": "en_x9"
+      },
+      {
+        "word": "logistics",
+        "ipa": "/ləˈdʒɪs.tɪks/",
+        "stress": "luh-JIS-tiks (Trọng âm 2)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Hoạt động tổ chức vận chuyển, lưu kho và phân phối hàng",
+        "careerTag": "🚚 Chuỗi cung ứng & Logistics",
+        "usageExplanation": "Là danh từ số nhiều về hình thức nhưng thường đi với động từ số ít. Dùng cho cả ngành nghề.",
+        "collocations": [
+          "logistics company (công ty logistics)",
+          "logistics manager (quản lý logistics)",
+          "handle the logistics (lo phần hậu cần)"
+        ],
+        "exampleEn": "She works in logistics for an international shipping firm.",
+        "exampleVi": "Cô ấy làm logistics cho một hãng vận tải quốc tế.",
+        "id": "en_x10"
+      },
+      {
+        "word": "freight",
+        "ipa": "/freɪt/",
+        "stress": "FREYT (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Hàng hóa được vận chuyển với số lượng lớn",
+        "careerTag": "🚚 Chuỗi cung ứng & Logistics",
+        "usageExplanation": "Dùng cho hàng chuyên chở bằng tàu, máy bay, xe tải hoặc tàu hỏa; cũng chỉ cước vận chuyển.",
+        "collocations": [
+          "air freight (vận chuyển hàng không)",
+          "freight train (tàu chở hàng)",
+          "freight charges (cước vận chuyển)"
+        ],
+        "exampleEn": "The freight arrived at the port two days late.",
+        "exampleVi": "Lô hàng đến cảng chậm hai ngày.",
+        "id": "en_x11"
+      },
+      {
+        "word": "dispatch",
+        "ipa": "/dɪˈspætʃ/",
+        "stress": "dih-SPACH (Trọng âm 2)",
+        "pos": "Động từ (v)",
+        "meaningVi": "Điều phái hoặc gửi đi hàng hóa, xe, nhân sự",
+        "careerTag": "🚚 Chuỗi cung ứng & Logistics",
+        "usageExplanation": "Dùng khi gửi hàng đi hoặc điều xe đến địa điểm. Cũng là danh từ chỉ bộ phận điều phối.",
+        "collocations": [
+          "dispatch a truck (điều xe đi)",
+          "dispatch goods (gửi hàng đi)",
+          "dispatch center (trung tâm điều phối)"
+        ],
+        "exampleEn": "We dispatch all orders within 24 hours.",
+        "exampleVi": "Chúng tôi gửi mọi đơn hàng đi trong vòng 24 giờ.",
+        "id": "en_x12"
+      },
+      {
+        "word": "pallet",
+        "ipa": "/ˈpæl.ət/",
+        "stress": "PAL-it (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Tấm kê bằng gỗ hoặc nhựa để xếp hàng cho xe nâng",
+        "careerTag": "🚚 Chuỗi cung ứng & Logistics",
+        "usageExplanation": "Rất phổ biến trong kho; hàng thường được xếp và quấn màng co trên đó.",
+        "collocations": [
+          "wooden pallet (pallet gỗ)",
+          "stack pallets (xếp chồng pallet)",
+          "a pallet of goods (một pallet hàng)"
+        ],
+        "exampleEn": "Each pallet holds forty boxes of tiles.",
+        "exampleVi": "Mỗi pallet chứa bốn mươi hộp gạch.",
+        "id": "en_x13"
+      },
+      {
+        "word": "procurement",
+        "ipa": "/prəˈkjʊr.mənt/",
+        "stress": "pruh-KYOOR-muhnt (Trọng âm 2)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Việc mua sắm vật tư, hàng hóa cho doanh nghiệp",
+        "careerTag": "🚚 Chuỗi cung ứng & Logistics",
+        "usageExplanation": "Dùng trong bộ phận thu mua của công ty, trang trọng hơn 'buying'.",
+        "collocations": [
+          "procurement process (quy trình mua sắm)",
+          "procurement manager (quản lý thu mua)",
+          "public procurement (mua sắm công)"
+        ],
+        "exampleEn": "The procurement team negotiated a better price for steel.",
+        "exampleVi": "Nhóm thu mua đã thương lượng được giá thép tốt hơn.",
+        "id": "en_x14"
+      },
+      {
+        "word": "fabricate",
+        "ipa": "/ˈfæb.rɪ.keɪt/",
+        "stress": "FAB-ri-keyt (Trọng âm 1)",
+        "pos": "Động từ (v)",
+        "meaningVi": "Chế tạo hoặc gia công các bộ phận, nhất là từ kim loại",
+        "careerTag": "🏭 Sản xuất",
+        "usageExplanation": "Trong công nghiệp nghĩa là chế tạo; ngoài đời cũng có nghĩa là bịa đặt thông tin.",
+        "collocations": [
+          "fabricate parts (chế tạo chi tiết)",
+          "fabricate steel (gia công thép)",
+          "fabricated metal (kim loại gia công)"
+        ],
+        "exampleEn": "The company fabricates steel frames for bridges.",
+        "exampleVi": "Công ty chế tạo khung thép cho các cây cầu.",
+        "id": "en_x15"
+      },
+      {
+        "word": "welding",
+        "ipa": "/ˈwel.dɪŋ/",
+        "stress": "WEL-ding (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Công việc hàn các mảnh kim loại lại với nhau",
+        "careerTag": "🏭 Sản xuất",
+        "usageExplanation": "Chỉ nghề hoặc kỹ thuật hàn trong xưởng cơ khí, đóng tàu, xây dựng.",
+        "collocations": [
+          "welding machine (máy hàn)",
+          "welding torch (mỏ hàn)",
+          "arc welding (hàn hồ quang)"
+        ],
+        "exampleEn": "Welding requires gloves and a protective mask.",
+        "exampleVi": "Công việc hàn cần găng tay và mặt nạ bảo hộ.",
+        "id": "en_x16"
+      },
+      {
+        "word": "hydraulic",
+        "ipa": "/haɪˈdrɔː.lɪk/",
+        "stress": "hy-DRAW-lik (Trọng âm 2)",
+        "pos": "Tính từ (adj)",
+        "meaningVi": "Thuộc hệ thống dùng áp lực chất lỏng để vận hành",
+        "careerTag": "🔧 Kỹ thuật & Vận hành",
+        "usageExplanation": "Mô tả máy xúc, máy ép, phanh dùng dầu thủy lực.",
+        "collocations": [
+          "hydraulic pump (bơm thủy lực)",
+          "hydraulic press (máy ép thủy lực)",
+          "hydraulic system (hệ thống thủy lực)"
+        ],
+        "exampleEn": "The excavator's hydraulic system needs repair.",
+        "exampleVi": "Hệ thống thủy lực của máy xúc cần được sửa chữa.",
+        "id": "en_x17"
+      },
+      {
+        "word": "machinery",
+        "ipa": "/məˈʃiː.nɚ.i/",
+        "stress": "muh-SHEE-nuh-ree (Trọng âm 2)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Máy móc nói chung dùng trong sản xuất, xây dựng",
+        "careerTag": "🏭 Sản xuất",
+        "usageExplanation": "Là danh từ không đếm được: không nói 'a machinery'. Dùng 'a piece of machinery'.",
+        "collocations": [
+          "heavy machinery (máy móc hạng nặng)",
+          "operate machinery (vận hành máy móc)",
+          "agricultural machinery (máy nông nghiệp)"
+        ],
+        "exampleEn": "Workers must wear ear protection near heavy machinery.",
+        "exampleVi": "Công nhân phải đeo bảo vệ tai gần máy móc hạng nặng.",
+        "id": "en_x18"
+      },
+      {
+        "word": "compliance",
+        "ipa": "/kəmˈplaɪ.əns/",
+        "stress": "kuhm-PLY-uhns (Trọng âm 2)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Sự tuân thủ quy định, tiêu chuẩn hoặc luật",
+        "careerTag": "🏗️ Xây dựng & An toàn",
+        "usageExplanation": "Dùng khi nhà máy hay công trường phải đáp ứng quy chuẩn an toàn, môi trường.",
+        "collocations": [
+          "in compliance with (tuân thủ theo)",
+          "safety compliance (tuân thủ an toàn)",
+          "compliance officer (cán bộ tuân thủ)"
+        ],
+        "exampleEn": "The plant passed the compliance inspection last week.",
+        "exampleVi": "Nhà máy đã vượt qua đợt kiểm tra tuân thủ tuần trước.",
+        "id": "en_x19"
+      },
+      {
+        "word": "ergonomic",
+        "ipa": "/ˌɝː.ɡəˈnɑː.mɪk/",
+        "stress": "er-guh-NAH-mik (Trọng âm 3)",
+        "pos": "Tính từ (adj)",
+        "meaningVi": "Thiết kế phù hợp cơ thể để giảm mệt mỏi và chấn thương",
+        "careerTag": "🏗️ Xây dựng & An toàn",
+        "usageExplanation": "Dùng cho ghế, dụng cụ, vị trí làm việc nhằm bảo vệ người lao động.",
+        "collocations": [
+          "ergonomic design (thiết kế công thái học)",
+          "ergonomic chair (ghế công thái học)",
+          "ergonomic tools (dụng cụ công thái học)"
+        ],
+        "exampleEn": "The factory bought ergonomic tools to reduce back injuries.",
+        "exampleVi": "Nhà máy mua dụng cụ công thái học để giảm chấn thương lưng.",
+        "id": "en_x20"
+      },
+      {
+        "word": "foundation",
+        "ipa": "/faʊnˈdeɪ.ʃən/",
+        "stress": "fown-DEY-shuhn (Trọng âm 2)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Phần móng chịu lực của công trình",
+        "careerTag": "🏗️ Xây dựng & An toàn",
+        "usageExplanation": "Trong xây dựng là phần móng; nghĩa bóng là nền tảng của một việc.",
+        "collocations": [
+          "lay the foundation (đổ móng)",
+          "concrete foundation (móng bê tông)",
+          "deep foundation (móng sâu)"
+        ],
+        "exampleEn": "The crew poured concrete for the building's foundation.",
+        "exampleVi": "Đội thợ đổ bê tông cho phần móng của tòa nhà.",
+        "id": "en_x21"
+      },
+      {
+        "word": "excavate",
+        "ipa": "/ˈek.skə.veɪt/",
+        "stress": "EK-skuh-veyt (Trọng âm 1)",
+        "pos": "Động từ (v)",
+        "meaningVi": "Đào đất hoặc khai quật để làm móng, hầm",
+        "careerTag": "🏗️ Xây dựng & An toàn",
+        "usageExplanation": "Dùng ở công trường khi đào móng, hố, đường hầm bằng máy xúc.",
+        "collocations": [
+          "excavate the site (đào mặt bằng)",
+          "excavate a tunnel (đào hầm)",
+          "excavate soil (đào đất)"
+        ],
+        "exampleEn": "They had to excavate five meters to reach solid rock.",
+        "exampleVi": "Họ phải đào sâu năm mét để chạm tới nền đá cứng.",
+        "id": "en_x22"
+      },
+      {
+        "word": "supplier",
+        "ipa": "/səˈplaɪ.ɚ/",
+        "stress": "suh-PLY-er (Trọng âm 2)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Bên cung cấp nguyên liệu hoặc hàng hóa",
+        "careerTag": "🚚 Chuỗi cung ứng & Logistics",
+        "usageExplanation": "Chỉ công ty cung ứng nguyên vật liệu cho nhà máy; là mắt xích đầu của chuỗi cung ứng.",
+        "collocations": [
+          "reliable supplier (nhà cung cấp đáng tin)",
+          "main supplier (nhà cung cấp chính)",
+          "supplier contract (hợp đồng nhà cung cấp)"
+        ],
+        "exampleEn": "We are looking for a new supplier of raw materials.",
+        "exampleVi": "Chúng tôi đang tìm nhà cung cấp nguyên liệu mới.",
+        "id": "en_x23"
+      },
+      {
+        "word": "consignment",
+        "ipa": "/kənˈsaɪn.mənt/",
+        "stress": "kuhn-SYN-muhnt (Trọng âm 2)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Lô hàng được gửi đi để giao cho người nhận",
+        "careerTag": "🚚 Chuỗi cung ứng & Logistics",
+        "usageExplanation": "Dùng trong vận tải và hải quan; cũng có nghĩa hàng ký gửi để bán.",
+        "collocations": [
+          "a consignment of goods (một lô hàng)",
+          "consignment note (phiếu gửi hàng)",
+          "on consignment (ký gửi)"
+        ],
+        "exampleEn": "The consignment was held at customs for inspection.",
+        "exampleVi": "Lô hàng bị giữ tại hải quan để kiểm tra.",
+        "id": "en_x24"
+      },
+      {
+        "word": "lubricant",
+        "ipa": "/ˈluː.brɪ.kənt/",
+        "stress": "LOO-bri-kuhnt (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Chất bôi trơn giúp giảm ma sát giữa các bộ phận máy",
+        "careerTag": "🔧 Kỹ thuật & Vận hành",
+        "usageExplanation": "Dầu hoặc mỡ dùng trong bảo dưỡng máy; động từ là lubricate.",
+        "collocations": [
+          "industrial lubricant (chất bôi trơn công nghiệp)",
+          "apply lubricant (bôi chất bôi trơn)",
+          "synthetic lubricant (chất bôi trơn tổng hợp)"
+        ],
+        "exampleEn": "Apply the lubricant to the gears every week.",
+        "exampleVi": "Hãy bôi chất bôi trơn lên các bánh răng mỗi tuần.",
+        "id": "en_x25"
+      },
+      {
+        "word": "durability",
+        "ipa": "/ˌdʊr.əˈbɪl.ə.t̬i/",
+        "stress": "door-uh-BIL-uh-tee (Trọng âm 3)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Độ bền của vật liệu hoặc sản phẩm khi dùng lâu dài",
+        "careerTag": "🔧 Kỹ thuật & Vận hành",
+        "usageExplanation": "Dùng khi đánh giá vật liệu, máy móc hoặc sản phẩm chịu mài mòn tốt đến đâu.",
+        "collocations": [
+          "test the durability (kiểm tra độ bền)",
+          "long-term durability (độ bền lâu dài)",
+          "durability of materials (độ bền vật liệu)"
+        ],
+        "exampleEn": "The test measures the durability of the new material.",
+        "exampleVi": "Bài kiểm tra đo độ bền của vật liệu mới.",
+        "id": "en_x26"
+      },
+      {
+        "word": "blueprint",
+        "ipa": "/ˈbluː.prɪnt/",
+        "stress": "BLOO-print (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Bản vẽ kỹ thuật chi tiết của công trình hoặc máy",
+        "careerTag": "🔧 Kỹ thuật & Vận hành",
+        "usageExplanation": "Dùng cho bản vẽ thiết kế; nghĩa bóng là kế hoạch chi tiết.",
+        "collocations": [
+          "read a blueprint (đọc bản vẽ)",
+          "detailed blueprint (bản vẽ chi tiết)",
+          "follow the blueprint (làm theo bản vẽ)"
+        ],
+        "exampleEn": "The foreman checked the blueprint before starting construction.",
+        "exampleVi": "Quản đốc kiểm tra bản vẽ trước khi bắt đầu thi công.",
+        "id": "en_x27"
+      },
+      {
+        "word": "contractor",
+        "ipa": "/ˈkɑːn.træk.tɚ/",
+        "stress": "KAHN-trak-ter (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Nhà thầu hoặc đơn vị nhận thi công theo hợp đồng",
+        "careerTag": "🏗️ Xây dựng & An toàn",
+        "usageExplanation": "Dùng trong xây dựng cho người hoặc công ty nhận thầu công việc; khác với nhân viên chính thức.",
+        "collocations": [
+          "general contractor (tổng thầu)",
+          "hire a contractor (thuê nhà thầu)",
+          "electrical contractor (nhà thầu điện)"
+        ],
+        "exampleEn": "The contractor promised to finish the bridge by June.",
+        "exampleVi": "Nhà thầu hứa hoàn thành cây cầu trước tháng Sáu.",
+        "id": "en_x28"
+      },
+      {
+        "word": "shutdown",
+        "ipa": "/ˈʃʌt.daʊn/",
+        "stress": "SHUT-down (Trọng âm 1)",
+        "pos": "Danh từ (n)",
+        "meaningVi": "Việc dừng hoạt động của nhà máy hoặc máy móc",
+        "careerTag": "🏭 Sản xuất",
+        "usageExplanation": "Dùng khi dừng dây chuyền để bảo trì hoặc do sự cố. Động từ là 'shut down' viết rời.",
+        "collocations": [
+          "emergency shutdown (dừng khẩn cấp)",
+          "plant shutdown (nhà máy ngừng hoạt động)",
+          "scheduled shutdown (dừng theo kế hoạch)"
+        ],
+        "exampleEn": "The emergency shutdown prevented a serious accident.",
+        "exampleVi": "Việc dừng khẩn cấp đã ngăn một tai nạn nghiêm trọng.",
+        "id": "en_x29"
+      }
+    ]
+  }
+]

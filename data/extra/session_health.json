@@ -1,0 +1,482 @@
+[
+  {
+    "word": "dosage",
+    "ipa": "/ˈdoʊ.sɪdʒ/",
+    "stress": "DOH-sij (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Liều lượng thuốc cần dùng",
+    "careerTag": "🩺 Khám chữa bệnh & Dược",
+    "usageExplanation": "Dùng khi nói về lượng thuốc uống mỗi lần hoặc mỗi ngày. Dược sĩ thường nhắc bạn không vượt quá mức này.",
+    "collocations": [
+      "recommended dosage (liều khuyến nghị)",
+      "increase the dosage (tăng liều)",
+      "daily dosage (liều dùng hằng ngày)"
+    ],
+    "exampleEn": "Do not exceed the recommended dosage.",
+    "exampleVi": "Không được vượt quá liều khuyến nghị."
+  },
+  {
+    "word": "surgeon",
+    "ipa": "/ˈsɜː.dʒən/",
+    "stress": "SUR-juhn (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Bác sĩ phẫu thuật",
+    "careerTag": "🏥 Bệnh viện & Điều dưỡng",
+    "usageExplanation": "Chỉ bác sĩ thực hiện các ca mổ trong bệnh viện. Thường đi cùng tên chuyên khoa.",
+    "collocations": [
+      "heart surgeon (bác sĩ phẫu thuật tim)",
+      "chief surgeon (trưởng khoa phẫu thuật)",
+      "skilled surgeon (bác sĩ mổ giỏi)"
+    ],
+    "exampleEn": "The surgeon explained the risks before the operation.",
+    "exampleVi": "Bác sĩ phẫu thuật giải thích các rủi ro trước ca mổ."
+  },
+  {
+    "word": "ambulance",
+    "ipa": "/ˈæm.bjə.ləns/",
+    "stress": "AM-byuh-luhns (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Xe cứu thương",
+    "careerTag": "🏥 Bệnh viện & Điều dưỡng",
+    "usageExplanation": "Dùng khi cần chở người bệnh khẩn cấp đến bệnh viện. Rất phổ biến trong tình huống gọi cấp cứu.",
+    "collocations": [
+      "call an ambulance (gọi xe cứu thương)",
+      "ambulance driver (tài xế xe cứu thương)",
+      "ambulance service (dịch vụ cứu thương)"
+    ],
+    "exampleEn": "Someone call an ambulance right now!",
+    "exampleVi": "Ai đó gọi xe cứu thương ngay đi!"
+  },
+  {
+    "word": "infection",
+    "ipa": "/ɪnˈfek.ʃən/",
+    "stress": "in-FEK-shuhn (Trọng âm 2)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Sự nhiễm trùng, nhiễm khuẩn",
+    "careerTag": "🩺 Khám chữa bệnh & Dược",
+    "usageExplanation": "Nói về việc vi khuẩn hoặc virus xâm nhập cơ thể gây bệnh. Hay gặp khi nói về vết thương hoặc cảm cúm.",
+    "collocations": [
+      "bacterial infection (nhiễm khuẩn)",
+      "ear infection (viêm tai)",
+      "prevent infection (ngăn ngừa nhiễm trùng)"
+    ],
+    "exampleEn": "Clean the wound to avoid infection.",
+    "exampleVi": "Hãy làm sạch vết thương để tránh nhiễm trùng."
+  },
+  {
+    "word": "recovery",
+    "ipa": "/rɪˈkʌv.ər.i/",
+    "stress": "ri-KUV-uh-ree (Trọng âm 2)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Sự hồi phục sức khỏe",
+    "careerTag": "🏥 Bệnh viện & Điều dưỡng",
+    "usageExplanation": "Chỉ quá trình khỏe lại sau bệnh hoặc phẫu thuật. Hay dùng khi hỏi thăm bệnh nhân.",
+    "collocations": [
+      "full recovery (hồi phục hoàn toàn)",
+      "speedy recovery (mau bình phục)",
+      "recovery time (thời gian hồi phục)"
+    ],
+    "exampleEn": "She made a full recovery after the surgery.",
+    "exampleVi": "Cô ấy đã hồi phục hoàn toàn sau ca phẫu thuật."
+  },
+  {
+    "word": "antibiotic",
+    "ipa": "/ˌæn.ti.baɪˈɒt.ɪk/",
+    "stress": "an-ti-bye-OT-ik (Trọng âm 3)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Thuốc kháng sinh",
+    "careerTag": "🩺 Khám chữa bệnh & Dược",
+    "usageExplanation": "Loại thuốc diệt vi khuẩn, chỉ dùng khi bác sĩ kê đơn. Không có tác dụng với virus.",
+    "collocations": [
+      "take antibiotics (uống kháng sinh)",
+      "course of antibiotics (liệu trình kháng sinh)",
+      "antibiotic resistance (kháng kháng sinh)"
+    ],
+    "exampleEn": "The doctor prescribed an antibiotic for my throat.",
+    "exampleVi": "Bác sĩ kê thuốc kháng sinh cho cổ họng của tôi."
+  },
+  {
+    "word": "immune",
+    "ipa": "/ɪˈmjuːn/",
+    "stress": "i-MYOON (Trọng âm 2)",
+    "pos": "Tính từ (adj)",
+    "meaningVi": "Miễn dịch, có khả năng chống bệnh",
+    "careerTag": "🩺 Khám chữa bệnh & Dược",
+    "usageExplanation": "Mô tả cơ thể không bị mắc một bệnh nào đó hoặc hệ thống bảo vệ cơ thể. Hay đi với 'system'.",
+    "collocations": [
+      "immune system (hệ miễn dịch)",
+      "immune to a disease (miễn nhiễm với bệnh)",
+      "boost immune function (tăng cường miễn dịch)"
+    ],
+    "exampleEn": "Vitamin C may help support your immune system.",
+    "exampleVi": "Vitamin C có thể giúp hỗ trợ hệ miễn dịch của bạn."
+  },
+  {
+    "word": "chronic",
+    "ipa": "/ˈkrɒn.ɪk/",
+    "stress": "KRON-ik (Trọng âm 1)",
+    "pos": "Tính từ (adj)",
+    "meaningVi": "Mãn tính, kéo dài lâu",
+    "careerTag": "🩺 Khám chữa bệnh & Dược",
+    "usageExplanation": "Dùng cho bệnh hoặc cơn đau kéo dài, khó chữa dứt điểm. Trái nghĩa với cấp tính.",
+    "collocations": [
+      "chronic disease (bệnh mãn tính)",
+      "chronic pain (đau mãn tính)",
+      "chronic condition (tình trạng mãn tính)"
+    ],
+    "exampleEn": "He suffers from chronic back pain.",
+    "exampleVi": "Anh ấy bị đau lưng mãn tính."
+  },
+  {
+    "word": "injury",
+    "ipa": "/ˈɪn.dʒər.i/",
+    "stress": "IN-juh-ree (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Chấn thương, vết thương",
+    "careerTag": "💪 Thể hình & Sức khỏe",
+    "usageExplanation": "Chỉ tổn thương cơ thể do tai nạn hoặc tập luyện. Rất hay dùng trong thể thao.",
+    "collocations": [
+      "serious injury (chấn thương nghiêm trọng)",
+      "sports injury (chấn thương thể thao)",
+      "suffer an injury (bị thương)"
+    ],
+    "exampleEn": "The player missed the season due to a knee injury.",
+    "exampleVi": "Cầu thủ nghỉ cả mùa giải vì chấn thương đầu gối."
+  },
+  {
+    "word": "pharmacist",
+    "ipa": "/ˈfɑː.mə.sɪst/",
+    "stress": "FAR-muh-sist (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Dược sĩ",
+    "careerTag": "🩺 Khám chữa bệnh & Dược",
+    "usageExplanation": "Người bán và tư vấn thuốc tại nhà thuốc. Bạn có thể hỏi họ về tác dụng phụ.",
+    "collocations": [
+      "ask the pharmacist (hỏi dược sĩ)",
+      "licensed pharmacist (dược sĩ có giấy phép)",
+      "hospital pharmacist (dược sĩ bệnh viện)"
+    ],
+    "exampleEn": "The pharmacist told me to take the pills after meals.",
+    "exampleVi": "Dược sĩ dặn tôi uống thuốc sau bữa ăn."
+  },
+  {
+    "word": "patient",
+    "ipa": "/ˈpeɪ.ʃənt/",
+    "stress": "PAY-shuhnt (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Bệnh nhân",
+    "careerTag": "🏥 Bệnh viện & Điều dưỡng",
+    "usageExplanation": "Người đang được khám hoặc điều trị. Từ cơ bản nhất trong môi trường bệnh viện.",
+    "collocations": [
+      "treat a patient (điều trị bệnh nhân)",
+      "admit a patient (cho bệnh nhân nhập viện)",
+      "patient records (hồ sơ bệnh nhân)"
+    ],
+    "exampleEn": "The nurse checked each patient every hour.",
+    "exampleVi": "Y tá kiểm tra từng bệnh nhân mỗi giờ."
+  },
+  {
+    "word": "hygiene",
+    "ipa": "/ˈhaɪ.dʒiːn/",
+    "stress": "HY-jeen (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Vệ sinh, giữ gìn sạch sẽ",
+    "careerTag": "🏥 Bệnh viện & Điều dưỡng",
+    "usageExplanation": "Nói về thói quen giữ sạch để phòng bệnh như rửa tay. Thường gặp trong y tế và đời sống.",
+    "collocations": [
+      "personal hygiene (vệ sinh cá nhân)",
+      "hand hygiene (vệ sinh tay)",
+      "oral hygiene (vệ sinh răng miệng)"
+    ],
+    "exampleEn": "Good hygiene reduces the spread of germs.",
+    "exampleVi": "Vệ sinh tốt giúp giảm sự lây lan của vi trùng."
+  },
+  {
+    "word": "dehydration",
+    "ipa": "/ˌdiː.haɪˈdreɪ.ʃən/",
+    "stress": "dee-hy-DRAY-shuhn (Trọng âm 3)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Tình trạng mất nước",
+    "careerTag": "💪 Thể hình & Sức khỏe",
+    "usageExplanation": "Xảy ra khi cơ thể thiếu nước do đổ mồ hôi, tiêu chảy hoặc nóng. Hay được nhắc khi tập thể thao.",
+    "collocations": [
+      "severe dehydration (mất nước nặng)",
+      "prevent dehydration (phòng mất nước)",
+      "signs of dehydration (dấu hiệu mất nước)"
+    ],
+    "exampleEn": "Drink plenty of water to avoid dehydration.",
+    "exampleVi": "Hãy uống nhiều nước để tránh mất nước."
+  },
+  {
+    "word": "inflammation",
+    "ipa": "/ˌɪn.fləˈmeɪ.ʃən/",
+    "stress": "in-fluh-MAY-shuhn (Trọng âm 3)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Tình trạng viêm, sưng đỏ",
+    "careerTag": "🩺 Khám chữa bệnh & Dược",
+    "usageExplanation": "Phản ứng sưng, nóng, đỏ của cơ thể khi bị tổn thương hoặc nhiễm trùng. Thường xuất hiện trong báo cáo y khoa.",
+    "collocations": [
+      "reduce inflammation (giảm viêm)",
+      "joint inflammation (viêm khớp)",
+      "chronic inflammation (viêm mãn tính)"
+    ],
+    "exampleEn": "Ice can help reduce inflammation around the ankle.",
+    "exampleVi": "Chườm đá có thể giúp giảm viêm quanh mắt cá chân."
+  },
+  {
+    "word": "ointment",
+    "ipa": "/ˈɔɪnt.mənt/",
+    "stress": "OYNT-muhnt (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Thuốc mỡ bôi ngoài da",
+    "careerTag": "🩺 Khám chữa bệnh & Dược",
+    "usageExplanation": "Loại thuốc dạng sệt bôi lên da để trị vết thương hoặc phát ban. Thường mua ở nhà thuốc.",
+    "collocations": [
+      "apply ointment (bôi thuốc mỡ)",
+      "antibiotic ointment (thuốc mỡ kháng sinh)",
+      "tube of ointment (một tuýp thuốc mỡ)"
+    ],
+    "exampleEn": "Apply the ointment twice a day.",
+    "exampleVi": "Hãy bôi thuốc mỡ hai lần mỗi ngày."
+  },
+  {
+    "word": "syringe",
+    "ipa": "/sɪˈrɪndʒ/",
+    "stress": "si-RINJ (Trọng âm 2)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Ống tiêm",
+    "careerTag": "🏥 Bệnh viện & Điều dưỡng",
+    "usageExplanation": "Dụng cụ dùng để tiêm thuốc hoặc lấy máu. Thường là loại dùng một lần.",
+    "collocations": [
+      "disposable syringe (ống tiêm dùng một lần)",
+      "fill a syringe (hút thuốc vào ống tiêm)",
+      "sterile syringe (ống tiêm vô trùng)"
+    ],
+    "exampleEn": "The nurse filled the syringe with the vaccine.",
+    "exampleVi": "Y tá hút vắc-xin vào ống tiêm."
+  },
+  {
+    "word": "stethoscope",
+    "ipa": "/ˈsteθ.ə.skoʊp/",
+    "stress": "STETH-uh-skohp (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Ống nghe của bác sĩ",
+    "careerTag": "🏥 Bệnh viện & Điều dưỡng",
+    "usageExplanation": "Dụng cụ để nghe nhịp tim và hơi thở. Hình ảnh quen thuộc đeo trên cổ bác sĩ.",
+    "collocations": [
+      "use a stethoscope (dùng ống nghe)",
+      "listen with a stethoscope (nghe bằng ống nghe)",
+      "digital stethoscope (ống nghe điện tử)"
+    ],
+    "exampleEn": "The doctor placed the stethoscope on my chest.",
+    "exampleVi": "Bác sĩ đặt ống nghe lên ngực tôi."
+  },
+  {
+    "word": "paramedic",
+    "ipa": "/ˌpær.əˈmed.ɪk/",
+    "stress": "pa-ruh-MED-ik (Trọng âm 3)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Nhân viên cấp cứu y tế",
+    "careerTag": "🏥 Bệnh viện & Điều dưỡng",
+    "usageExplanation": "Người được đào tạo để sơ cứu và chăm sóc bệnh nhân tại hiện trường hoặc trên xe cứu thương.",
+    "collocations": [
+      "call a paramedic (gọi nhân viên cấp cứu)",
+      "paramedics arrive (nhân viên cấp cứu đến nơi)",
+      "trained paramedic (nhân viên cấp cứu được đào tạo)"
+    ],
+    "exampleEn": "Paramedics arrived within five minutes.",
+    "exampleVi": "Nhân viên cấp cứu đã đến trong vòng năm phút."
+  },
+  {
+    "word": "outpatient",
+    "ipa": "/ˈaʊt.peɪ.ʃənt/",
+    "stress": "OWT-pay-shuhnt (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Bệnh nhân ngoại trú",
+    "careerTag": "🏥 Bệnh viện & Điều dưỡng",
+    "usageExplanation": "Người đến khám hoặc điều trị nhưng không phải ở lại qua đêm. Trái nghĩa với bệnh nhân nội trú.",
+    "collocations": [
+      "outpatient clinic (phòng khám ngoại trú)",
+      "outpatient care (chăm sóc ngoại trú)",
+      "outpatient surgery (phẫu thuật ngoại trú)"
+    ],
+    "exampleEn": "She is treated as an outpatient twice a week.",
+    "exampleVi": "Cô ấy điều trị ngoại trú hai lần một tuần."
+  },
+  {
+    "word": "treatment",
+    "ipa": "/ˈtriːt.mənt/",
+    "stress": "TREET-muhnt (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Phương pháp điều trị",
+    "careerTag": "🩺 Khám chữa bệnh & Dược",
+    "usageExplanation": "Chỉ cách chữa bệnh hoặc quá trình chăm sóc y tế. Dùng rất nhiều trong bệnh viện.",
+    "collocations": [
+      "receive treatment (được điều trị)",
+      "medical treatment (điều trị y tế)",
+      "treatment plan (phác đồ điều trị)"
+    ],
+    "exampleEn": "He is receiving treatment for diabetes.",
+    "exampleVi": "Anh ấy đang được điều trị bệnh tiểu đường."
+  },
+  {
+    "word": "diagnosis",
+    "ipa": "/ˌdaɪ.əɡˈnoʊ.sɪs/",
+    "stress": "dy-ag-NOH-sis (Trọng âm 3)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Kết quả chẩn đoán bệnh",
+    "careerTag": "🩺 Khám chữa bệnh & Dược",
+    "usageExplanation": "Là kết luận của bác sĩ về bệnh sau khi khám và xét nghiệm. Số nhiều là 'diagnoses'.",
+    "collocations": [
+      "early diagnosis (chẩn đoán sớm)",
+      "confirm a diagnosis (xác nhận chẩn đoán)",
+      "accurate diagnosis (chẩn đoán chính xác)"
+    ],
+    "exampleEn": "Early diagnosis improves the chances of recovery.",
+    "exampleVi": "Chẩn đoán sớm làm tăng cơ hội hồi phục."
+  },
+  {
+    "word": "insomnia",
+    "ipa": "/ɪnˈsɒm.ni.ə/",
+    "stress": "in-SOM-nee-uh (Trọng âm 2)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Chứng mất ngủ",
+    "careerTag": "🩺 Khám chữa bệnh & Dược",
+    "usageExplanation": "Tình trạng khó ngủ hoặc ngủ không sâu kéo dài. Thường do căng thẳng.",
+    "collocations": [
+      "suffer from insomnia (bị mất ngủ)",
+      "chronic insomnia (mất ngủ kinh niên)",
+      "treat insomnia (điều trị mất ngủ)"
+    ],
+    "exampleEn": "Stress often leads to insomnia.",
+    "exampleVi": "Căng thẳng thường dẫn đến mất ngủ."
+  },
+  {
+    "word": "workout",
+    "ipa": "/ˈwɜːk.aʊt/",
+    "stress": "WURK-owt (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Buổi tập luyện thể dục",
+    "careerTag": "💪 Thể hình & Sức khỏe",
+    "usageExplanation": "Chỉ một buổi tập tại phòng gym hoặc ở nhà. Rất phổ biến trong đời sống hiện đại.",
+    "collocations": [
+      "morning workout (buổi tập sáng)",
+      "intense workout (buổi tập cường độ cao)",
+      "workout routine (lịch tập luyện)"
+    ],
+    "exampleEn": "I do a thirty-minute workout every morning.",
+    "exampleVi": "Tôi tập ba mươi phút mỗi sáng."
+  },
+  {
+    "word": "stamina",
+    "ipa": "/ˈstæm.ɪ.nə/",
+    "stress": "STAM-i-nuh (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Sức bền, sức chịu đựng",
+    "careerTag": "💪 Thể hình & Sức khỏe",
+    "usageExplanation": "Khả năng duy trì hoạt động thể chất hoặc tinh thần trong thời gian dài. Hay dùng khi chạy bộ.",
+    "collocations": [
+      "build stamina (xây dựng sức bền)",
+      "physical stamina (sức bền thể chất)",
+      "lack stamina (thiếu sức bền)"
+    ],
+    "exampleEn": "Running regularly will improve your stamina.",
+    "exampleVi": "Chạy bộ thường xuyên sẽ cải thiện sức bền của bạn."
+  },
+  {
+    "word": "fracture",
+    "ipa": "/ˈfræk.tʃər/",
+    "stress": "FRAK-chuhr (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Gãy xương, rạn xương",
+    "careerTag": "🏥 Bệnh viện & Điều dưỡng",
+    "usageExplanation": "Thuật ngữ y khoa chỉ xương bị nứt hoặc gãy. Thường thấy trong kết quả chụp X-quang.",
+    "collocations": [
+      "hairline fracture (rạn xương nhỏ)",
+      "suffer a fracture (bị gãy xương)",
+      "wrist fracture (gãy xương cổ tay)"
+    ],
+    "exampleEn": "The X-ray showed a fracture in his arm.",
+    "exampleVi": "Phim X-quang cho thấy cánh tay anh ấy bị gãy xương."
+  },
+  {
+    "word": "wellness",
+    "ipa": "/ˈwel.nəs/",
+    "stress": "WEL-nuhs (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Trạng thái khỏe mạnh toàn diện",
+    "careerTag": "💪 Thể hình & Sức khỏe",
+    "usageExplanation": "Chỉ lối sống chăm sóc cả thể chất lẫn tinh thần. Thường xuất hiện trong quảng cáo spa, gym.",
+    "collocations": [
+      "wellness program (chương trình chăm sóc sức khỏe)",
+      "mental wellness (sức khỏe tinh thần)",
+      "wellness center (trung tâm sức khỏe)"
+    ],
+    "exampleEn": "Our company offers a wellness program for staff.",
+    "exampleVi": "Công ty chúng tôi có chương trình chăm sóc sức khỏe cho nhân viên."
+  },
+  {
+    "word": "sedative",
+    "ipa": "/ˈsed.ə.tɪv/",
+    "stress": "SED-uh-tiv (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Thuốc an thần",
+    "careerTag": "🩺 Khám chữa bệnh & Dược",
+    "usageExplanation": "Loại thuốc làm dịu thần kinh hoặc giúp ngủ, dùng trước phẫu thuật hay khi lo âu nặng.",
+    "collocations": [
+      "mild sedative (thuốc an thần nhẹ)",
+      "give a sedative (cho dùng thuốc an thần)",
+      "under sedation (đang được an thần)"
+    ],
+    "exampleEn": "The patient was given a sedative before the procedure.",
+    "exampleVi": "Bệnh nhân được cho dùng thuốc an thần trước thủ thuật."
+  },
+  {
+    "word": "contagious",
+    "ipa": "/kənˈteɪ.dʒəs/",
+    "stress": "kuhn-TAY-juhs (Trọng âm 2)",
+    "pos": "Tính từ (adj)",
+    "meaningVi": "Dễ lây, có khả năng lây truyền",
+    "careerTag": "🩺 Khám chữa bệnh & Dược",
+    "usageExplanation": "Mô tả bệnh có thể truyền từ người này sang người khác khi tiếp xúc. Hay dùng với cảm cúm.",
+    "collocations": [
+      "highly contagious (rất dễ lây)",
+      "contagious disease (bệnh truyền nhiễm)",
+      "remain contagious (vẫn còn khả năng lây)"
+    ],
+    "exampleEn": "The flu is highly contagious, so stay home.",
+    "exampleVi": "Cúm rất dễ lây nên hãy ở nhà."
+  },
+  {
+    "word": "physician",
+    "ipa": "/fɪˈzɪʃ.ən/",
+    "stress": "fi-ZISH-uhn (Trọng âm 2)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Bác sĩ nội khoa, thầy thuốc",
+    "careerTag": "🏥 Bệnh viện & Điều dưỡng",
+    "usageExplanation": "Cách nói trang trọng chỉ bác sĩ, thường trong văn bản y tế hoặc bảo hiểm.",
+    "collocations": [
+      "family physician (bác sĩ gia đình)",
+      "consult a physician (tham khảo ý kiến bác sĩ)",
+      "attending physician (bác sĩ điều trị)"
+    ],
+    "exampleEn": "Consult your physician before taking any supplements.",
+    "exampleVi": "Hãy hỏi ý kiến bác sĩ trước khi dùng bất kỳ thực phẩm bổ sung nào."
+  },
+  {
+    "word": "checkup",
+    "ipa": "/ˈtʃek.ʌp/",
+    "stress": "CHEK-up (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Buổi khám sức khỏe tổng quát",
+    "careerTag": "🩺 Khám chữa bệnh & Dược",
+    "usageExplanation": "Lần khám định kỳ để kiểm tra sức khỏe dù không có triệu chứng bệnh.",
+    "collocations": [
+      "annual checkup (khám sức khỏe hằng năm)",
+      "routine checkup (khám định kỳ)",
+      "go for a checkup (đi khám tổng quát)"
+    ],
+    "exampleEn": "I have a dental checkup next week.",
+    "exampleVi": "Tuần sau tôi có buổi khám răng."
+  }
+]

@@ -1,0 +1,482 @@
+[
+  {
+    "word": "scaffolding",
+    "ipa": "/ˈskæf.əl.dɪŋ/",
+    "stress": "SKAF-uhl-ding (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Giàn giáo dựng quanh công trình để thợ làm việc trên cao",
+    "careerTag": "🏗️ Xây dựng & An toàn",
+    "usageExplanation": "Dùng ở công trường xây dựng hoặc sửa chữa tòa nhà. Là danh từ không đếm được.",
+    "collocations": [
+      "erect scaffolding (dựng giàn giáo)",
+      "scaffolding collapse (sập giàn giáo)",
+      "steel scaffolding (giàn giáo thép)"
+    ],
+    "exampleEn": "Workers climbed the scaffolding to repaint the facade.",
+    "exampleVi": "Công nhân leo lên giàn giáo để sơn lại mặt tiền."
+  },
+  {
+    "word": "hazard",
+    "ipa": "/ˈhæz.ərd/",
+    "stress": "HAZ-erd (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Mối nguy hiểm tiềm ẩn gây hại hoặc tai nạn",
+    "careerTag": "🏗️ Xây dựng & An toàn",
+    "usageExplanation": "Thường xuất hiện trong quy định an toàn lao động; chỉ nguồn gây nguy hiểm chứ không phải tai nạn đã xảy ra.",
+    "collocations": [
+      "fire hazard (nguy cơ cháy)",
+      "health hazard (mối nguy cho sức khỏe)",
+      "safety hazard (nguy cơ mất an toàn)"
+    ],
+    "exampleEn": "A wet floor is a serious hazard in the factory.",
+    "exampleVi": "Sàn ướt là một mối nguy nghiêm trọng trong nhà máy."
+  },
+  {
+    "word": "forklift",
+    "ipa": "/ˈfɔːrk.lɪft/",
+    "stress": "FORK-lift (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Xe nâng dùng để nâng và di chuyển hàng hóa nặng",
+    "careerTag": "🚚 Chuỗi cung ứng & Logistics",
+    "usageExplanation": "Dùng trong kho bãi và nhà máy. Người lái cần có chứng chỉ vận hành.",
+    "collocations": [
+      "drive a forklift (lái xe nâng)",
+      "forklift operator (người vận hành xe nâng)",
+      "forklift truck (xe nâng hàng)"
+    ],
+    "exampleEn": "The forklift moved the heavy crates to the loading dock.",
+    "exampleVi": "Xe nâng chuyển những thùng nặng đến bến bốc hàng."
+  },
+  {
+    "word": "conveyor",
+    "ipa": "/kənˈveɪ.ər/",
+    "stress": "kuhn-VEY-er (Trọng âm 2)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Băng tải chuyển sản phẩm liên tục trên dây chuyền",
+    "careerTag": "🏭 Sản xuất",
+    "usageExplanation": "Hay đi cùng 'belt' thành 'conveyor belt'. Phổ biến trong nhà máy, sân bay, siêu thị.",
+    "collocations": [
+      "conveyor belt (băng tải)",
+      "conveyor system (hệ thống băng tải)",
+      "load onto the conveyor (đặt lên băng tải)"
+    ],
+    "exampleEn": "Boxes travel along the conveyor to the packing area.",
+    "exampleVi": "Các hộp di chuyển trên băng tải đến khu đóng gói."
+  },
+  {
+    "word": "throughput",
+    "ipa": "/ˈθruː.pʊt/",
+    "stress": "THROO-put (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Sản lượng xử lý được trong một khoảng thời gian",
+    "careerTag": "🏭 Sản xuất",
+    "usageExplanation": "Đo năng suất của máy móc, dây chuyền hoặc hệ thống. Thường dùng trong báo cáo vận hành.",
+    "collocations": [
+      "increase throughput (tăng sản lượng xử lý)",
+      "high throughput (năng suất cao)",
+      "daily throughput (sản lượng mỗi ngày)"
+    ],
+    "exampleEn": "The new machine doubled the plant's throughput.",
+    "exampleVi": "Chiếc máy mới đã tăng gấp đôi năng suất của nhà máy."
+  },
+  {
+    "word": "bottleneck",
+    "ipa": "/ˈbɑː.t̬əl.nek/",
+    "stress": "BAH-tuhl-nek (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Điểm nghẽn làm chậm cả quy trình sản xuất",
+    "careerTag": "🏭 Sản xuất",
+    "usageExplanation": "Dùng khi một công đoạn làm chậm toàn bộ chuỗi. Cũng dùng được cho giao thông, phần mềm.",
+    "collocations": [
+      "production bottleneck (điểm nghẽn sản xuất)",
+      "remove a bottleneck (loại bỏ điểm nghẽn)",
+      "supply chain bottleneck (nghẽn chuỗi cung ứng)"
+    ],
+    "exampleEn": "The packing stage is the main bottleneck in our workflow.",
+    "exampleVi": "Khâu đóng gói là điểm nghẽn chính trong quy trình của chúng tôi."
+  },
+  {
+    "word": "calibrate",
+    "ipa": "/ˈkæl.ə.breɪt/",
+    "stress": "KAL-uh-breyt (Trọng âm 1)",
+    "pos": "Động từ (v)",
+    "meaningVi": "Hiệu chuẩn thiết bị để đo chính xác",
+    "careerTag": "🔧 Kỹ thuật & Vận hành",
+    "usageExplanation": "Dùng cho cân, máy đo, cảm biến cần chỉnh về chuẩn. Danh từ là calibration.",
+    "collocations": [
+      "calibrate a sensor (hiệu chuẩn cảm biến)",
+      "calibrate the scale (chỉnh cân)",
+      "carefully calibrate (hiệu chuẩn cẩn thận)"
+    ],
+    "exampleEn": "Technicians calibrate the machines every month.",
+    "exampleVi": "Kỹ thuật viên hiệu chuẩn máy móc mỗi tháng."
+  },
+  {
+    "word": "prototype",
+    "ipa": "/ˈproʊ.t̬ə.taɪp/",
+    "stress": "PROH-tuh-typ (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Mẫu thử đầu tiên của sản phẩm trước khi sản xuất hàng loạt",
+    "careerTag": "🏭 Sản xuất",
+    "usageExplanation": "Dùng trong thiết kế và phát triển sản phẩm, cả phần cứng lẫn phần mềm.",
+    "collocations": [
+      "build a prototype (chế tạo mẫu thử)",
+      "working prototype (mẫu thử hoạt động được)",
+      "test a prototype (thử nghiệm mẫu)"
+    ],
+    "exampleEn": "The engineers presented a prototype of the new engine.",
+    "exampleVi": "Các kỹ sư giới thiệu mẫu thử của động cơ mới."
+  },
+  {
+    "word": "tolerance",
+    "ipa": "/ˈtɑː.lɚ.əns/",
+    "stress": "TAH-ler-uhns (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Dung sai, mức sai lệch cho phép trong kích thước chi tiết",
+    "careerTag": "🔧 Kỹ thuật & Vận hành",
+    "usageExplanation": "Trong cơ khí, đây là sai lệch tối đa được chấp nhận. Còn có nghĩa chung là sự chịu đựng.",
+    "collocations": [
+      "tight tolerance (dung sai chặt)",
+      "within tolerance (trong mức cho phép)",
+      "tolerance level (mức dung sai)"
+    ],
+    "exampleEn": "The part must be made within a tolerance of 0.01 millimeters.",
+    "exampleVi": "Chi tiết phải được gia công với dung sai 0,01 mm."
+  },
+  {
+    "word": "ventilation",
+    "ipa": "/ˌven.t̬əlˈeɪ.ʃən/",
+    "stress": "ven-tuh-LEY-shuhn (Trọng âm 3)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Hệ thống hoặc sự thông gió cho không gian làm việc",
+    "careerTag": "🏗️ Xây dựng & An toàn",
+    "usageExplanation": "Quan trọng ở hầm, xưởng sơn, nhà máy hóa chất để tránh khí độc.",
+    "collocations": [
+      "proper ventilation (thông gió tốt)",
+      "ventilation system (hệ thống thông gió)",
+      "poor ventilation (thông gió kém)"
+    ],
+    "exampleEn": "Good ventilation is required in the paint workshop.",
+    "exampleVi": "Xưởng sơn cần có thông gió tốt."
+  },
+  {
+    "word": "logistics",
+    "ipa": "/ləˈdʒɪs.tɪks/",
+    "stress": "luh-JIS-tiks (Trọng âm 2)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Hoạt động tổ chức vận chuyển, lưu kho và phân phối hàng",
+    "careerTag": "🚚 Chuỗi cung ứng & Logistics",
+    "usageExplanation": "Là danh từ số nhiều về hình thức nhưng thường đi với động từ số ít. Dùng cho cả ngành nghề.",
+    "collocations": [
+      "logistics company (công ty logistics)",
+      "logistics manager (quản lý logistics)",
+      "handle the logistics (lo phần hậu cần)"
+    ],
+    "exampleEn": "She works in logistics for an international shipping firm.",
+    "exampleVi": "Cô ấy làm logistics cho một hãng vận tải quốc tế."
+  },
+  {
+    "word": "freight",
+    "ipa": "/freɪt/",
+    "stress": "FREYT (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Hàng hóa được vận chuyển với số lượng lớn",
+    "careerTag": "🚚 Chuỗi cung ứng & Logistics",
+    "usageExplanation": "Dùng cho hàng chuyên chở bằng tàu, máy bay, xe tải hoặc tàu hỏa; cũng chỉ cước vận chuyển.",
+    "collocations": [
+      "air freight (vận chuyển hàng không)",
+      "freight train (tàu chở hàng)",
+      "freight charges (cước vận chuyển)"
+    ],
+    "exampleEn": "The freight arrived at the port two days late.",
+    "exampleVi": "Lô hàng đến cảng chậm hai ngày."
+  },
+  {
+    "word": "dispatch",
+    "ipa": "/dɪˈspætʃ/",
+    "stress": "dih-SPACH (Trọng âm 2)",
+    "pos": "Động từ (v)",
+    "meaningVi": "Điều phái hoặc gửi đi hàng hóa, xe, nhân sự",
+    "careerTag": "🚚 Chuỗi cung ứng & Logistics",
+    "usageExplanation": "Dùng khi gửi hàng đi hoặc điều xe đến địa điểm. Cũng là danh từ chỉ bộ phận điều phối.",
+    "collocations": [
+      "dispatch a truck (điều xe đi)",
+      "dispatch goods (gửi hàng đi)",
+      "dispatch center (trung tâm điều phối)"
+    ],
+    "exampleEn": "We dispatch all orders within 24 hours.",
+    "exampleVi": "Chúng tôi gửi mọi đơn hàng đi trong vòng 24 giờ."
+  },
+  {
+    "word": "pallet",
+    "ipa": "/ˈpæl.ət/",
+    "stress": "PAL-it (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Tấm kê bằng gỗ hoặc nhựa để xếp hàng cho xe nâng",
+    "careerTag": "🚚 Chuỗi cung ứng & Logistics",
+    "usageExplanation": "Rất phổ biến trong kho; hàng thường được xếp và quấn màng co trên đó.",
+    "collocations": [
+      "wooden pallet (pallet gỗ)",
+      "stack pallets (xếp chồng pallet)",
+      "a pallet of goods (một pallet hàng)"
+    ],
+    "exampleEn": "Each pallet holds forty boxes of tiles.",
+    "exampleVi": "Mỗi pallet chứa bốn mươi hộp gạch."
+  },
+  {
+    "word": "procurement",
+    "ipa": "/prəˈkjʊr.mənt/",
+    "stress": "pruh-KYOOR-muhnt (Trọng âm 2)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Việc mua sắm vật tư, hàng hóa cho doanh nghiệp",
+    "careerTag": "🚚 Chuỗi cung ứng & Logistics",
+    "usageExplanation": "Dùng trong bộ phận thu mua của công ty, trang trọng hơn 'buying'.",
+    "collocations": [
+      "procurement process (quy trình mua sắm)",
+      "procurement manager (quản lý thu mua)",
+      "public procurement (mua sắm công)"
+    ],
+    "exampleEn": "The procurement team negotiated a better price for steel.",
+    "exampleVi": "Nhóm thu mua đã thương lượng được giá thép tốt hơn."
+  },
+  {
+    "word": "fabricate",
+    "ipa": "/ˈfæb.rɪ.keɪt/",
+    "stress": "FAB-ri-keyt (Trọng âm 1)",
+    "pos": "Động từ (v)",
+    "meaningVi": "Chế tạo hoặc gia công các bộ phận, nhất là từ kim loại",
+    "careerTag": "🏭 Sản xuất",
+    "usageExplanation": "Trong công nghiệp nghĩa là chế tạo; ngoài đời cũng có nghĩa là bịa đặt thông tin.",
+    "collocations": [
+      "fabricate parts (chế tạo chi tiết)",
+      "fabricate steel (gia công thép)",
+      "fabricated metal (kim loại gia công)"
+    ],
+    "exampleEn": "The company fabricates steel frames for bridges.",
+    "exampleVi": "Công ty chế tạo khung thép cho các cây cầu."
+  },
+  {
+    "word": "welding",
+    "ipa": "/ˈwel.dɪŋ/",
+    "stress": "WEL-ding (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Công việc hàn các mảnh kim loại lại với nhau",
+    "careerTag": "🏭 Sản xuất",
+    "usageExplanation": "Chỉ nghề hoặc kỹ thuật hàn trong xưởng cơ khí, đóng tàu, xây dựng.",
+    "collocations": [
+      "welding machine (máy hàn)",
+      "welding torch (mỏ hàn)",
+      "arc welding (hàn hồ quang)"
+    ],
+    "exampleEn": "Welding requires gloves and a protective mask.",
+    "exampleVi": "Công việc hàn cần găng tay và mặt nạ bảo hộ."
+  },
+  {
+    "word": "hydraulic",
+    "ipa": "/haɪˈdrɔː.lɪk/",
+    "stress": "hy-DRAW-lik (Trọng âm 2)",
+    "pos": "Tính từ (adj)",
+    "meaningVi": "Thuộc hệ thống dùng áp lực chất lỏng để vận hành",
+    "careerTag": "🔧 Kỹ thuật & Vận hành",
+    "usageExplanation": "Mô tả máy xúc, máy ép, phanh dùng dầu thủy lực.",
+    "collocations": [
+      "hydraulic pump (bơm thủy lực)",
+      "hydraulic press (máy ép thủy lực)",
+      "hydraulic system (hệ thống thủy lực)"
+    ],
+    "exampleEn": "The excavator's hydraulic system needs repair.",
+    "exampleVi": "Hệ thống thủy lực của máy xúc cần được sửa chữa."
+  },
+  {
+    "word": "machinery",
+    "ipa": "/məˈʃiː.nɚ.i/",
+    "stress": "muh-SHEE-nuh-ree (Trọng âm 2)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Máy móc nói chung dùng trong sản xuất, xây dựng",
+    "careerTag": "🏭 Sản xuất",
+    "usageExplanation": "Là danh từ không đếm được: không nói 'a machinery'. Dùng 'a piece of machinery'.",
+    "collocations": [
+      "heavy machinery (máy móc hạng nặng)",
+      "operate machinery (vận hành máy móc)",
+      "agricultural machinery (máy nông nghiệp)"
+    ],
+    "exampleEn": "Workers must wear ear protection near heavy machinery.",
+    "exampleVi": "Công nhân phải đeo bảo vệ tai gần máy móc hạng nặng."
+  },
+  {
+    "word": "compliance",
+    "ipa": "/kəmˈplaɪ.əns/",
+    "stress": "kuhm-PLY-uhns (Trọng âm 2)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Sự tuân thủ quy định, tiêu chuẩn hoặc luật",
+    "careerTag": "🏗️ Xây dựng & An toàn",
+    "usageExplanation": "Dùng khi nhà máy hay công trường phải đáp ứng quy chuẩn an toàn, môi trường.",
+    "collocations": [
+      "in compliance with (tuân thủ theo)",
+      "safety compliance (tuân thủ an toàn)",
+      "compliance officer (cán bộ tuân thủ)"
+    ],
+    "exampleEn": "The plant passed the compliance inspection last week.",
+    "exampleVi": "Nhà máy đã vượt qua đợt kiểm tra tuân thủ tuần trước."
+  },
+  {
+    "word": "ergonomic",
+    "ipa": "/ˌɝː.ɡəˈnɑː.mɪk/",
+    "stress": "er-guh-NAH-mik (Trọng âm 3)",
+    "pos": "Tính từ (adj)",
+    "meaningVi": "Thiết kế phù hợp cơ thể để giảm mệt mỏi và chấn thương",
+    "careerTag": "🏗️ Xây dựng & An toàn",
+    "usageExplanation": "Dùng cho ghế, dụng cụ, vị trí làm việc nhằm bảo vệ người lao động.",
+    "collocations": [
+      "ergonomic design (thiết kế công thái học)",
+      "ergonomic chair (ghế công thái học)",
+      "ergonomic tools (dụng cụ công thái học)"
+    ],
+    "exampleEn": "The factory bought ergonomic tools to reduce back injuries.",
+    "exampleVi": "Nhà máy mua dụng cụ công thái học để giảm chấn thương lưng."
+  },
+  {
+    "word": "foundation",
+    "ipa": "/faʊnˈdeɪ.ʃən/",
+    "stress": "fown-DEY-shuhn (Trọng âm 2)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Phần móng chịu lực của công trình",
+    "careerTag": "🏗️ Xây dựng & An toàn",
+    "usageExplanation": "Trong xây dựng là phần móng; nghĩa bóng là nền tảng của một việc.",
+    "collocations": [
+      "lay the foundation (đổ móng)",
+      "concrete foundation (móng bê tông)",
+      "deep foundation (móng sâu)"
+    ],
+    "exampleEn": "The crew poured concrete for the building's foundation.",
+    "exampleVi": "Đội thợ đổ bê tông cho phần móng của tòa nhà."
+  },
+  {
+    "word": "excavate",
+    "ipa": "/ˈek.skə.veɪt/",
+    "stress": "EK-skuh-veyt (Trọng âm 1)",
+    "pos": "Động từ (v)",
+    "meaningVi": "Đào đất hoặc khai quật để làm móng, hầm",
+    "careerTag": "🏗️ Xây dựng & An toàn",
+    "usageExplanation": "Dùng ở công trường khi đào móng, hố, đường hầm bằng máy xúc.",
+    "collocations": [
+      "excavate the site (đào mặt bằng)",
+      "excavate a tunnel (đào hầm)",
+      "excavate soil (đào đất)"
+    ],
+    "exampleEn": "They had to excavate five meters to reach solid rock.",
+    "exampleVi": "Họ phải đào sâu năm mét để chạm tới nền đá cứng."
+  },
+  {
+    "word": "supplier",
+    "ipa": "/səˈplaɪ.ɚ/",
+    "stress": "suh-PLY-er (Trọng âm 2)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Bên cung cấp nguyên liệu hoặc hàng hóa",
+    "careerTag": "🚚 Chuỗi cung ứng & Logistics",
+    "usageExplanation": "Chỉ công ty cung ứng nguyên vật liệu cho nhà máy; là mắt xích đầu của chuỗi cung ứng.",
+    "collocations": [
+      "reliable supplier (nhà cung cấp đáng tin)",
+      "main supplier (nhà cung cấp chính)",
+      "supplier contract (hợp đồng nhà cung cấp)"
+    ],
+    "exampleEn": "We are looking for a new supplier of raw materials.",
+    "exampleVi": "Chúng tôi đang tìm nhà cung cấp nguyên liệu mới."
+  },
+  {
+    "word": "consignment",
+    "ipa": "/kənˈsaɪn.mənt/",
+    "stress": "kuhn-SYN-muhnt (Trọng âm 2)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Lô hàng được gửi đi để giao cho người nhận",
+    "careerTag": "🚚 Chuỗi cung ứng & Logistics",
+    "usageExplanation": "Dùng trong vận tải và hải quan; cũng có nghĩa hàng ký gửi để bán.",
+    "collocations": [
+      "a consignment of goods (một lô hàng)",
+      "consignment note (phiếu gửi hàng)",
+      "on consignment (ký gửi)"
+    ],
+    "exampleEn": "The consignment was held at customs for inspection.",
+    "exampleVi": "Lô hàng bị giữ tại hải quan để kiểm tra."
+  },
+  {
+    "word": "lubricant",
+    "ipa": "/ˈluː.brɪ.kənt/",
+    "stress": "LOO-bri-kuhnt (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Chất bôi trơn giúp giảm ma sát giữa các bộ phận máy",
+    "careerTag": "🔧 Kỹ thuật & Vận hành",
+    "usageExplanation": "Dầu hoặc mỡ dùng trong bảo dưỡng máy; động từ là lubricate.",
+    "collocations": [
+      "industrial lubricant (chất bôi trơn công nghiệp)",
+      "apply lubricant (bôi chất bôi trơn)",
+      "synthetic lubricant (chất bôi trơn tổng hợp)"
+    ],
+    "exampleEn": "Apply the lubricant to the gears every week.",
+    "exampleVi": "Hãy bôi chất bôi trơn lên các bánh răng mỗi tuần."
+  },
+  {
+    "word": "durability",
+    "ipa": "/ˌdʊr.əˈbɪl.ə.t̬i/",
+    "stress": "door-uh-BIL-uh-tee (Trọng âm 3)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Độ bền của vật liệu hoặc sản phẩm khi dùng lâu dài",
+    "careerTag": "🔧 Kỹ thuật & Vận hành",
+    "usageExplanation": "Dùng khi đánh giá vật liệu, máy móc hoặc sản phẩm chịu mài mòn tốt đến đâu.",
+    "collocations": [
+      "test the durability (kiểm tra độ bền)",
+      "long-term durability (độ bền lâu dài)",
+      "durability of materials (độ bền vật liệu)"
+    ],
+    "exampleEn": "The test measures the durability of the new material.",
+    "exampleVi": "Bài kiểm tra đo độ bền của vật liệu mới."
+  },
+  {
+    "word": "blueprint",
+    "ipa": "/ˈbluː.prɪnt/",
+    "stress": "BLOO-print (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Bản vẽ kỹ thuật chi tiết của công trình hoặc máy",
+    "careerTag": "🔧 Kỹ thuật & Vận hành",
+    "usageExplanation": "Dùng cho bản vẽ thiết kế; nghĩa bóng là kế hoạch chi tiết.",
+    "collocations": [
+      "read a blueprint (đọc bản vẽ)",
+      "detailed blueprint (bản vẽ chi tiết)",
+      "follow the blueprint (làm theo bản vẽ)"
+    ],
+    "exampleEn": "The foreman checked the blueprint before starting construction.",
+    "exampleVi": "Quản đốc kiểm tra bản vẽ trước khi bắt đầu thi công."
+  },
+  {
+    "word": "contractor",
+    "ipa": "/ˈkɑːn.træk.tɚ/",
+    "stress": "KAHN-trak-ter (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Nhà thầu hoặc đơn vị nhận thi công theo hợp đồng",
+    "careerTag": "🏗️ Xây dựng & An toàn",
+    "usageExplanation": "Dùng trong xây dựng cho người hoặc công ty nhận thầu công việc; khác với nhân viên chính thức.",
+    "collocations": [
+      "general contractor (tổng thầu)",
+      "hire a contractor (thuê nhà thầu)",
+      "electrical contractor (nhà thầu điện)"
+    ],
+    "exampleEn": "The contractor promised to finish the bridge by June.",
+    "exampleVi": "Nhà thầu hứa hoàn thành cây cầu trước tháng Sáu."
+  },
+  {
+    "word": "shutdown",
+    "ipa": "/ˈʃʌt.daʊn/",
+    "stress": "SHUT-down (Trọng âm 1)",
+    "pos": "Danh từ (n)",
+    "meaningVi": "Việc dừng hoạt động của nhà máy hoặc máy móc",
+    "careerTag": "🏭 Sản xuất",
+    "usageExplanation": "Dùng khi dừng dây chuyền để bảo trì hoặc do sự cố. Động từ là 'shut down' viết rời.",
+    "collocations": [
+      "emergency shutdown (dừng khẩn cấp)",
+      "plant shutdown (nhà máy ngừng hoạt động)",
+      "scheduled shutdown (dừng theo kế hoạch)"
+    ],
+    "exampleEn": "The emergency shutdown prevented a serious accident.",
+    "exampleVi": "Việc dừng khẩn cấp đã ngăn một tai nạn nghiêm trọng."
+  }
+]

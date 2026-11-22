@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+  <title>TikTok Live Vocab Studio</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="connection-lost hidden" id="connectionLost">⚠️ Mất kết nối server — đang thử lại...</div>
+
+  <div class="studio-wrapper">
+    <main id="phoneFrame" class="phone-frame">
+      <div class="bg-glow bg-glow-1"></div>
+      <div class="bg-glow bg-glow-2"></div>
+      <canvas id="confettiCanvas" class="confetti-canvas"></canvas>
+
+      <!-- ===================== VÙNG AN TOÀN 2/3 TRÊN ===================== -->
+      <section class="safe-zone-top">
+        <header class="live-header">
+          <div class="session-pill" id="openTopicModalBtn" title="Chọn / sắp xếp chủ đề">
+            <span class="live-dot"></span>
+            <span class="session-icon" id="topicIcon">📚</span>
+            <div class="session-meta">
+              <div class="session-title-row">
+                <span class="session-name" id="topicTitle">Đang tải...</span>
+                <span class="session-progress" id="wordProgress">0/0</span>
+              </div>
+              <span class="session-subtitle" id="topicSubtitle">Chủ đề hiện tại</span>
+            </div>
+          </div>
+
+          <div class="header-actions host-only">
+            <a href="/bxh" target="_blank" class="icon-chip link-chip" title="Mở trang BXH">🏆</a>
+            <button id="soundToggleBtn" class="icon-chip" title="Âm thanh trên thiết bị này">🔇</button>
+            <button id="openTikTokModalBtn" class="tiktok-status-chip" title="Kết nối TikTok Live">
+              <span class="conn-dot" id="tiktokConnDot"></span>
+              <span id="tiktokConnText">TikTok</span>
+            </button>
+            <button id="openSettingsModalBtn" class="icon-chip" title="Cài đặt">⚙️</button>
+          </div>
+        </header>
+
+        <div class="cta-leaderboard-bar">
+          <div class="cta-banner">⌨️ <span>Comment <strong>từ tiếng Anh</strong> vào chat!</span></div>
+          <div class="slot-cap-badge" id="participantBadge" title="Người tham gia phiên live / giới hạn">👥 <span id="participantText">0</span></div>
+          <div class="mini-leaderboard" id="miniLeaderboard"></div>
+        </div>
+
+        <div class="timer-bar-wrapper">
+          <div class="timer-info-row">
+            <span class="phase-badge" id="phaseBadge">⏳ ĐANG ĐOÁN TỪ</span>
+            <div class="career-tag-pill" id="careerTag">—</div>
+            <span class="timer-countdown" id="timerText">--</span>
+          </div>
+          <div class="timer-progress-track"><div class="timer-progress-fill" id="timerFill"></div></div>
+        </div>
+
+        <article class="quiz-card" id="quizCard">
+          <!-- CÂU HỎI + GIẢI THÍCH -->
+          <div id="questionPanel" class="question-explain-wrapper">
+            <!-- NGHĨA TIẾNG VIỆT TO RÕ Ở VỊ TRÍ TRỌNG TÂM (NHƯ LIVE MẪU) -->
+            <div class="meaning-box" id="meaningBox">
+              <div class="meaning-header-row">
+                <span class="meaning-label">🇻🇳 NGHĨA TIẾNG VIỆT</span>
+                <button type="button" id="speakMeaningBtn" class="speak-btn mini-speak-btn" title="Đọc lại gợi ý tiếng Việt">🔊 Nghe lại</button>
+              </div>
+              <h2 class="meaning-text" id="meaningText">—</h2>
+              <div class="phonetic-sub-row">
+                <span class="ipa-string" id="ipaText">/.../</span>
+                <span class="pos-badge" id="posText">—</span>
+                <span class="stress-hint" id="stressText"></span>
+              </div>
+            </div>
+
+            <!-- DÃY Ô CHỮ ĐIỀN TỪ -->
+            <div class="word-slots-section">
+              <div class="slots-header">
+                <span id="lengthText">—</span>
+                <span id="hintStatus" class="hint-status"></span>
+              </div>
+              <div class="word-slots-container" id="slotsContainer"></div>
+              <div class="slots-sub-cue">Ai sẽ là người nhanh nhất? ⚡</div>
+            </div>
+
+            <!-- KHUNG LƯU Ý LUẬT CHƠI ĐỘC QUYỀN (NHƯ TRÊN LIVE MẪU) -->
+            <div class="live-rules-box stream-only" id="liveRulesBox">
+              <div class="rule-line">👉 Đọc nghĩa tiếng Việt, gõ <strong>từ tiếng Anh</strong> • Top 3 bạn nhanh nhất được điểm</div>
+              <div class="rule-line" id="giftRuleLine">🎁 Tặng quà (xem bảng dưới) ➔ <strong>ĐỔI CHỦ ĐỀ</strong> • quà khác ➔ chủ đề kế tiếp</div>
+              <div class="rule-line highlight">🔒 Game <strong>ĐỘC QUYỀN</strong> chỉ có trên LIVE này — không có app, không có web</div>
+            </div>
+
+            <div class="explanation-panel hidden" id="explanationPanel">
+              <div class="winners-box" id="winnersBox"></div>
+              <div class="late-window hidden" id="lateWindow">⏳ Vẫn nhận đáp án thêm <strong id="lateWindowSec">0</strong>s cho bạn xem bị trễ live</div>
+
+              <div class="usage-explanation-box">
+                <span class="usage-badge">💡 CÁCH DÙNG TRONG THỰC TẾ</span>
+                <p class="usage-text" id="usageText"></p>
+                <div class="collocations-group">
+                  <span class="collocations-title">🔥 Cụm từ hay đi kèm:</span>
+                  <div class="collocations-list" id="collocationsList"></div>
+                </div>
+                <div class="example-box">
+                  <div class="example-en-row">
+                    <span class="example-en" id="exampleEnText"></span>
+                    <button id="speakExampleBtn" class="mini-speak-btn host-only">🔊</button>
+                  </div>
+                  <div class="example-vi" id="exampleViText"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- BẢNG XẾP HẠNG SAU MỖI CÂU -->
+          <div id="boardPanel" class="leaderboard-spotlight-panel hidden">
+            <div class="lbs-header">
+              <div class="lbs-title-group">
+                <span class="lbs-trophy-icon">🏆</span>
+                <div>
+                  <h3 class="lbs-title">BẢNG XẾP HẠNG PHIÊN LIVE</h3>
+                  <p class="lbs-subtitle" id="boardSubtitle"></p>
+                </div>
+              </div>
+            </div>
+            <div class="lbs-podium" id="podium"></div>
+            <div class="lbs-rank-list" id="rankList"></div>
+            <div class="alltime-strip" id="allTimeStrip"></div>
+          </div>
+        </article>
+
+        <!-- BẢNG TƯƠNG TÁC QUÀ TẶNG & REAL-TIME FEED (CHUẨN TIKTOK LIVE) -->
+        <div class="stream-interactive-dashboard stream-only" id="streamDashboard">
+          <!-- Hàng TẶNG QUÀ ĐỔI ĐỀ -->
+          <div class="gift-exchange-bar" id="giftBar">
+            <div class="gift-bar-header">
+              <span class="gift-bar-title">🎁 TẶNG QUÀ ĐỔI ĐỀ</span>
+              <span class="gift-bar-tag">Tương tác trực tiếp</span>
+            </div>
+            <div class="gift-items-row">
+              <div class="gift-chip"><span class="gift-icon">🌹</span><span class="gift-name">Đời sống</span><span class="gift-cost">Rose</span></div>
+              <div class="gift-chip"><span class="gift-icon">💖</span><span class="gift-name">Công sở</span><span class="gift-cost">Finger Heart</span></div>
+              <div class="gift-chip"><span class="gift-icon">🍦</span><span class="gift-name">Công nghệ</span><span class="gift-cost">Ice Cream</span></div>
+              <div class="gift-chip"><span class="gift-icon">🍩</span><span class="gift-name">Nhà hàng</span><span class="gift-cost">Doughnut</span></div>
+              <div class="gift-chip"><span class="gift-icon">🫶</span><span class="gift-name">Y tế</span><span class="gift-cost">Hand Heart</span></div>
+              <div class="gift-chip"><span class="gift-icon">🎁</span><span class="gift-name">Kỹ thuật</span><span class="gift-cost">TikTok</span></div>
+            </div>
+          </div>
+
+          <!-- Hai cột: THỨ TỰ MÁY CHỦ NHẬN & BẢNG ĐIỂM -->
+          <div class="dual-stream-panels">
+            <div class="stream-subpanel live-feed-subpanel">
+              <div class="subpanel-header">
+                <span class="subpanel-title">💬 MÁY CHỦ NHẬN</span>
+                <span class="live-pulse-badge">● TRỰC TIẾP</span>
+              </div>
+              <div class="stream-live-feed" id="streamLiveFeed">
+                <div class="feed-empty-tip">Chờ đáp án từ bình luận TikTok...</div>
+              </div>
+            </div>
+
+            <div class="stream-subpanel leaderboard-subpanel">
+              <div class="subpanel-header">
+                <span class="subpanel-title">🏆 BẢNG ĐIỂM</span>
+                <span class="subpanel-tag">Phiên live</span>
+              </div>
+              <div class="stream-leaderboard-list" id="streamLeaderboardList">
+                <div class="feed-empty-tip">Chưa có điểm, hãy comment nhanh!</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ===================== VÙNG 1/3 DƯỚI (TikTok che chat ở đây) ===================== -->
+      <section class="bottom-interaction-zone">
+        <div class="tiktok-safezone-guide hidden" id="safezoneGuide">
+          <div class="tt-guide-label">⚠️ VÙNG TIKTOK CHE (CHAT & QUÀ)</div>
+          <div class="tt-guide-right"><span>❤️</span><span>💬</span><span>🎁</span><span>↗️</span></div>
+        </div>
+
+        <div class="stream-footer stream-only" id="streamFooter">
+          <span>🎯 Top 3 người đoán đúng nhanh nhất nhận <strong id="pointsText">10/7/5</strong> điểm • Gõ từ tiếng Anh vào bình luận để ghi điểm!</span>
+        </div>
+
+        <div class="live-chat-feed host-only" id="chatFeed"></div>
+
+        <form id="answerForm" class="answer-input-bar host-only" autocomplete="off">
+          <input type="text" id="answerInput" class="answer-input" placeholder="Thử trả lời (Host, không tính BXH tổng)..." autocapitalize="none" spellcheck="false" />
+          <button type="submit" class="send-answer-btn">Gửi</button>
+        </form>
+
+        <div class="host-quick-toolbar host-only">
+          <button type="button" class="toolbar-btn" data-cmd="hint">💡 Mở chữ</button>
+          <button type="button" class="toolbar-btn" data-cmd="reveal">👁️ Đáp án</button>
+          <button type="button" class="toolbar-btn gold" data-cmd="board">🏆 BXH</button>
+          <button type="button" class="toolbar-btn" data-cmd="next">⏭️ Câu tiếp</button>
+          <button type="button" class="toolbar-btn" data-cmd="pause" id="pauseBtn">⏸️ Dừng</button>
+          <button type="button" class="toolbar-btn accent" id="previewStreamBtn">🎬 Xem như live</button>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <!-- ===================== MODAL: CHỦ ĐỀ ===================== -->
+  <div class="modal-backdrop hidden" id="topicModal">
+    <div class="modal-sheet">
+      <div class="modal-header">
+        <div>
+          <h3>📚 Chủ đề & thứ tự phát</h3>
+          <p class="modal-subtitle">Phiên live sẽ chạy lần lượt các chủ đề theo thứ tự này</p>
+        </div>
+        <button class="modal-close-btn" data-close="topicModal">✕</button>
+      </div>
+      <div class="modal-body">
+        <div class="playlist-options-bar">
+          <label class="toggle-switch-label"><input type="checkbox" data-config="autoRotateTopics" /> <span>🔄 Hết từ thì tự chuyển chủ đề kế tiếp</span></label>
+          <label class="toggle-switch-label"><input type="checkbox" data-config="shuffleWords" /> <span>🎲 Xáo trộn thứ tự từ trong chủ đề</span></label>
+        </div>
+        <div class="session-list" id="topicList"></div>
+
+        <details class="add-word-accordion">
+          <summary>📥 Nhập nhiều từ vào chủ đề đang chọn (CSV / JSON)</summary>
+          <form id="importForm" class="custom-word-form">
+            <p class="helper-text">Dòng đầu là tiêu đề cột. Bắt buộc: <code>word,ipa,meaningVi</code>. Tuỳ chọn: <code>pos,stress,usageExplanation,collocations,exampleEn,exampleVi,careerTag</code> (collocations ngăn cách bằng <code>|</code>). Có thể dán thẳng từ Google Sheets.</p>
+            <textarea id="importText" rows="6" placeholder="word,ipa,meaningVi,usageExplanation,collocations,exampleEn,exampleVi&#10;deadline,/ˈded.laɪn/,Hạn chót,Dùng meet/miss a deadline,meet the deadline|tight deadline,We met the deadline.,Chúng tôi kịp hạn chót."></textarea>
+            <button type="submit" class="primary-btn full-width">📥 Nhập vào chủ đề hiện tại</button>
+            <p class="helper-text" id="importResult"></p>
+          </form>
+        </details>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===================== MODAL: TIKTOK ===================== -->
+  <div class="modal-backdrop hidden" id="tiktokModal">
+    <div class="modal-sheet">
+      <div class="modal-header">
+        <div>
+          <h3>📡 Kết nối TikTok Live</h3>
+          <p class="modal-subtitle">Server đọc comment và tự chấm điểm — chỉ cần TikTok ID</p>
+        </div>
+        <button class="modal-close-btn" data-close="tiktokModal">✕</button>
+      </div>
+      <div class="modal-body">
+        <div class="connection-card">
+          <label class="field-label">TikTok ID đang phát live:</label>
+          <div class="input-with-btn">
+            <input type="text" id="tiktokUsernameInput" placeholder="@ten_kenh" />
+            <button id="connectTikTokBtn" class="primary-btn">Kết nối</button>
+            <button id="disconnectTikTokBtn" class="danger-btn hidden">Ngắt</button>
+          </div>
+          <p class="conn-status-msg" id="tiktokStatusMsg">Chưa kết nối.</p>
+        </div>
+
+        <div class="lan-info-card">
+          <h4>📱 Cách treo live</h4>
+          <p class="helper-text" id="lanInfo">Đang lấy địa chỉ mạng...</p>
+        </div>
+
+        <div class="simulation-card">
+          <h4>🧪 Chế độ demo (chỉ để thử)</h4>
+          <p class="helper-text">Bot có tiền tố 🤖, không được tính vào BXH tổng. Nên tắt khi live thật để không gây hiểu nhầm cho người xem.</p>
+          <label class="toggle-switch-label"><input type="checkbox" data-config="demoBots" /> <span>Bật bot demo tự trả lời</span></label>
+          <button type="button" class="secondary-btn full-width" data-cmd="simCorrect" style="margin-top:8px">⚡ Bot trả lời đúng câu này</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===================== MODAL: CÀI ĐẶT ===================== -->
+  <div class="modal-backdrop hidden" id="settingsModal">
+    <div class="modal-sheet">
+      <div class="modal-header">
+        <div>
+          <h3>⚙️ Cài đặt phiên live</h3>
+          <p class="modal-subtitle">Lưu trên server — áp dụng cho mọi màn hình</p>
+        </div>
+        <button class="modal-close-btn" data-close="settingsModal">✕</button>
+      </div>
+
+      <div class="modal-body settings-grid">
+        <div class="hardware-monitor-card">
+          <div class="hw-header-row">
+            <span class="hw-title">💻 Phần cứng & giới hạn người tham gia</span>
+            <span class="hw-fps-pill" id="fpsPill">-- FPS</span>
+          </div>
+          <p class="hw-specs-line" id="hwSpecs">Đang đo...</p>
+          <div class="hw-tier-presets">
+            <button type="button" class="hw-preset-btn" data-cap="100"><span>🔋 Máy yếu</span><strong>100 người</strong></button>
+            <button type="button" class="hw-preset-btn" data-cap="300"><span>⚡ Cân bằng</span><strong>300 người</strong></button>
+            <button type="button" class="hw-preset-btn" data-cap="1000"><span>🚀 Máy khỏe</span><strong>1000 người</strong></button>
+          </div>
+          <div class="setting-label-row">
+            <label>👥 Tối đa người tham gia / phiên live</label>
+            <strong data-label="maxParticipants"></strong>
+          </div>
+          <input type="range" data-config="maxParticipants" min="10" max="2000" step="10" />
+          <div class="hw-stats-row">
+            <span>Đang tham gia: <strong id="statParticipants">0</strong></span>
+            <span>Bị từ chối (đầy): <strong id="statDropped">0</strong></span>
+          </div>
+          <label class="toggle-switch-label"><input type="checkbox" data-config="resetParticipantsOnTopicChange" /> <span>🔄 Mở lại slot khi sang chủ đề mới</span></label>
+          <button type="button" class="secondary-btn full-width" data-cmd="resetParticipants">🔓 Mở lại toàn bộ slot ngay</button>
+        </div>
+
+        <div class="setting-item">
+          <div class="setting-label-row"><label>⏱️ Thời gian đoán</label><strong data-label="guessSec"></strong></div>
+          <input type="range" data-config="guessSec" min="10" max="60" step="5" />
+        </div>
+        <div class="setting-item">
+          <div class="setting-label-row"><label>📖 Thời gian giải thích</label><strong data-label="explainSec"></strong></div>
+          <input type="range" data-config="explainSec" min="6" max="30" step="2" />
+        </div>
+        <div class="setting-item">
+          <div class="setting-label-row"><label>🏆 Thời gian hiện BXH (0 = bỏ qua)</label><strong data-label="leaderboardSec"></strong></div>
+          <input type="range" data-config="leaderboardSec" min="0" max="15" step="1" />
+        </div>
+        <div class="setting-item">
+          <div class="setting-label-row"><label>📶 Bù độ trễ live TikTok</label><strong data-label="streamDelaySec"></strong></div>
+          <input type="range" data-config="streamDelaySec" min="0" max="10" step="1" />
+          <p class="helper-text">Người xem thấy màn hình chậm hơn bạn vài giây. Sau khi mở đáp án, vẫn nhận câu trả lời đúng trong khoảng này (điểm hạng 2, 3...).</p>
+        </div>
+        <div class="setting-item">
+          <div class="setting-label-row"><label>🥇 Số người được thưởng mỗi câu</label><strong data-label="maxWinners"></strong></div>
+          <input type="range" data-config="maxWinners" min="1" max="5" step="1" />
+        </div>
+        <div class="setting-item">
+          <div class="setting-label-row"><label>🛡️ Chống spam đoán mò (mỗi người)</label><strong data-label="perUserCooldownMs"></strong></div>
+          <input type="range" data-config="perUserCooldownMs" min="0" max="5000" step="250" />
+        </div>
+        <div class="setting-item">
+          <label class="toggle-switch-label"><input type="checkbox" data-config="giftChangesTopic" /> <span>🎁 Đổi chủ đề khi có người tặng quà (donate)</span></label>
+          <div class="setting-label-row" style="margin-top:8px"><label>⏱️ Chờ giữa 2 lần đổi bằng quà</label><strong data-label="giftCooldownSec"></strong></div>
+          <input type="range" data-config="giftCooldownSec" min="0" max="120" step="5" />
+          <p class="helper-text">Rose → Đời sống • Finger Heart → Công sở • Ice Cream → Công nghệ • Doughnut → Nhà hàng • Hand Heart → Y tế • TikTok → Kỹ thuật • quà khác → chủ đề kế tiếp.</p>
+        </div>
+        <div class="setting-item">
+          <label class="toggle-switch-label"><input type="checkbox" data-config="autoHints" /> <span>💡 Tự mở dần chữ cái (55% và 75% thời gian)</span></label>
+          <label class="toggle-switch-label"><input type="checkbox" data-config="audioHint" /> <span>🔊 Gợi ý phát âm ở 35% thời gian</span></label>
+          <label class="toggle-switch-label"><input type="checkbox" id="safezoneToggle" /> <span>📐 Hiện khung vùng TikTok che (thiết bị này)</span></label>
+        </div>
+        <div class="setting-item">
+          <button type="button" class="primary-btn full-width" data-cmd="newLive" data-confirm="Bắt đầu phiên live mới? BXH phiên hiện tại sẽ được làm mới (BXH tổng vẫn giữ).">🎬 Bắt đầu phiên live mới</button>
+          <button type="button" class="secondary-btn full-width" data-cmd="resetAllTime" data-confirm="Xoá toàn bộ BXH tổng của mọi phiên?" style="margin-top:8px">🗑️ Xoá BXH tổng</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="/socket.io/socket.io.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
